@@ -1,0 +1,2454 @@
+PPD_ID,Gene Symbol,Gene ID,Protein concentration,Unit,Method,Sample type,Reference,Highest reported plasma protein level,Unit,Sample type
+HPRD_00726,A1BG,1,50,ug/ml,Spectral counting,Plasma,21632744,22,mg/ml,Plasma
+HPRD_00726,A1BG,1,39.77,ug/ml,Multiple reaction monitoring,Blood,23221968,39.77,ug/ml,Blood
+HPRD_00726,A1BG,1,132.8,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00726,A1BG,1,22,mg/ml,-,Plasma,20204147,,,
+HPRD_00726,A1BG,1,225,ug/ml,-,Plasma,15627965,,,
+HPRD_00726,A1BG,1,230,ug/ml,-,Plasma,20677825,,,
+HPRD_00072,A2M,2,220,ug/ml,Spectral counting,Plasma,21632744,2.756,mg/ml,Blood
+HPRD_00072,A2M,2,1.3-3.8,mg/ml,Single radial immunodiffusion,Serum,4172868,3.8,mg/ml,Serum
+HPRD_00072,A2M,2,1.609,mg/ml,Multiple reaction monitoring,Plasma,23592487,1.609,mg/ml,Plasma
+HPRD_00072,A2M,2,2.756,mg/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00072,A2M,2,1.4,mg/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00072,A2M,2,1.4,mg/ml,-,Plasma,19572557,,,
+HPRD_00072,A2M,2,1.4,mg/ml,-,Plasma,20677825,,,
+HPRD_00072,A2M,2,1.8,mg/ml,-,Plasma,19690635,,,
+HPRD_00072,A2M,2,1.8,mg/ml,-,Plasma,20204147,,,
+HPRD_00072,A2M,2,2,mg/ml,-,Plasma,12938928,,,
+HPRD_00072,A2M,2,2,mg/ml,-,Plasma,15627965,,,
+HPRD_00072,A2M,2,1.8,mg/ml,-,Plasma,15611012,,,
+HPRD_00072,A2M,2,1.6-3.8,mg/ml,-,Plasma,14961748,,,
+HPRD_00661,ABAT,18,9,ng/ml,Spectral counting,Plasma,21632744,9,ng/ml,Plasma
+HPRD_09380,ABI3BP,25890,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_12842,ABRACL,58527,32,ng/ml,Spectral counting,Plasma,21632744,32,ng/ml,Plasma
+HPRD_06815,ACAA1,30,26,ng/ml,Spectral counting,Plasma,21632744,26,ng/ml,Plasma
+HPRD_10380,ACAA2,10449,26,ng/ml,Spectral counting,Plasma,21632744,26,ng/ml,Plasma
+HPRD_01123,ACAN,176,7.1,ng/ml,Spectral counting,Plasma,21632744,7.1,ng/ml,Plasma
+HPRD_00006,ACAT2,39,7.6,ng/ml,Spectral counting,Plasma,21632744,7.6,ng/ml,Plasma
+HPRD_00108,ACE,1636,7.4,ng/ml,Spectral counting,Plasma,21632744,7.4,ng/ml,Plasma
+HPRD_00108,ACE,1636,120,ng/ml,-,Plasma,16335952,,,
+HPRD_00155,ACLY,47,1.1,ng/ml,Spectral counting,Plasma,21632744,1.1,ng/ml,Plasma
+HPRD_00013,ACO1,48,6.3,ng/ml,Spectral counting,Plasma,21632744,6.3,ng/ml,Plasma
+HPRD_01378,ACPP,55,3.5,ng/ml,-,Plasma,19690635,3.5,ng/ml,Plasma
+HPRD_18598,ACTBL2,345651,750,ng/ml,Spectral counting,Plasma,21632744,750,ng/ml,Plasma
+HPRD_00015,ACTC1,70,750,ng/ml,Spectral counting,Plasma,21632744,750,ng/ml,Plasma
+HPRD_00017,ACTG1,71,750,ng/ml,Spectral counting,Plasma,21632744,750,ng/ml,Plasma
+HPRD_00020,ACTN1,87,120,ng/ml,Spectral counting,Plasma,21632744,120,ng/ml,Plasma
+HPRD_05222,ACTN4,81,120,ng/ml,Spectral counting,Plasma,21632744,120,ng/ml,Plasma
+HPRD_05023,ACTR2,10097,13,ng/ml,Spectral counting,Plasma,21632744,13,ng/ml,Plasma
+HPRD_05024,ACTR3,10096,38,ng/ml,Spectral counting,Plasma,21632744,38,ng/ml,Plasma
+HPRD_00092,ACY1,95,30,ng/ml,Spectral counting,Plasma,21632744,30,ng/ml,Plasma
+HPRD_03777,ADAM8,101,267 ± 56,pg/ml,ELISA,Serum,15623614,267 ± 56,pg/ml,Serum
+HPRD_04091,ADAM9,8754,5,ng/ml,Spectral counting,Plasma,21632744,5,ng/ml,Plasma
+HPRD_07070,ADAMDEC1,27299,76,ng/ml,Spectral counting,Plasma,21632744,76,ng/ml,Plasma
+HPRD_04994,ADAMTS13,11093,1.2,ng/ml,Spectral counting,Plasma,21632744,1.2,ng/ml,Plasma
+HPRD_00063,ADH1A,124,74,ng/ml,Spectral counting,Plasma,21632744,74,ng/ml,Plasma
+HPRD_00065,ADH1B,125,74,ng/ml,Spectral counting,Plasma,21632744,74,ng/ml,Plasma
+HPRD_00066,ADH1C,126,74,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_00068,ADH4,127,12,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_00064,ADH5,128,11,ng/ml,Spectral counting,Plasma,21632744,10,ng/ml,Plasma
+HPRD_05671,ADIPOQ,9370,120,ng/ml,Spectral counting,Plasma,21632744,15.92,ug/ml,Serum
+HPRD_05671,ADIPOQ,9370,12.77 ± 3.15,ug/ml,Radioimmunoassay,serum,21226708,7.82,ug/ml,Plasma
+HPRD_05671,ADIPOQ,9370,7.1±0.72,ug/ml,ELISA,Plasma,16320084,,,
+HPRD_05671,ADIPOQ,9370,4.8,ug/ml,-,Plasma,15611012,,,
+HPRD_16575,ADIRF,10974,26,ng/ml,Spectral counting,Plasma,21632744,26,ng/ml,Plasma
+HPRD_00061,ADM,133,10,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00061,ADM,133,74,pg/ml,-,Plasma,19690635,,,
+HPRD_00073,AFM,173,320,ug/ml,Spectral counting,Plasma,21632744,5.72,ug/ml,Blood
+HPRD_00073,AFM,173,5.72,ug/ml,Multiple reaction monitoring,Blood,23221968,30,ug/ml,Serum
+HPRD_00073,AFM,173,35,ug/ml,Multiple reaction monitoring,Plasma,23245390,320,ug/ml,Plasma
+HPRD_00073,AFM,173,34.6-116.1,ug/ml,ELISA,Plasma,19336561,,,
+HPRD_00073,AFM,173,59.79_±_13.30,ug/ml,ELISA,Plasma,15952736,,,
+HPRD_00073,AFM,173,30,ug/ml,-,Serum,7517938,,,
+HPRD_00073,AFM,173,30,ug/ml,-,Serum,20204147,,,
+HPRD_00074,AFP,174,290,pg/ml,Immunoassay,Plasma,16038022,290,pg/ml,Plasma
+HPRD_00074,AFP,174,2,mg/ml,-,Plasma,12938928,,,
+HPRD_00074,AFP,174,5,ng/ml,-,Plasma,15627965,,,
+HPRD_00074,AFP,174,20,ng/ml,-,Plasma,19690635,,,
+HPRD_00074,AFP,174,50,ng/ml,-,Serum,7517938,,,
+HPRD_01949,AGA,175,9.6,ng/ml,Spectral counting,Plasma,21632744,9.6,ng/ml,Plasma
+HPRD_02568,AGER,177,0.41±0.17,ng/ml,ELISA,Plasma,21576827,0.41±0.17,ng/ml,Plasma
+HPRD_02568,AGER,177,1129.3 ± 80.1,pg/ml,ELISA,Plasma,22324318,,,
+HPRD_10550,AGRN,375790,3.9,ng/ml,Spectral counting,Plasma,21632744,3.9,ng/ml,Plasma
+HPRD_00106,AGT,183,11,ug/ml,Spectral counting,Plasma,21632744,47.6,ug/ml,Plasma
+HPRD_00106,AGT,183,10.54,ug/ml,Multiple reaction monitoring,Plasma,22577024,60.63,ug/ml,Blood
+HPRD_00106,AGT,183,47.6,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00106,AGT,183,60.63,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00106,AGT,183,1,ng/ml,-,Plasma,16335952,,,
+HPRD_00106,AGT,183,1.5,ug/ml,-,Serum,20204147,,,
+HPRD_00106,AGT,183,45,ug/ml,-,Plasma,12938928,,,
+HPRD_00106,AGT,183,45,ug/ml,-,Plasma,15627965,,,
+HPRD_00106,AGT,183,45,ug/ml,-,Plasma,20677825,,,
+HPRD_00106,AGT,183,1.5,ug/ml,-,Plasma,15611012,,,
+HPRD_05048,AGXT,189,21,ng/ml,Spectral counting,Plasma,21632744,21,ng/ml,Plasma
+HPRD_14684,AHNAK,79026,0.8,ng/ml,Spectral counting,Plasma,21632744,0.8,ng/ml,Plasma
+HPRD_00727,AHSG,197,82,ug/ml,Spectral counting,Plasma,21632744,1000,ug/ml,Serum
+HPRD_00727,AHSG,197,400-850,ug/ml,Single radial immunodiffusion,Serum,4172868,72.32,ug/ml,Blood
+HPRD_00727,AHSG,197,619 ± 96,mg/L,Radial immunodiffusion,serum,21226708,,,
+HPRD_00727,AHSG,197,72.32,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00727,AHSG,197,0.829 ± 0.100,g/L,ELISA,serum,19681840,,,
+HPRD_00727,AHSG,197,352.6 ± 55.3,ug/ml,ELISA,Serum,21053744,,,
+HPRD_00727,AHSG,197,630-1000,ug/ml,ELISA,Serum,18775894,,,
+HPRD_00727,AHSG,197,600,ug/ml,-,Plasma,12938928,,,
+HPRD_00727,AHSG,197,600,ug/ml,-,Serum,20204147,,,
+HPRD_00727,AHSG,197,610,ug/ml,-,Plasma,19690635,,,
+HPRD_00727,AHSG,197,625,ug/ml,-,Plasma,15627965,,,
+HPRD_00727,AHSG,197,630,ug/ml,-,Plasma,20677825,,,
+HPRD_00727,AHSG,197,14-440,ug/ml,-,Plasma,18633113,,,
+HPRD_00727,AHSG,197,810.89  ± 173.43,ug/ml,-,Serum,19931899,,,
+HPRD_12052,AHSP,51327,250,ng/ml,Spectral counting,Plasma,21632744,250,ng/ml,Plasma
+HPRD_02161,AIFM1,9131,1.4,ng/ml,Spectral counting,Plasma,21632744,1.4,ng/ml,Plasma
+HPRD_00069,AKR1A1,10327,3.6,ng/ml,Spectral counting,Plasma,21632744,3.6,ng/ml,Plasma
+HPRD_00071,AKR1B1,231,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_04911,AKR1C3,8644,2.1,ng/ml,Spectral counting,Plasma,21632744,2.1,ng/ml,Plasma
+HPRD_04567,AKR7A2,8574,4.1,ng/ml,Spectral counting,Plasma,21632744,4.1,ng/ml,Plasma
+HPRD_00504,ALAD,210,6.1,ng/ml,Spectral counting,Plasma,21632744,6.1,ng/ml,Plasma
+HPRD_00062,ALB,213,1.6,mg/ml,Spectral counting,Plasma,21632744,76,mg/ml,Blood
+HPRD_00062,ALB,213,39-55,mg/ml,Single radial immunodiffusion,Serum,4172868,55,mg/ml,Serum
+HPRD_00062,ALB,213,33.3,mg/ml,Multiple reaction monitoring,Plasma,22547352,42,mg/ml,Plasma
+HPRD_00062,ALB,213,36.38,mg/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00062,ALB,213,42,mg/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00062,ALB,213,76,mg/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00062,ALB,213,40,mg/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00062,ALB,213,40,mg/ml,-,Plasma,19572557,,,
+HPRD_00062,ALB,213,40,mg/ml,-,Plasma,20677825,,,
+HPRD_00062,ALB,213,41,mg/ml,-,Plasma,15611012,,,
+HPRD_00062,ALB,213,41,mg/ml,-,Plasma,19690635,,,
+HPRD_00062,ALB,213,45,mg/ml,-,Plasma,12938928,,,
+HPRD_00062,ALB,213,45,mg/ml,-,Plasma,15627965,,,
+HPRD_00062,ALB,213,35-50,mg/ml,-,serum,12543931,,,
+HPRD_00062,ALB,213,35-50,mg/ml,-,Plasma,14961748,,,
+HPRD_03389,ALCAM,214,57,ng/ml,Spectral counting,Plasma,21632744,57,ng/ml,Plasma
+HPRD_03389,ALCAM,214,16,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_03389,ALCAM,214,16,ng/ml,-,Plasma,16335952,,,
+HPRD_03389,ALCAM,214,16,ng/ml,-,Plasma,19572557,,,
+HPRD_03389,ALCAM,214,16,ng/ml,-,Plasma,20698492,,,
+HPRD_14394,ALDH16A1,126133,2.6,ng/ml,Spectral counting,Plasma,21632744,2.6,ng/ml,Plasma
+HPRD_00001,ALDH1A1,216,120,ng/ml,Spectral counting,Plasma,21632744,120,ng/ml,Plasma
+HPRD_00003,ALDH2,217,2.1,ng/ml,Spectral counting,Plasma,21632744,2.1,ng/ml,Plasma
+HPRD_04109,ALDH9A1,223,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_00070,ALDOA,226,250,ng/ml,Spectral counting,Plasma,21632744,250,ng/ml,Plasma
+HPRD_00070,ALDOA,226,130-210,ng/ml,Radioimmunoassay,Serum,6187427,210,ng/ml,Serum
+HPRD_00070,ALDOA,226,170,ng/ml,-,Plasma,19690635,,,
+HPRD_01972,ALDOB,229,240,ng/ml,Spectral counting,Plasma,21632744,240,ng/ml,Plasma
+HPRD_01972,ALDOB,229,20-60,ng/ml,Radioimmuno assay,Serum,3191454,60,ng/ml,Serum
+HPRD_01972,ALDOB,229,20,ng/ml,-,Plasma,19690635,,,
+HPRD_02386,ALDOC,230,250,ng/ml,Spectral counting,Plasma,21632744,250,ng/ml,Plasma
+HPRD_02386,ALDOC,230,4,ng/ml,-,Plasma,15611012,,,
+HPRD_02386,ALDOC,230,20,ng/ml,-,Plasma,19690635,,,
+HPRD_01377,ALPL,249,41,ng/ml,-,Plasma,19690635,41,ng/ml,Plasma
+HPRD_01467,AMBP,259,48,ug/ml,Spectral counting,Plasma,21632744,48,ug/ml,Plasma
+HPRD_01467,AMBP,259,25-83,ug/ml,single radial immunodiffusion,Serum,6159369,83,ug/ml,Serum
+HPRD_01467,AMBP,259,25,ug/ml,-,Plasma,15627965,,,
+HPRD_01467,AMBP,259,25,ug/ml,-,Plasma,20677825,,,
+HPRD_01467,AMBP,259,44,ug/ml,-,Serum,20204147,,,
+HPRD_01467,AMBP,259,60,ug/ml,-,Plasma,12938928,,,
+HPRD_00105,ANG,283,280,ng/ml,Spectral counting,Plasma,21632744,280,ng/ml,Plasma
+HPRD_00105,ANG,283,29-1835,ng/ml,ELISA,Serum,15182336,1835,ng/ml,Serum
+HPRD_00105,ANG,283,327.5-506.96,ng/ml,ELISA,Serum,21539846,,,
+HPRD_00105,ANG,283,400,ng/ml,-,Plasma,19690635,,,
+HPRD_03392,ANGPT1,284,1.045-7.422,ng/ml,ELISA,Plasma,20615083,47.71,ng/ml,Serum
+HPRD_03392,ANGPT1,284,4·0-5·5,ng/ml,ELISA,Plasma,14511360,14,ng/ml,Plasma
+HPRD_03392,ANGPT1,284,6.21-47.71,ng/ml,ELISA,Serum,21149250,,,
+HPRD_03392,ANGPT1,284,6·0-14,ng/ml,ELISA,Plasma,14511360,,,
+HPRD_03563,ANGPT2,285,97,pg/ml,Immunoassay,Plasma,16038022,36.49,ng/ml,Serum
+HPRD_03563,ANGPT2,285,0·65-2·14,ng/ml,ELISA,Plasma,14511360,6.94,ng/ml,Plasma
+HPRD_03563,ANGPT2,285,1.2-36.49,ng/ml,ELISA,Serum,21149250,,,
+HPRD_03563,ANGPT2,285,1·06-1·5,ng/ml,ELISA,Plasma,14511360,,,
+HPRD_03563,ANGPT2,285,615-6940,pg/ml,ELISA,Plasma,20615083,,,
+HPRD_03563,ANGPT2,285,1.5,ng/ml,-,Plasma,19690635,,,
+HPRD_04851,ANGPTL1,9068,5.9,ng/ml,Spectral counting,Plasma,21632744,5.9,ng/ml,Plasma
+HPRD_10381,ANGPTL3,27329,12,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_01693,ANK1,286,1.8,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_16491,ANKRD26,22852,7.3,ng/ml,Spectral counting,Plasma,21632744,7.3,ng/ml,Plasma
+HPRD_09014,ANP32A,8125,3.3,ng/ml,Spectral counting,Plasma,21632744,3.3,ng/ml,Plasma
+HPRD_01055,ANPEP,290,36,ng/ml,Spectral counting,Plasma,21632744,36,ng/ml,Plasma
+HPRD_01060,ANXA1,301,6.2,ng/ml,Spectral counting,Plasma,21632744,6.2,ng/ml,Plasma
+HPRD_01061,ANXA2,302,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_00111,ANXA3,306,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_00568,ANXA5,308,7.9,ng/ml,Spectral counting,Plasma,21632744,7.9,ng/ml,Plasma
+HPRD_04770,AOC3,8639,7,ng/ml,Spectral counting,Plasma,21632744,120,ng/ml,Plasma
+HPRD_04770,AOC3,8639,120,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_04770,AOC3,8639,120,ng/ml,-,Plasma,16335952,,,
+HPRD_07537,AOX1,316,2.7,ng/ml,Spectral counting,Plasma,21632744,2.7,ng/ml,Plasma
+HPRD_00101,APCS,325,8.7,ug/ml,Spectral counting,Plasma,21632744,27.7±10.6,mg/l,Serum
+HPRD_00101,APCS,325,1.402,ug/ml,Multiple reaction monitoring,Plasma,23592487,8.7,ug/ml,Plasma
+HPRD_00101,APCS,325,27.7±10.6,mg/l,ELISA,Serum,15194579,,,
+HPRD_00101,APCS,325,15-Oct,ug/ml,ELISA,Serum,8832424,,,
+HPRD_00101,APCS,325,55,ug/ml,-,Plasma,12938928,,,
+HPRD_00101,APCS,325,55,ug/ml,-,Plasma,15627965,,,
+HPRD_00101,APCS,325,55,ug/ml,-,Plasma,20677825,,,
+HPRD_00102,APLP1,333,18,ng/ml,Spectral counting,Plasma,21632744,18,ng/ml,Plasma
+HPRD_00103,APLP2,334,1.8,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_09840,APMAP,57136,29,ng/ml,Spectral counting,Plasma,21632744,29,ng/ml,Plasma
+HPRD_02517,APOA1,335,310,ug/ml,Spectral counting,Plasma,21632744,1.079,mg/ml,Blood
+HPRD_02517,APOA1,335,900.8,ug/ml,Multiple reaction monitoring,Plasma,23245390,2.2,mg/ml,Serum
+HPRD_02517,APOA1,335,1.079,mg/ml,Multiple reaction monitoring,Blood,23221968,1.4,mg/ml,Plasma
+HPRD_02517,APOA1,335,1.1,mg/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_02517,APOA1,335,1.33,mg/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_02517,APOA1,335,135.6±17,mg/dl,Immunoturbidometry,Serum,12818410,,,
+HPRD_02517,APOA1,335,1.4,mg/ml,Immunoassay,Plasma,16038022,,,
+HPRD_02517,APOA1,335,670-2200,ug/ml,ELISA,Serum,14767861,,,
+HPRD_02517,APOA1,335,1.375,mg/ml,-,Plasma,15627965,,,
+HPRD_02517,APOA1,335,1.4,mg/ml,-,Plasma,15611012,,,
+HPRD_02517,APOA1,335,1.4,mg/ml,-,Plasma,19572557,,,
+HPRD_02517,APOA1,335,1.4,mg/ml,-,Plasma,19690635,,,
+HPRD_02517,APOA1,335,1.4,mg/ml,-,Plasma,20204147,,,
+HPRD_02517,APOA1,335,1.4,mg/ml,-,Plasma,20677825,,,
+HPRD_02517,APOA1,335,1.5,mg/ml,-,Plasma,12938928,,,
+HPRD_16397,APOA1BP,128240,4.1,ng/ml,Spectral counting,Plasma,21632744,4.1,ng/ml,Plasma
+HPRD_00129,APOA2,336,750,ug/ml,Spectral counting,Plasma,21632744,116.82,ug/ml,Blood
+HPRD_00129,APOA2,336,88.6,ug/ml,Multiple reaction monitoring,Plasma,23245390,780,ug/ml,Plasma
+HPRD_00129,APOA2,336,116.82,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00129,APOA2,336,45.3,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00129,APOA2,336,53,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00129,APOA2,336,59.846,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00129,APOA2,336,300,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00129,APOA2,336,520,ug/ml,ELISA,Plasma,3085983,,,
+HPRD_00129,APOA2,336,67±11,mg/dl,Electroimmunoassay,Plasma,6816269,,,
+HPRD_00129,APOA2,336,240,ug/ml,-,Plasma,15611012,,,
+HPRD_00129,APOA2,336,240,ug/ml,-,Plasma,19690635,,,
+HPRD_00129,APOA2,336,240,ug/ml,-,Plasma,20204147,,,
+HPRD_00129,APOA2,336,300,ug/ml,-,Plasma,19572557,,,
+HPRD_00129,APOA2,336,300,ug/ml,-,Plasma,20677825,,,
+HPRD_00129,APOA2,336,460,ug/ml,-,Plasma,12938928,,,
+HPRD_00129,APOA2,336,460,ug/ml,-,Plasma,15627965,,,
+HPRD_00129,APOA2,336,520,ug/ml,-,Plasma,21090636,,,
+HPRD_00130,APOA4,337,32,ug/ml,Spectral counting,Plasma,21632744,49.54,ug/ml,Blood
+HPRD_00130,APOA4,337,35.8,ug/ml,Multiple reaction monitoring,Plasma,23245390,340,ug/ml,Plasma
+HPRD_00130,APOA4,337,49.54,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00130,APOA4,337,19.7,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00130,APOA4,337,23.872,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00130,APOA4,337,35,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00130,APOA4,337,143-158,ug/ml,ELISA,Plasma,10987595,,,
+HPRD_00130,APOA4,337,16.4±5.4,mg/dl,ELISA,Plasma,2507721,,,
+HPRD_00130,APOA4,337,55-340,ug/ml,ELISA,Plasma,19336561,,,
+HPRD_00130,APOA4,337,160,ug/ml,-,Plasma,15611012,,,
+HPRD_00130,APOA4,337,160,ug/ml,-,Plasma,20204147,,,
+HPRD_06966,APOA5,116519,1.3,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_06966,APOA5,116519,179.2 ± 74.8,ng/ml,ELISA,Plasma,15961791,254,ng/ml,Plasma
+HPRD_00133,APOB,338,33,ug/ml,Spectral counting,Plasma,21632744,582.9,ug/ml,Blood
+HPRD_00133,APOB,338,298.9,ug/ml,Multiple reaction monitoring,Plasma,23245390,1.3,mg/ml,Serum
+HPRD_00133,APOB,338,582.9,ug/ml,Multiple reaction monitoring,Blood,23221968,720,ug/ml,Plasma
+HPRD_00133,APOB,338,155.059,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00133,APOB,338,73.5±18,mg/dl,Immunoturbidometry,Serum,12818410,,,
+HPRD_00133,APOB,338,300-1300,ug/ml,Immunonephelometric assay,Serum,11168448,,,
+HPRD_00133,APOB,338,7.3-28.6,ug/ml,Immunonephelometric assay,Serum,11168448,,,
+HPRD_00133,APOB,338,720,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00133,APOB,338,720,ug/ml,-,Plasma,19572557,,,
+HPRD_00133,APOB,338,720,ug/ml,-,Plasma,20677825,,,
+HPRD_00133,APOB,338,730,ug/ml,-,Plasma,15611012,,,
+HPRD_00133,APOB,338,1130,ug/ml,-,Plasma,15627965,,,
+HPRD_00131,APOC1,341,77,ug/ml,Spectral counting,Plasma,21632744,77,ug/ml,Plasma
+HPRD_00131,APOC1,341,2.4,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00131,APOC1,341,2.588,ug/ml,Multiple reaction monitoring,Plasma,23592487,,,
+HPRD_00131,APOC1,341,2.761,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00131,APOC1,341,3.04,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00131,APOC1,341,4,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00131,APOC1,341,7,ug/ml,-,Plasma,12938928,,,
+HPRD_00131,APOC1,341,7,ug/ml,-,Plasma,15627965,,,
+HPRD_00131,APOC1,341,7,ug/ml,-,Plasma,20677825,,,
+HPRD_00131,APOC1,341,61,ug/ml,-,Plasma,15611012,,,
+HPRD_00131,APOC1,341,61,ug/ml,-,Plasma,19690635,,,
+HPRD_00131,APOC1,341,61,ug/ml,-,Plasma,20204147,,,
+HPRD_07457,APOC2,344,240,ug/ml,Spectral counting,Plasma,21632744,240,ug/ml,Plasma
+HPRD_07457,APOC2,344,33,ug/ml,-,Plasma,12938928,,,
+HPRD_07457,APOC2,344,33,ug/ml,-,Plasma,15611012,,,
+HPRD_07457,APOC2,344,33,ug/ml,-,Plasma,15627965,,,
+HPRD_07457,APOC2,344,33,ug/ml,-,Plasma,20204147,,,
+HPRD_07457,APOC2,344,33,ug/ml,-,Plasma,20677825,,,
+HPRD_00132,APOC3,345,170,ug/ml,Spectral counting,Plasma,21632744,170,ug/ml,Plasma
+HPRD_00132,APOC3,345,439,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00132,APOC3,345,751,ng/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00132,APOC3,345,120,ug/ml,-,Plasma,15611012,,,
+HPRD_00132,APOC3,345,120,ug/ml,-,Plasma,19690635,,,
+HPRD_00132,APOC3,345,120,ug/ml,-,Plasma,20204147,,,
+HPRD_00132,APOC3,345,124,ug/ml,-,Plasma,12938928,,,
+HPRD_00132,APOC3,345,124,ug/ml,-,Plasma,15627965,,,
+HPRD_02848,APOC4,346,4.6,mg/ml,Spectral counting,Plasma,21632744,4.6,mg/ml,Plasma
+HPRD_02848,APOC4,346,0.1-1.9 ,mg/dl,Radioimmunoassay,Plasma,12700345,,,
+HPRD_00134,APOD,347,82,ug/ml,Spectral counting,Plasma,21632744,82,ug/ml,Plasma
+HPRD_00135,APOE,348,14,ug/ml,Spectral counting,Plasma,21632744,8.22,mg/ml,Blood
+HPRD_00135,APOE,348,7.518,ug/ml,Multiple reaction monitoring,Plasma,22547352,34,ug/ml,Plasma
+HPRD_00135,APOE,348,8,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00135,APOE,348,8.067,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00135,APOE,348,27.1,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00135,APOE,348,8.22,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00135,APOE,348,34,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00135,APOE,348,34,ug/ml,-,Plasma,19572557,,,
+HPRD_00135,APOE,348,35,ug/ml,-,Plasma,12938928,,,
+HPRD_00135,APOE,348,35,ug/ml,-,Plasma,15627965,,,
+HPRD_00135,APOE,348,35,ug/ml,-,Plasma,20677825,,,
+HPRD_00135,APOE,348,40,ug/ml,-,Plasma,15611012,,,
+HPRD_00135,APOE,348,40,ug/ml,-,Plasma,20204147,,,
+HPRD_00137,APOF,319,4100,ng/ml,Spectral counting,Plasma,21632744,4100,ng/ml,Plasma
+HPRD_00137,APOF,319,1.8±0.2,mg/dl,Electroimmunoassay,Plasma,6816269,,,
+HPRD_00137,APOF,319,18,pg/ml,-,Plasma,20204147,,,
+HPRD_00728,APOH,350,78,ug/ml,Spectral counting,Plasma,21632744,104.23,ug/ml,Blood
+HPRD_00728,APOH,350,150-350,ug/ml,Single radial immunodiffusion,Serum,4172868,350,ug/ml,Serum
+HPRD_00728,APOH,350,72.5,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00728,APOH,350,98,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00728,APOH,350,104.23,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00728,APOH,350,92.104,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00728,APOH,350,149.4-227.5,ug/ml,ELISA,Serum,21618459,,,
+HPRD_00728,APOH,350,180,ug/ml,-,Serum,20204147,,,
+HPRD_00728,APOH,350,220,ug/ml,-,Plasma,20677825,,,
+HPRD_04774,APOL1,8542,1.2,ug/ml,Spectral counting,Plasma,21632744,1.2,ug/ml,Plasma
+HPRD_04774,APOL1,8542,5.9,ug/ml,-,Plasma,20204147,,,
+HPRD_06263,APOL2,23780,1.4,ug/ml,Spectral counting,Plasma,21632744,1.4,ug/ml,Plasma
+HPRD_16237,APOL4,80832,16.4 ± 5.4,mg/dl,ELISA,Plasma,2507721,21.8,ug/ml,Plasma
+HPRD_06068,APOM,55937,1.5,ug/ml,Spectral counting,Plasma,21632744,1.5,ug/ml,Plasma
+HPRD_00100,APP,351,18,ng/ml,Spectral counting,Plasma,21632744,18,ng/ml,Plasma
+HPRD_02437,AR,367,26,pg/ml,Immunoassay,Plasma,16038022,26,pg/ml,Plasma
+HPRD_01947,ARG1,383,27.2 ± 12.9,ng/ml,ELISA,Serum,21039185,40,ng/ml,Serum
+HPRD_03565,ARHGDIA,396,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_04162,ARHGDIB,397,10,ng/ml,Spectral counting,Plasma,21632744,10,ng/ml,Plasma
+HPRD_10366,ARPC1B,10095,8.1,ng/ml,Spectral counting,Plasma,21632744,8.1,ng/ml,Plasma
+HPRD_10367,ARPC2,10109,4.5,ng/ml,Spectral counting,Plasma,21632744,4.5,ng/ml,Plasma
+HPRD_09175,ARPC3,10094,1.8,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_10368,ARPC4,10093,2.5,ng/ml,Spectral counting,Plasma,21632744,2.5,ng/ml,Plasma
+HPRD_09264,ARPP19,10776,2.1,ng/ml,Spectral counting,Plasma,21632744,2.1,ng/ml,Plasma
+HPRD_04363,ART3,419,30,ng/ml,Spectral counting,Plasma,21632744,30,ng/ml,Plasma
+HPRD_00152,ASGR2,433,4.8,ng/ml,Spectral counting,Plasma,21632744,4.8,ng/ml,Plasma
+HPRD_01948,ASL,435,5.9,ng/ml,Spectral counting,Plasma,21632744,5.9,ng/ml,Plasma
+HPRD_04590,ASS1,445,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_03434,ATIC,471,6.1,ng/ml,Spectral counting,Plasma,21632744,6.1,ng/ml,Plasma
+HPRD_01258,ATP5A1,498,2.5,ng/ml,Spectral counting,Plasma,21632744,2.5,ng/ml,Plasma
+HPRD_00044,ATP5B,506,6.2,ng/ml,Spectral counting,Plasma,21632744,6.2,ng/ml,Plasma
+HPRD_02899,ATP5O,539,1.7,ng/ml,Spectral counting,Plasma,21632744,1.7,ng/ml,Plasma
+HPRD_04388,ATRN,8455,660,ng/ml,Spectral counting,Plasma,21632744,660,ng/ml,Plasma
+HPRD_09816,AVIL,10677,2.6,ng/ml,Spectral counting,Plasma,21632744,5.8,ng/ml,Plasma
+HPRD_00171,AXL,558,2.5,ng/ml,Spectral counting,Plasma,21632744,2.5,ng/ml,Plasma
+HPRD_01910,AZGP1,563,31,ug/ml,Spectral counting,Plasma,21632744,91.521,ug/ml,Plasma
+HPRD_01910,AZGP1,563,91.521,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_01910,AZGP1,563,27.4±8.3,mg/L,ELISA,Plasma,18078816,,,
+HPRD_01910,AZGP1,563,80,ug/ml,-,Plasma,15627965,,,
+HPRD_01910,AZGP1,563,80,ug/ml,-,Plasma,20677825,,,
+HPRD_01910,AZGP1,563,85,ug/ml,-,Plasma,12938928,,,
+HPRD_00189,B2M,567,7.5,ug/ml,Spectral counting,Plasma,21632744,1.79,ug/ml,Serum
+HPRD_00189,B2M,567,686,ng/ml,Multiple reaction monitoring,Plasma,23592487,7.5,ug/ml,Plasma
+HPRD_00189,B2M,567,1.1,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00189,B2M,567,1.23±0.56,mg/l,ELISA,Serum,12574959,,,
+HPRD_00189,B2M,567,16,ug/ml,-,Plasma,15627965,,,
+HPRD_00189,B2M,567,1.1,ug/ml,-,Plasma,19572557,,,
+HPRD_00189,B2M,567,1.1,ug/ml,-,Plasma,20677825,,,
+HPRD_00189,B2M,567,2.1,ug/ml,-,Plasma,19690635,,,
+HPRD_00189,B2M,567,2.2,ug/ml,-,Plasma,12938928,,,
+HPRD_09270,B3GNT1,11041,3.3,ng/ml,Spectral counting,Plasma,21632744,3.3,ng/ml,Plasma
+HPRD_09279,B3GNT2,10678,5.8,ng/ml,Spectral counting,Plasma,21632744,6.6,ng/ml,Plasma
+HPRD_08389,BASP1,10409,7.3,ng/ml,Spectral counting,Plasma,21632744,7.3,ng/ml,Plasma
+HPRD_02644,BCAN,63827,1.9,ng/ml,Spectral counting,Plasma,21632744,1.9,ng/ml,Plasma
+HPRD_01519,BCHE,590,170,ng/ml,Spectral counting,Plasma,21632744,170,ng/ml,Plasma
+HPRD_01519,BCHE,590,11-Aug,ug/ml,Single radial immunodiffusion,Serum,4172868,11,ug/ml,Serum
+HPRD_01045,BCL2,596,8.08±1.92,U/ml,ELISA,Serum,10505741,8.08±1.92,U/ml,Serum
+HPRD_04344,BDH1,622,130,ng/ml,-,Plasma,15611012,130,ng/ml,Plasma
+HPRD_00214,BDNF,627,300,pg/ml,Immunoassay,Plasma,16038022,300,pg/ml,Plasma
+HPRD_00214,BDNF,627,24,ng/ml,-,Plasma,19690635,,,
+HPRD_04200,BHMT,635,36,ng/ml,Spectral counting,Plasma,21632744,36,ng/ml,Plasma
+HPRD_05805,BIN2,51411,6.2,ng/ml,Spectral counting,Plasma,21632744,6.2,ng/ml,Plasma
+HPRD_04520,BIRC5,332,120,pg/ml,-,Plasma,19690635,120,pg/ml,Plasma
+HPRD_03870,BLMH,642,3.3,ng/ml,Spectral counting,Plasma,21632744,3.3,ng/ml,Plasma
+HPRD_02967,BLVRB,645,140,ng/ml,Spectral counting,Plasma,21632744,140,ng/ml,Plasma
+HPRD_00209,BMP1,649,17,ng/ml,Spectral counting,Plasma,21632744,17,ng/ml,Plasma
+HPRD_01961,BPGM,669,9.8,ng/ml,Spectral counting,Plasma,21632744,9.8,ng/ml,Plasma
+HPRD_12740,BPIFB1,92747,3.3,ng/ml,Spectral counting,Plasma,21632744,3.3,ng/ml,Plasma
+HPRD_10690,BPIFB2,80341,3,ng/ml,Spectral counting,Plasma,21632744,3,ng/ml,Plasma
+HPRD_06848,BRD1,23774,18,ng/ml,Spectral counting,Plasma,21632744,18,ng/ml,Plasma
+HPRD_12533,BRSK1,84446,23,ng/ml,Spectral counting,Plasma,21632744,23,ng/ml,Plasma
+HPRD_02665,BST1,683,20,ng/ml,Spectral counting,Plasma,21632744,20,ng/ml,Plasma
+HPRD_08359,BTD,686,490,ng/ml,Spectral counting,Plasma,21632744,490,ng/ml,Plasma
+HPRD_03966,BTF3,689,5.8,ng/ml,Spectral counting,Plasma,21632744,5.8,ng/ml,Plasma
+HPRD_02248,BTK,695,1.1,ng/ml,Spectral counting,Plasma,21632744,1.1,ng/ml,Plasma
+HPRD_11353,C16orf89,146556,1.4,ng/ml,Spectral counting,Plasma,21632744,1.4,ng/ml,Plasma
+HPRD_08415,C19orf10,56005,7.6,ng/ml,Spectral counting,Plasma,21632744,7.6,ng/ml,Plasma
+HPRD_14245,C19orf80,55908,4.6,ng/ml,Spectral counting,Plasma,21632744,4.6,ng/ml,Plasma
+HPRD_00393,C1QA,712,1.2,ug/ml,Spectral counting,Plasma,21632744,1.2,ug/ml,Plasma
+HPRD_00394,C1QB,713,930,ng/ml,Spectral counting,Plasma,21632744,930,ng/ml,Plasma
+HPRD_00395,C1QC,714,910,ng/ml,Spectral counting,Plasma,21632744,910,ng/ml,Plasma
+HPRD_01954,C1R,715,4.3,ug/ml,Spectral counting,Plasma,21632744,4.3,ug/ml,Plasma
+HPRD_01954,C1R,715,30,ug/ml,-,Plasma,12938928,,,
+HPRD_01954,C1R,715,50,ug/ml,-,Plasma,14961748,,,
+HPRD_01954,C1R,715,100,ug/ml,-,Plasma,15627965,,,
+HPRD_01954,C1R,715,100,ug/ml,-,Plasma,20677825,,,
+HPRD_07093,C1RL,51279,260,ng/ml,Spectral counting,Plasma,21632744,6.4,ug/ml,Serum
+HPRD_07093,C1RL,51279,5.5±0.9,µg/ml,ELISA,Serum,15527420,,,
+HPRD_00397,C1S,716,5.2,ug/ml,Spectral counting,Plasma,21632744,5.2,ug/ml,Plasma
+HPRD_00397,C1S,716,30,ug/ml,-,Plasma,12938928,,,
+HPRD_00397,C1S,716,30,ug/ml,-,Plasma,15627965,,,
+HPRD_00397,C1S,716,50,ug/ml,-,Plasma,12938928,,,
+HPRD_00397,C1S,716,50,ug/ml,-,Plasma,20677825,,,
+HPRD_08939,C2,717,35,ug/ml,Spectral counting,Plasma,21632744,35,ug/ml,Plasma
+HPRD_08939,C2,717,24.2± 4.7,ug/ml,ELISA,Serum,3623635,29,ug/ml,Serum
+HPRD_08939,C2,717,20,ug/ml,-,Plasma,12938928,,,
+HPRD_08939,C2,717,20,ug/ml,-,Plasma,15627965,,,
+HPRD_08939,C2,717,20,ug/ml,-,Plasma,20677825,,,
+HPRD_08939,C2,717,24,ug/ml,-,Serum,20204147,,,
+HPRD_08939,C2,717,30-Oct,ug/ml,-,Plasma,14961748,,,
+HPRD_00400,C3,718,260,ug/ml,Spectral counting,Plasma,21632744,2.644,mg/ml,Blood
+HPRD_00400,C3,718,101.9±17.4,mg/dl,nephelometry,Plasma,15547024,1.73,mg/ml,Plasma
+HPRD_00400,C3,718,667.7,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00400,C3,718,1500,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00400,C3,718,1671.43,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00400,C3,718,1730,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00400,C3,718,2644.07,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00400,C3,718,950,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00400,C3,718,950,ug/ml,-,Plasma,19572557,,,
+HPRD_00400,C3,718,950,ug/ml,-,Plasma,20677825,,,
+HPRD_00400,C3,718,1300,ug/ml,-,Plasma,15611012,,,
+HPRD_00400,C3,718,1300,ug/ml,-,Plasma,20204147,,,
+HPRD_00400,C3,718,1500,ug/ml,-,Plasma,12938928,,,
+HPRD_00400,C3,718,1500,ug/ml,-,Plasma,15627965,,,
+HPRD_00400,C3,718,600-1300,ug/ml,-,Serum,18760981,,,
+HPRD_00401,C4A,720,62.97,ug/ml,Multiple reaction monitoring,Blood,23221968,62.97,ug/ml,Blood
+HPRD_00401,C4A,720,170,ug/ml,Immunoassay,Plasma,16038022,550,ug/ml,Serum
+HPRD_00401,C4A,720,170,ug/ml,-,Plasma,19572557,170,ug/ml,Plasma
+HPRD_00401,C4A,720,270,ug/ml,-,Plasma,20204147,,,
+HPRD_00401,C4A,720,315,ug/ml,-,Plasma,15627965,,,
+HPRD_00401,C4A,720,315,ug/ml,-,Plasma,20677825,,,
+HPRD_00401,C4A,720,400,ug/ml,-,Plasma,12938928,,,
+HPRD_00401,C4A,720,200-550,ug/ml,-,Serum,18760981,,,
+HPRD_00402,C4B,721,90,ug/ml,Spectral counting,Plasma,21632744,104,ug/ml,Plasma
+HPRD_00402,C4B,721,104,ug/ml,Multiple reaction monitoring,Plasma,23245390,129.74,ug/ml,Blood
+HPRD_00402,C4B,721,129.74,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00403,C4BPA,722,11,ug/ml,Spectral counting,Plasma,21632744,11,ug/ml,Plasma
+HPRD_00403,C4BPA,722,200-530,ug/ml,Single radial immunodiffusion,Serum,14629629,530,ug/ml,Serum
+HPRD_00404,C4BPB,725,530,ng/ml,Spectral counting,Plasma,21632744,530,ng/ml,Plasma
+HPRD_00404,C4BPB,725,200-530,ug/ml,Single radial immunodiffusion,Serum,14629629,530,ug/ml,Serum
+HPRD_00405,C5,727,70,ug/ml,-,Plasma,12938928,150,ug/ml,Plasma
+HPRD_00405,C5,727,95,ug/ml,-,Plasma,15627965,,,
+HPRD_00405,C5,727,95,ug/ml,-,Plasma,20677825,,,
+HPRD_00405,C5,727,40-150,ug/ml,-,Plasma,14961748,,,
+HPRD_01956,C6,729,3.7,ug/ml,Spectral counting,Plasma,21632744,3.7,ug/ml,Plasma
+HPRD_01956,C6,729,40,ug/ml,-,Plasma,15627965,,,
+HPRD_01956,C6,729,40,ug/ml,-,Plasma,20677825,,,
+HPRD_01956,C6,729,60,ug/ml,-,Plasma,12938928,,,
+HPRD_01957,C7,730,2.6,ug/ml,Spectral counting,Plasma,21632744,2.6,ug/ml,Plasma
+HPRD_01957,C7,730,52,ug/ml,-,Plasma,19690635,,,
+HPRD_01957,C7,730,60,ug/ml,-,Plasma,12938928,,,
+HPRD_01957,C7,730,60,ug/ml,-,Plasma,15627965,,,
+HPRD_01957,C7,730,60,ug/ml,-,Plasma,20677825,,,
+HPRD_00409,C8A,731,2.4,ug/ml,Spectral counting,Plasma,21632744,2.4,ug/ml,Plasma
+HPRD_00409,C8A,731,70-90,ug/ml,-,Plasma,14961748,,,
+HPRD_00410,C8B,732,2.8,ug/ml,Spectral counting,Plasma,21632744,2.8,ug/ml,Plasma
+HPRD_00407,C8G,733,1.1,ug/ml,Spectral counting,Plasma,21632744,1.1,ug/ml,Plasma
+HPRD_00408,C9,735,5.2,ug/ml,Spectral counting,Plasma,21632744,13.93,ug/ml,Plasma
+HPRD_00408,C9,735,13.93,ug/ml,Multiple reaction monitoring,Plasma,23245390,33.6,ug/ml,Blood
+HPRD_00408,C9,735,33.6,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00408,C9,735,60,ug/ml,-,Plasma,12938928,,,
+HPRD_00408,C9,735,60,ug/ml,-,Plasma,15627965,,,
+HPRD_00408,C9,735,60,ug/ml,-,Plasma,20677825,,,
+HPRD_12957,C9orf40,55071,6.2,ng/ml,Spectral counting,Plasma,21632744,6.2,ng/ml,Plasma
+HPRD_00265,CA1,759,590,ng/ml,Spectral counting,Plasma,21632744,590,ng/ml,Plasma
+HPRD_02023,CA2,760,42,ng/ml,Spectral counting,Plasma,21632744,42,ng/ml,Plasma
+HPRD_00260,CA3,761,4.8,ng/ml,Spectral counting,Plasma,21632744,4.8,ng/ml,Plasma
+HPRD_00245,CACNA2D1,781,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_09057,CACNB4,785,8.2,ng/ml,Spectral counting,Plasma,21632744,8.2,ng/ml,Plasma
+HPRD_05746,CADM1,23705,32,ng/ml,Spectral counting,Plasma,21632744,32,ng/ml,Plasma
+HPRD_00238,CALCA,796,190,pg/ml,Immunoassay,Plasma,16038022,190,pg/ml,Plasma
+HPRD_00238,CALCA,796,12-Oct,pg/ml,Chemiluminescence Assay,Serum,14764755,12,pg/ml,Serum
+HPRD_00238,CALCA,796,10,pg/ml,-,Plasma,19690635,,,
+HPRD_11809,CALCRL,10203,0.19,ng/ml,Immunoassay,Plasma,16038022,190,pg/ml,Plasma
+HPRD_00251,CALD1,800,10,ng/ml,Spectral counting,Plasma,21632744,10,ng/ml,Plasma
+HPRD_05538,CALML5,51806,8.1,ng/ml,Spectral counting,Plasma,21632744,8.1,ng/ml,Plasma
+HPRD_00169,CALR,811,100,ng/ml,Spectral counting,Plasma,21632744,100,ng/ml,Plasma
+HPRD_09653,CAMK2D,817,1.5,ng/ml,Spectral counting,Plasma,21632744,1.5,ng/ml,Plasma
+HPRD_02722,CAMP,820,370,ng/ml,Spectral counting,Plasma,21632744,370,ng/ml,Plasma
+HPRD_09869,CAP1,10487,27,ng/ml,Spectral counting,Plasma,21632744,27,ng/ml,Plasma
+HPRD_00253,CAPN1,823,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_00254,CAPN2,824,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_00240,CAPNS1,826,3.6,ng/ml,Spectral counting,Plasma,21632744,3.6,ng/ml,Plasma
+HPRD_03347,CAPZA1,829,4.6,ng/ml,Spectral counting,Plasma,21632744,4.6,ng/ml,Plasma
+HPRD_11872,CAPZB,832,20,ng/ml,Spectral counting,Plasma,21632744,20,ng/ml,Plasma
+HPRD_08515,CARHSP1,23589,21,ng/ml,Spectral counting,Plasma,21632744,21,ng/ml,Plasma
+HPRD_05788,CASP14,23581,1.9,ng/ml,Spectral counting,Plasma,21632744,1.9,ng/ml,Plasma
+HPRD_00233,CAST,831,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_00282,CAT,847,220,ng/ml,Spectral counting,Plasma,21632744,220,ng/ml,Plasma
+HPRD_01994,CBS,875,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_14278,CCDC126,90693,18,ng/ml,Spectral counting,Plasma,21632744,18,ng/ml,Plasma
+HPRD_07705,CCDC25,55246,17,ng/ml,Spectral counting,Plasma,21632744,17,ng/ml,Plasma
+HPRD_18548,CCDC58,131076,1.9,ng/ml,Spectral counting,Plasma,21632744,1.9,ng/ml,Plasma
+HPRD_10508,CCDC80,151887,12,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_03231,CCL14,6358,340,ng/ml,Spectral counting,Plasma,21632744,340,ng/ml,Plasma
+HPRD_03231,CCL14,6358,8.5,ng/ml,-,Plasma,19690635,74,ng/ml,Plasma
+HPRD_03232,CCL15,6359,74,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_03233,CCL16,6360,270,ng/ml,Spectral counting,Plasma,21632744,270,ng/ml,Plasma
+HPRD_03233,CCL16,6360,3.5-28,ng/ml,ELISA,Plasma,11470772,,,
+HPRD_03233,CCL16,6360,11,ng/ml,-,Plasma,19690635,,,
+HPRD_04784,CCL18,6362,30.9 ± 3.8,ng/ml,ELISA,Serum,14578205,,,
+HPRD_04784,CCL18,6362,31,ng/ml,-,Plasma,19690635,34.7,ng/ml,Serum
+HPRD_01149,CCL2,6347,0-4.05,ng/ml,Multiplex immunobead assay,Serum,17438101,144.5,ng/ml,Serum
+HPRD_01149,CCL2,6347,61-342,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,342,pg/ml,Plasma
+HPRD_01149,CCL2,6347,157,pg/ml,Immunoassay,Plasma,12578870,,,
+HPRD_01149,CCL2,6347,103.3 ± 41.2,ng/ml,ELISA,Serum,19844201,,,
+HPRD_01149,CCL2,6347,387±173,pg/ml,ELISA,Serum,18760981,,,
+HPRD_01149,CCL2,6347,22.3-47.1,pg/ml,Cytometric bead array,Serum,20032101,,,
+HPRD_01149,CCL2,6347,160,pg/ml,-,Plasma,15611012,,,
+HPRD_01149,CCL2,6347,180,pg/ml,-,Plasma,19690635,,,
+HPRD_04113,CCL21,6366,18,ng/ml,Spectral counting,Plasma,21632744,31,ng/ml,Plasma
+HPRD_04113,CCL21,6366,170,pg/ml,-,Plasma,19690635,18,ng/ml,Plasma
+HPRD_03930,CCL23,6368,320,pg/ml,Immunoassay,Plasma,16038022,320,pg/ml,Plasma
+HPRD_03930,CCL23,6368,94.1 ± 85.6,pg/ml,ELISA,Serum,20824279,179.7,pg/ml,Serum
+HPRD_01751,CCL5,6352,37.2±2.7,ng/ml,ELISA,Plasma,15509902,,,
+HPRD_01751,CCL5,6352,356-1843,pg/ml,Cytometric bead array,Serum,20032101,,,
+HPRD_01751,CCL5,6352,37,ng/ml,-,Plasma,19690635,,,
+HPRD_08969,CCT3,7203,4.5,ng/ml,Spectral counting,Plasma,21632744,4.5,ng/ml,Plasma
+HPRD_05506,CCT4,10575,1.2,ng/ml,Spectral counting,Plasma,21632744,230,ng/ml,Plasma
+HPRD_06896,CCT7,10574,1.7,ng/ml,Spectral counting,Plasma,21632744,1.2,ng/ml,Plasma
+HPRD_10590,CD109,135228,19,ng/ml,Spectral counting,Plasma,21632744,19,ng/ml,Plasma
+HPRD_01151,CD14,929,420,ng/ml,Spectral counting,Plasma,21632744,420,ng/ml,Plasma
+HPRD_01151,CD14,929,1.9,ug/ml,-,Plasma,16335952,,,
+HPRD_05708,CD163,9332,94,ng/ml,Spectral counting,Plasma,21632744,94,ng/ml,Plasma
+HPRD_01222,CD177,57126,2.7,ng/ml,Spectral counting,Plasma,21632744,2.7,ng/ml,Plasma
+HPRD_01723,CD27,939,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_05756,CD276,80381,1.5,ng/ml,Spectral counting,Plasma,21632744,1.5,ng/ml,Plasma
+HPRD_00115,CD44,960,35,ng/ml,Spectral counting,Plasma,21632744,35,ng/ml,Plasma
+HPRD_00115,CD44,960,33,ng/ml,-,Plasma,19690635,,,
+HPRD_00115,CD44,960,220,ng/ml,-,Plasma,19690635,,,
+HPRD_00406,CD46,4179,Oct-60,ng/ml,Sandwich ELISA,Serum,7547700,60,ng/ml,Serum
+HPRD_00406,CD46,4179,35,ng/ml,-,Plasma,19690635,,,
+HPRD_00117,CD59,966,910,ng/ml,Spectral counting,Plasma,21632744,910,ng/ml,Plasma
+HPRD_00117,CD59,966,33-119,ng/ml,ELISA,Serum,14687727,,,
+HPRD_03997,CD5L,922,5.6,ug/ml,Spectral counting,Plasma,21632744,5.6,ug/ml,Plasma
+HPRD_00202,CD80,941,40-100,ng/ml,-,Plasma,14961748,100,ng/ml,Plasma
+HPRD_00880,CD9,928,3.6,ng/ml,Spectral counting,Plasma,21632744,3.6,ng/ml,Plasma
+HPRD_00396,CD93,22918,4.8,ng/ml,Spectral counting,Plasma,21632744,4.8,ng/ml,Plasma
+HPRD_11744,CDA,978,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_04184,CDC5L,988,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_01885,CDH1,999,10,ng/ml,Spectral counting,Plasma,21632744,10,ng/ml,Plasma
+HPRD_01885,CDH1,999,7,ug/ml,-,Plasma,19690635,,,
+HPRD_03219,CDH13,1012,120,ng/ml,Spectral counting,Plasma,21632744,120,ng/ml,Plasma
+HPRD_00226,CDH2,1000,73,ng/ml,Spectral counting,Plasma,21632744,73,ng/ml,Plasma
+HPRD_03075,CDH5,1003,110,ng/ml,Spectral counting,Plasma,21632744,110,ng/ml,Plasma
+HPRD_03075,CDH5,1003,30,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_03075,CDH5,1003,30,ng/ml,-,Plasma,16335952,,,
+HPRD_03075,CDH5,1003,30,ng/ml,-,Plasma,19572557,,,
+HPRD_03075,CDH5,1003,30,ng/ml,-,Plasma,20698492,,,
+HPRD_15103,CDHR2,54825,2.9,ng/ml,Spectral counting,Plasma,21632744,2.9,ng/ml,Plasma
+HPRD_06021,CDHR5,53841,4.4,ng/ml,Spectral counting,Plasma,21632744,4.4,ng/ml,Plasma
+HPRD_03998,CDSN,1041,6.5,ng/ml,Spectral counting,Plasma,21632744,6.5,ng/ml,Plasma
+HPRD_13627,CDV3,55573,2.3,ng/ml,Spectral counting,Plasma,21632744,2.3,ng/ml,Plasma
+HPRD_00191,CEACAM1,634,500,pg/ml,Spectral counting,Plasma,21632744,300,ng/ml,Plasma
+HPRD_00191,CEACAM1,634,300,ng/ml,Densitometry analysis,Plasma,16335952,500,ng/ml,Serum
+HPRD_00191,CEACAM1,634,0·3 ± 0·2,ug/ml,Densitometry analysis,Serum,11012782,,,
+HPRD_00191,CEACAM1,634,0·3 ± 0·2,ug/ml,Densitometry analysis,Serum,16335952,,,
+HPRD_00274,CEACAM5,1048,1,ng/ml,-,Plasma,19690635,1,ng/ml,Plasma
+HPRD_07630,CEACAM8,1088,4.7,ng/ml,Spectral counting,Plasma,21632744,4.7,ng/ml,Plasma
+HPRD_10462,CECR1,51816,7.7,ng/ml,Spectral counting,Plasma,21632744,7.7,ng/ml,Plasma
+HPRD_02582,CENPF,1063,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_00268,CES1,1066,46,ng/ml,Spectral counting,Plasma,21632744,46,ng/ml,Plasma
+HPRD_00325,CETP,1071,19,ng/ml,Spectral counting,Plasma,21632744,3.03,ug/ml,Plasma
+HPRD_00325,CETP,1071,840-3030 ,ng/ml,ELISA,Plasma,9665425,,,
+HPRD_00325,CETP,1071,1.9,ug/ml,-,Plasma,15611012,,,
+HPRD_00718,CFB,629,95.14,ug/ml,Multiple reaction monitoring,Blood,23221968,95.14,ug/ml,Blood
+HPRD_00718,CFB,629,1260,ng/ml,Multiple reaction monitoring,Plasma,23245390,1.26,ug/ml,Plasma
+HPRD_00718,CFB,629,200,ug/ml,-,Plasma,15627965,,,
+HPRD_00718,CFB,629,250,ug/ml,-,Plasma,12938928,,,
+HPRD_00718,CFB,629,250,ug/ml,-,Plasma,20677825,,,
+HPRD_00718,CFB,629,280,ug/ml,-,Serum,20204147,,,
+HPRD_00600,CFD,1675,2.9,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_00600,CFD,1675,1.8±0.4,ug/ml,Radioimmunoassay,Serum,6561229,2.2,ug/ml,Serum
+HPRD_00600,CFD,1675,2.08±0.046 ,ug/ml,ELISA,Plasma,22003108,2.9,ug/ml,Plasma
+HPRD_00600,CFD,1675,1,ug/ml,-,Plasma,12938928,,,
+HPRD_00600,CFD,1675,1,ug/ml,-,Plasma,20677825,,,
+HPRD_00600,CFD,1675,1.8,ug/ml,-,Serum,20204147,,,
+HPRD_00600,CFD,1675,5,ug/ml,-,Plasma,15627965,,,
+HPRD_00601,CFH,3075,57,ug/ml,Spectral counting,Plasma,21632744,123.66,ug/ml,Blood
+HPRD_00601,CFH,3075,240-760,ug/ml,Single radial immunodiffusion,Serum,14629629,760,ug/ml,Serum
+HPRD_00601,CFH,3075,443 ± 106,ug/ml,Radial Immunodiffusion,Serum,14629629,57,ug/ml,Plasma
+HPRD_00601,CFH,3075,28.7,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00601,CFH,3075,123.66,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00601,CFH,3075,40,ug/ml,Immunoblot,Plasma,1825108,,,
+HPRD_00601,CFH,3075,35,ug/ml,-,serum,12543931,,,
+HPRD_00601,CFH,3075,500,ug/ml,-,Plasma,12938928,,,
+HPRD_00601,CFH,3075,500,ug/ml,-,Plasma,15627965,,,
+HPRD_00601,CFH,3075,500,ug/ml,-,Plasma,20677825,,,
+HPRD_00602,CFHR1,3078,57,ug/ml,Spectral counting,Plasma,21632744,57,ug/ml,Plasma
+HPRD_02933,CFHR2,3080,57,ug/ml,Spectral counting,Plasma,21632744,57,ug/ml,Plasma
+HPRD_05626,CFHR3,10878,140,ng/ml,Spectral counting,Plasma,21632744,140,ng/ml,Plasma
+HPRD_05627,CFHR4,10877,59,ng/ml,Spectral counting,Plasma,21632744,59,ng/ml,Plasma
+HPRD_06508,CFHR5,81494,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_01955,CFI,3426,5.7,ng/ml,Spectral counting,Plasma,21632744,5.7,ng/ml,Plasma
+HPRD_01955,CFI,3426,64 ± 13,ug/ml,Radial Immunodiffusion,Serum,14629629,77,ug/ml,Serum
+HPRD_01955,CFI,3426,35,ug/ml,-,Plasma,12938928,,,
+HPRD_01955,CFI,3426,35,ug/ml,-,Plasma,15627965,,,
+HPRD_01955,CFI,3426,35,ug/ml,-,Plasma,20677825,,,
+HPRD_03261,CFL1,1072,140,ng/ml,Spectral counting,Plasma,21632744,140,ng/ml,Plasma
+HPRD_02308,CFP,5199,330,ng/ml,Spectral counting,Plasma,21632744,330,ng/ml,Plasma
+HPRD_02308,CFP,5199,15-41,ug/ml,Single radial immunodiffusion,Serum,14629629,,,
+HPRD_02308,CFP,5199,20,ug/ml,-,Plasma,12938928,,,
+HPRD_02308,CFP,5199,20,ug/ml,-,Plasma,20677825,330,ng/ml,Plasma
+HPRD_02308,CFP,5199,25,ug/ml,-,Plasma,15627965,41,ug/ml,Serum
+HPRD_00343,CGB,1082,19,pg/ml,Immunoassay,Plasma,16038022,19,pg/ml,Plasma
+HPRD_07170,CHGA,1113,84,ng/ml,Spectral counting,Plasma,21632744,84,ng/ml,Plasma
+HPRD_07170,CHGA,1113,65,ng/ml,-,Plasma,19690635,,,
+HPRD_07170,CHGA,1113,110,ng/ml,-,Plasma,15611012,,,
+HPRD_07512,CHGB,1114,20,ng/ml,Spectral counting,Plasma,21632744,20,ng/ml,Plasma
+HPRD_03314,CHI3L1,1116,47,ng/ml,Spectral counting,Plasma,21632744,166,ng/ml,Serum
+HPRD_03314,CHI3L1,1116,15-166,ng/ml,ELISA,Serum,15310777,108,ng/ml,Plasma
+HPRD_03314,CHI3L1,1116,96.91 ± 11.02,ng/ml,ELISA,Plasma,21562723,,,
+HPRD_03314,CHI3L1,1116,28,ng/ml,-,Plasma,19690635,,,
+HPRD_02494,CHIT1,1118,12,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_07598,CHL1,10752,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_02285,CHRDL1,91851,28,ng/ml,Spectral counting,Plasma,21632744,28,ng/ml,Plasma
+HPRD_00423,CKB,1152,65,ng/ml,Spectral counting,Plasma,21632744,65,ng/ml,Plasma
+HPRD_00426,CKM,1158,65,ng/ml,Spectral counting,Plasma,21632744,105,ng/ml,Plasma
+HPRD_00426,CKM,1158,105,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_05277,CLEC11A,6320,13. 0±2.6 ,ng/ml,ELISA,Serum,12900775,15.6,ng/ml,Serum
+HPRD_01759,CLEC3B,7123,58,ug/ml,Spectral counting,Plasma,21632744,58,ug/ml,Plasma
+HPRD_01759,CLEC3B,7123,7.7-17,ug/ml,Immunoassay,Serum,9760017,17,ug/ml,Plasma
+HPRD_01759,CLEC3B,7123,7.8-17,ug/ml,Immunoassay,Serum,9760017,,,
+HPRD_01759,CLEC3B,7123,8.75-11.51,ug/ml,ELISA,Serum,10638947,,,
+HPRD_01759,CLEC3B,7123,7.7-17,ug/ml,-,Serum,21090636,,,
+HPRD_01759,CLEC3B,7123,8.2,ug/ml,-,Plasma,19690635,,,
+HPRD_04188,CLIC1,1192,22,ng/ml,Spectral counting,Plasma,21632744,22,ng/ml,Plasma
+HPRD_05943,CLIC4,25932,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_00356,CLPS,1208,5.6,ng/ml,Spectral counting,Plasma,21632744,5.6,ng/ml,Plasma
+HPRD_10837,CLSTN1,22883,7.9,ng/ml,Spectral counting,Plasma,21632744,7.9,ng/ml,Plasma
+HPRD_00350,CLTC,1213,3.4,ng/ml,Spectral counting,Plasma,21632744,3.4,ng/ml,Plasma
+HPRD_01706,CLU,1191,25,ug/ml,Spectral counting,Plasma,21632744,152.36,ug/ml,Blood
+HPRD_01706,CLU,1191,91.4,ug/ml,Multiple reaction monitoring,Plasma,23245390,420,ug/ml,Serum
+HPRD_01706,CLU,1191,152.36,ug/ml,Multiple reaction monitoring,Blood,23221968,113.099,ug/ml,Plasma
+HPRD_01706,CLU,1191,113.099,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_01706,CLU,1191,250-420,ug/ml,Enzyme immunoassay,Serum,7680696,,,
+HPRD_01706,CLU,1191,35-105,ug/ml,ELISA,Serum,12200037,,,
+HPRD_01706,CLU,1191,35-110,ug/ml,ELISA,Serum,2454950,,,
+HPRD_01706,CLU,1191,40-110,ug/ml,ELISA,Plasma,2454950,,,
+HPRD_01706,CLU,1191,40-110,ug/ml,ELISA,Plasma,12200037,,,
+HPRD_01706,CLU,1191,50,ug/ml,-,Plasma,12938928,,,
+HPRD_01706,CLU,1191,50,ug/ml,-,Plasma,15627965,,,
+HPRD_01706,CLU,1191,50,ug/ml,-,Plasma,20677825,,,
+HPRD_01706,CLU,1191,100,ug/ml,-,Plasma,19690635,,,
+HPRD_01706,CLU,1191,370,ug/ml,-,Plasma,15611012,,,
+HPRD_01706,CLU,1191,370,ug/ml,-,Plasma,20204147,,,
+HPRD_01706,CLU,1191,250-420,ug/ml,-,Serum,21090636,,,
+HPRD_09894,CNDP1,84735,230,ng/ml,Spectral counting,Plasma,21632744,230,ng/ml,Plasma
+HPRD_03847,CNN2,1265,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_11999,CNOT1,23019,5.7,ng/ml,Spectral counting,Plasma,21632744,5.7,ng/ml,Plasma
+HPRD_12056,CNPY2,10330,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_00347,CNTF,1270,0.0-6.8,pg/ml,ELISA,Serum,9346362,27.2,pg/ml,Serum
+HPRD_00347,CNTF,1270,0-27.2,pg/ml,ELISA,Serum,18353124,,,
+HPRD_00347,CNTF,1270,0-8.5,pg/ml,ELISA,Serum,9883970,,,
+HPRD_00347,CNTF,1270,0-8.5,pg/ml,ELISA,Serum,10233412,,,
+HPRD_07189,CNTN1,1272,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_00380,COL15A1,1306,8.8,ng/ml,Spectral counting,Plasma,21632744,8.8,ng/ml,Plasma
+HPRD_00382,COL18A1,80781,35,ng/ml,Spectral counting,Plasma,21632744,35,ng/ml,Plasma
+HPRD_00362,COL1A1,1277,390,ng/ml,Spectral counting,Plasma,21632744,390,ng/ml,Plasma
+HPRD_00362,COL1A1,1277,290,pg/ml,-,Plasma,19690635,,,
+HPRD_00363,COL1A2,1278,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_00365,COL3A1,1281,3.4,ng/ml,Spectral counting,Plasma,21632744,3.4,ng/ml,Plasma
+HPRD_00355,COL4A2,1284,4,ng/ml,Spectral counting,Plasma,21632744,4,ng/ml,Plasma
+HPRD_00368,COL5A1,1289,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_00370,COL6A1,1291,26,ng/ml,Spectral counting,Plasma,21632744,26,ng/ml,Plasma
+HPRD_00371,COL6A3,1293,100,ng/ml,Spectral counting,Plasma,21632744,100,ng/ml,Plasma
+HPRD_07403,COLEC10,10584,4.7,ng/ml,Spectral counting,Plasma,21632744,3.8,ng/ml,Plasma
+HPRD_06358,COLEC12,81035,9,ng/ml,Spectral counting,Plasma,21632744,9,ng/ml,Plasma
+HPRD_02632,COMP,1311,61,ng/ml,Spectral counting,Plasma,21632744,2.17,ug/ml,Plasma
+HPRD_02632,COMP,1311,0.95-2.17,ug/ml,Enzyme immunoassay,Plasma,17579668,2.35,ug/ml,Serum
+HPRD_02632,COMP,1311,0.97-2.35,ug/ml,Enzyme immunoassay,Serum,17579668,,,
+HPRD_05414,CORO1A,11151,41,ng/ml,Spectral counting,Plasma,21632744,41,ng/ml,Plasma
+HPRD_16743,CORO1B,57175,1.8,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_09244,CORO1C,23603,21,ng/ml,Spectral counting,Plasma,21632744,21,ng/ml,Plasma
+HPRD_00317,CP,1356,86,ug/ml,Spectral counting,Plasma,21632744,123.7,ug/ml,Blood
+HPRD_00317,CP,1356,320,ug/ml,Spectral counting,Plasma,21632744,400,ug/ml,Serum
+HPRD_00317,CP,1356,100-400,ug/ml,Single radial immunodiffusion,Serum,4172868,320,ug/ml,Plasma
+HPRD_00317,CP,1356,64.9,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00317,CP,1356,123.7,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00317,CP,1356,278±93,mg/L,Immunoradiometric assay,Serum,12077727,,,
+HPRD_00317,CP,1356,210,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00317,CP,1356,210,ug/ml,-,Plasma,19572557,,,
+HPRD_00317,CP,1356,280,ug/ml,-,Plasma,15611012,,,
+HPRD_00317,CP,1356,280,ug/ml,-,Plasma,19690635,,,
+HPRD_00317,CP,1356,280,ug/ml,-,Plasma,20204147,,,
+HPRD_00317,CP,1356,350,ug/ml,-,Plasma,12938928,,,
+HPRD_00317,CP,1356,400,ug/ml,-,Plasma,15627965,,,
+HPRD_00317,CP,1356,400,ug/ml,-,Plasma,20677825,,,
+HPRD_00271,CPB1,1360,15-111 ,ng/ml,Immunoassay,Serum,1688389,111,ng/ml,Serum
+HPRD_04374,CPB2,1361,700,ng/ml,Spectral counting,Plasma,21632744,700,ng/ml,Plasma
+HPRD_04374,CPB2,1361,3.3,ug/ml,-,Plasma,20204147,,,
+HPRD_04374,CPB2,1361,3.5,ug/ml,-,Plasma,15611012,,,
+HPRD_04374,CPB2,1361,4.4-15,ug/ml,-,Plasma,16299049,,,
+HPRD_04374,CPB2,1361,5-Feb,pg/ml,-,Plasma,1939207,,,
+HPRD_16745,CPEB3,22849,5.1,ng/ml,Spectral counting,Plasma,21632744,5.1,ng/ml,Plasma
+HPRD_09120,CPN1,1369,720,ng/ml,Spectral counting,Plasma,21632744,720,ng/ml,Plasma
+HPRD_09120,CPN1,1369,35,ug/ml,-,Plasma,15627965,,,
+HPRD_09120,CPN1,1369,35,ug/ml,-,Plasma,20677825,,,
+HPRD_11928,CPN2,1370,2,ug/ml,Spectral counting,Plasma,21632744,2,ug/ml,Plasma
+HPRD_11928,CPN2,1370,5.8,ug/ml,-,Plasma,20204147,,,
+HPRD_05016,CPNE3,8895,2.3,ng/ml,Spectral counting,Plasma,21632744,2.3,ng/ml,Plasma
+HPRD_01995,CPS1,1373,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_00399,CR2,1380,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_11788,CRISP3,10321,6.3,pg/ml,ELISA,Plasma,12009203,6.3,pg/ml,Plasma
+HPRD_03596,CRKL,1399,4,ng/ml,Spectral counting,Plasma,21632744,4,ng/ml,Plasma
+HPRD_00422,CRP,1401,260,ng/ml,Spectral counting,Plasma,21632744,52,ug/ml,Serum
+HPRD_00422,CRP,1401,200-850,ng/ml,nephelometry,Plasma,15547024,8.9,ug/ml,Plasma
+HPRD_00422,CRP,1401,1.95 ± 1.43,mg/l,Immunoturbidimetric assay,Serum,21226708,,,
+HPRD_00422,CRP,1401,0.3 ± 0.2,mg/dl,Immunonepholometry,Serum,21053744,,,
+HPRD_00422,CRP,1401,0-18,ug/ml,Immunoelectrophoresis,Serum,22112431,,,
+HPRD_00422,CRP,1401,0.3-1.15,ug/ml,ELISA,Serum,21539846,,,
+HPRD_00422,CRP,1401,0.34±0.74,mg/dl,ELISA,Serum,12574959,,,
+HPRD_00422,CRP,1401,0.5 - 5.2,mg/dl,ELISA,Serum,18775894,,,
+HPRD_00422,CRP,1401,19-3446,ng/ml,ELISA,Serum,14767861,,,
+HPRD_00422,CRP,1401,3.7±5.2,mg/L,ELISA,Plasma,21576827,,,
+HPRD_00422,CRP,1401,800-3800,ng/ml,ELISA,Plasma,18082488,,,
+HPRD_00422,CRP,1401,May-52,ug/ml,ELISA,Serum,18775894,,,
+HPRD_00422,CRP,1401,3,ug/ml,-,Plasma,12938928,,,
+HPRD_00422,CRP,1401,3,ug/ml,-,Plasma,20677825,,,
+HPRD_00422,CRP,1401,2.3,ug/ml,-,Plasma,15611012,,,
+HPRD_00422,CRP,1401,0.1-5,ug/ml,-,Serum,22112431,,,
+HPRD_00422,CRP,1401,2,ug/ml,-,Plasma,19690635,,,
+HPRD_10447,CRTAC1,55118,27,ng/ml,Spectral counting,Plasma,21632744,27,ng/ml,Plasma
+HPRD_00427,CRYAA,1409,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_09021,CRYBB1,1414,13,ng/ml,Spectral counting,Plasma,21632744,13,ng/ml,Plasma
+HPRD_00437,CRYZ,1429,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_00388,CSF1,1435,24,ng/ml,Spectral counting,Plasma,21632744,24,ng/ml,Plasma
+HPRD_00388,CSF1,1435,202 ± 20,pg/ml,ELISA,Plasma,18632595,,,
+HPRD_00388,CSF1,1435,680 ± 158,pg/ml,ELISA,Plasma,10716468,,,
+HPRD_00388,CSF1,1435,70,pg/ml,-,Plasma,19690635,,,
+HPRD_00388,CSF1,1435,680,pg/ml,-,Plasma,15611012,,,
+HPRD_01269,CSF1R,1436,18,ng/ml,Spectral counting,Plasma,21632744,26,ng/ml,Plasma
+HPRD_01269,CSF1R,1436,26,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_01269,CSF1R,1436,26,ng/ml,-,Plasma,16335952,,,
+HPRD_01269,CSF1R,1436,26,ng/ml,-,Plasma,20677825,,,
+HPRD_00734,CSF2,1437,10,pg/ml,-,Plasma,19690635,10,pg/ml,Plasma
+HPRD_00736,CSF3,1440,0-373,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,373,pg/ml,Plasma
+HPRD_00736,CSF3,1440,18,pg/ml,-,Plasma,19690635,,,
+HPRD_00470,CSRP1,1465,7.6,ng/ml,Spectral counting,Plasma,21632744,7.6,ng/ml,Plasma
+HPRD_07525,CSRP3,8048,2.3,ng/ml,Spectral counting,Plasma,21632744,2.3,ng/ml,Plasma
+HPRD_00460,CST1,1469,51,ng/ml,Spectral counting,Plasma,21632744,51,ng/ml,Plasma
+HPRD_05056,CST3,1471,4.8,ug/ml,Spectral counting,Plasma,21632744,4.8,ug/ml,Plasma
+HPRD_05056,CST3,1471,200-400,ng/ml,ELISA,Serum,15149884,,,
+HPRD_05056,CST3,1471,1.1,ug/ml,-,Plasma,12938928,,,
+HPRD_05056,CST3,1471,320,ng/ml,-,Plasma,19690635,,,
+HPRD_00462,CST4,1472,5,ng/ml,Spectral counting,Plasma,21632744,5,ng/ml,Plasma
+HPRD_03535,CST6,1474,270,ng/ml,Spectral counting,Plasma,21632744,270,ng/ml,Plasma
+HPRD_01697,CSTA,1475,16,ng/ml,Spectral counting,Plasma,21632744,16,ng/ml,Plasma
+HPRD_01697,CSTA,1475,3.2,ng/ml,-,Plasma,19690635,,,
+HPRD_03091,CSTB,1476,78,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_03091,CSTB,1476,1.7,ng/ml,-,Plasma,19690635,78,ng/ml,Plasma
+HPRD_02927,CTBS,1486,360,ng/ml,Spectral counting,Plasma,21632744,360,ng/ml,Plasma
+HPRD_00412,CTGF,1490,38,ng/ml,Spectral counting,Plasma,21632744,38,ng/ml,Plasma
+HPRD_02020,CTSA,5476,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_00287,CTSB,1508,93,ng/ml,Spectral counting,Plasma,21632744,93,ng/ml,Plasma
+HPRD_00287,CTSB,1508,1.5-40 ,ng/ml,ELISA,Serum,9626470,,,
+HPRD_00287,CTSB,1508,2.1,ng/ml,-,Plasma,15611012,,,
+HPRD_00287,CTSB,1508,2.1,ng/ml,-,Plasma,19690635,,,
+HPRD_03841,CTSC,1075,7.8,ug/ml,Spectral counting,Plasma,21632744,7.8,ug/ml,Plasma
+HPRD_00291,CTSD,1509,180,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00291,CTSD,1509,8.9,ng/ml,-,Plasma,16335952,180,ng/ml,Plasma
+HPRD_00291,CTSD,1509,9,ng/ml,-,Plasma,20698492,,,
+HPRD_00289,CTSG,1511,3.7,ng/ml,Spectral counting,Plasma,21632744,3.7,ng/ml,Plasma
+HPRD_00288,CTSH,1512,130,ng/ml,Spectral counting,Plasma,21632744,130,ng/ml,Plasma
+HPRD_03064,CTSK,1513,0.1-24,pg/ml,ELISA,Serum,18674944,24,pg/ml,Serum
+HPRD_03064,CTSK,1513,31-165,ng/ml,ELISA,Plasma,16376371,165,ng/ml,Plasma
+HPRD_00292,CTSS,1520,5.1,ng/ml,Spectral counting,Plasma,21632744,5.1,ng/ml,Plasma
+HPRD_04410,CTSZ,1522,12,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_01268,CTTN,2017,2.4,ng/ml,Spectral counting,Plasma,21632744,2.4,ng/ml,Plasma
+HPRD_12902,CUTA,51596,28,ng/ml,Spectral counting,Plasma,21632744,28,ng/ml,Plasma
+HPRD_00930,CXCL10,3627,Apr-97,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,97,pg/ml,Plasma
+HPRD_00930,CXCL10,3627,91±51,pg/ml,ELISA,Serum,18760981,864,pg/ml,Serum
+HPRD_00930,CXCL10,3627,597-864,pg/ml,Cytometric bead array,Serum,20032101,,,
+HPRD_00741,CXCL2,2920,300,pg/ml,Immunoassay,Plasma,16038022,32,ng/ml,Plasma
+HPRD_08976,CXCL5,6374,340,pg/ml,Immunoassay,Plasma,16038022,,,
+HPRD_08976,CXCL5,6374,340,pg/ml,-,Plasma,19572557,,,
+HPRD_08976,CXCL5,6374,400,pg/ml,-,Plasma,19690635,340,pg/ml,Plasma
+HPRD_03416,CXCL9,4283,0-86,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,250,pg/ml,Serum
+HPRD_03416,CXCL9,4283,159-250,pg/ml,Cytometric bead array,Serum,20032101,,,
+HPRD_08941,CYB5A,1528,5.1,ng/ml,Spectral counting,Plasma,21632744,5.1,ng/ml,Plasma
+HPRD_00479,CYCS,54205,8,ng/ml,Spectral counting,Plasma,21632744,8,ng/ml,Plasma
+HPRD_16260,CYTL1,54360,4.3,ng/ml,Spectral counting,Plasma,21632744,4.3,ng/ml,Plasma
+HPRD_00546,DAG1,1605,34,ng/ml,Spectral counting,Plasma,21632744,34,ng/ml,Plasma
+HPRD_13180,DAK,26007,8,ng/ml,Spectral counting,Plasma,21632744,8,ng/ml,Plasma
+HPRD_07677,DARS2,55157,1.2,ng/ml,Spectral counting,Plasma,21632744,1.2,ng/ml,Plasma
+HPRD_01963,DBH,1621,110,ng/ml,Spectral counting,Plasma,21632744,110,ng/ml,Plasma
+HPRD_08832,DBI,1622,100,ng/ml,Spectral counting,Plasma,21632744,100,ng/ml,Plasma
+HPRD_08832,DBI,1622,1,pg/ml,-,Plasma,19690635,,,
+HPRD_07363,DCD,117159,130,ng/ml,Spectral counting,Plasma,21632744,130,ng/ml,Plasma
+HPRD_16320,DCXR,51181,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_09203,DDAH1,23576,3.8,ng/ml,Spectral counting,Plasma,21632744,3.8,ng/ml,Plasma
+HPRD_04126,DDT,1652,17,ng/ml,Spectral counting,Plasma,21632744,17,ng/ml,Plasma
+HPRD_00499,DEFA1,1667,3.6,ug/ml,Spectral counting,Plasma,21632744,3.6,ug/ml,Plasma
+HPRD_00499,DEFA1,1667,0·12 ± 0·07,ng/ml,ELISA,Serum,19191901,,,
+HPRD_00499,DEFA1,1667,42,ng/ml,-,Plasma,19690635,,,
+HPRD_19030,DEFA1B,728358,42,ng/ml,-,Plasma,19690635,42,ng/ml,Plasma
+HPRD_02720,DEFA5,1670,3,ug/ml,Spectral counting,Plasma,21632744,42,ng/ml,Plasma
+HPRD_02719,DEFA6,1671,34,ng/ml,Spectral counting,Plasma,21632744,3,ug/ml,Plasma
+HPRD_00514,DES,1674,28,ug/ml,Spectral counting,Plasma,21632744,34,ng/ml,Plasma
+HPRD_05560,DIABLO,56616,257,pg/ml,ELISA,Serum,22218530,257,pg/ml,Serum
+HPRD_05659,DKK3,27122,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_02006,DLD,1738,3.9,ng/ml,Spectral counting,Plasma,21632744,2.9,ug/ml,Plasma
+HPRD_05789,DMGDH,29958,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_12387,DMKN,93099,20,ng/ml,Spectral counting,Plasma,21632744,20,ng/ml,Plasma
+HPRD_00506,DMTN,2039,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_09924,DNPEP,23549,7.3,ng/ml,Spectral counting,Plasma,21632744,7.3,ng/ml,Plasma
+HPRD_07011,DPEP2,64174,6.5,ng/ml,Spectral counting,Plasma,21632744,6.5,ng/ml,Plasma
+HPRD_06012,DPP3,10072,6.1,ng/ml,Spectral counting,Plasma,21632744,6.1,ng/ml,Plasma
+HPRD_02187,DPP4,1803,6,ng/ml,Spectral counting,Plasma,21632744,3.9,ng/ml,Plasma
+HPRD_02187,DPP4,1803,197-487,ng/ml,ELISA,Serum,19459926,487,ng/ml,Serum
+HPRD_03914,DPYSL2,1808,6.1,ng/ml,Spectral counting,Plasma,21632744,6.1,ng/ml,Plasma
+HPRD_00511,DSC1,1823,52,ng/ml,Spectral counting,Plasma,21632744,52,ng/ml,Plasma
+HPRD_00512,DSC2,1824,2.7,ng/ml,Spectral counting,Plasma,21632744,2.7,ng/ml,Plasma
+HPRD_02604,DSC3,1825,27,ng/ml,Spectral counting,Plasma,21632744,27,ng/ml,Plasma
+HPRD_00515,DSG1,1828,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_00516,DSG2,1829,2.7,ng/ml,Spectral counting,Plasma,21632744,2.7,ng/ml,Plasma
+HPRD_00513,DSP,1832,20,ng/ml,Spectral counting,Plasma,21632744,20,ng/ml,Plasma
+HPRD_16446,DSTN,11034,1.5,ng/ml,Spectral counting,Plasma,21632744,1.5,ng/ml,Plasma
+HPRD_02628,ECI1,1632,4.4,ng/ml,Spectral counting,Plasma,21632744,4.4,ng/ml,Plasma
+HPRD_03727,ECM1,1893,770,ng/ml,Spectral counting,Plasma,21632744,770,ng/ml,Plasma
+HPRD_07030,EDN1,1906,1.5± 0.2,ng/ml,Radioimmunoassay,Plasma,7572659,1.7,ng/ml,Plasma
+HPRD_07030,EDN1,1906,1.5,pg/ml,-,Plasma,19690635,,,
+HPRD_07030,EDN1,1906,3.6,pg/ml,-,Plasma,15611012,,,
+HPRD_07030,EDN1,1906,12,pg/ml,-,Plasma,15611012,,,
+HPRD_00559,EEF1A1,1915,61,ng/ml,Spectral counting,Plasma,21632744,61,ng/ml,Plasma
+HPRD_00561,EEF2,1938,30,ng/ml,Spectral counting,Plasma,21632744,30,ng/ml,Plasma
+HPRD_03331,EFEMP1,2202,260,ng/ml,Spectral counting,Plasma,21632744,260,ng/ml,Plasma
+HPRD_02072,EFNB1,1947,5.8,ng/ml,Spectral counting,Plasma,21632744,5.8,ng/ml,Plasma
+HPRD_02754,EFNB2,1948,8,ng/ml,Spectral counting,Plasma,21632744,8,ng/ml,Plasma
+HPRD_04869,EFTUD2,9343,4.9,ng/ml,Spectral counting,Plasma,21632744,4.9,ng/ml,Plasma
+HPRD_00578,EGF,1950,0-3.33,ng/ml,Multiplex immunobead assay,Serum,17438101,3.33,ng/ml,Serum
+HPRD_00578,EGF,1950,15,pg/ml,-,Plasma,19690635,,,
+HPRD_00579,EGFR,1956,12,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_00579,EGFR,1956,11,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00579,EGFR,1956,6.9,ng/ml,-,Plasma,19690635,,,
+HPRD_09325,EHD1,10938,1.8,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_16170,EHD3,30845,1.3,ng/ml,Spectral counting,Plasma,21632744,1.3,ng/ml,Plasma
+HPRD_04884,EIF3I,8668,2.3,ng/ml,Spectral counting,Plasma,21632744,2.3,ng/ml,Plasma
+HPRD_04030,EIF4A1,1973,4,ng/ml,Spectral counting,Plasma,21632744,4,ng/ml,Plasma
+HPRD_03062,EIF4A2,1974,4,ng/ml,Spectral counting,Plasma,21632744,4,ng/ml,Plasma
+HPRD_02555,EIF5A,1984,39,ng/ml,Spectral counting,Plasma,21632744,39,ng/ml,Plasma
+HPRD_00556,ELN,2006,38,ng/ml,Spectral counting,Plasma,21632744,38,ng/ml,Plasma
+HPRD_07884,ELP6,54859,1.2,ng/ml,Spectral counting,Plasma,21632744,1.2,ng/ml,Plasma
+HPRD_13270,ELTD1,64123,2.8,ng/ml,Spectral counting,Plasma,21632744,2.8,ng/ml,Plasma
+HPRD_09937,EMILIN2,84034,29,ng/ml,Spectral counting,Plasma,21632744,29,ng/ml,Plasma
+HPRD_00565,ENG,2022,6.9,ng/ml,Spectral counting,Plasma,21632744,6.9,ng/ml,Plasma
+HPRD_00565,ENG,2022,41.0 ± 15,ng/ml,Sandwich Assay,Serum,11297243,56,ng/ml,Serum
+HPRD_00565,ENG,2022,3.4-8.3,ng/ml,ELISA,Serum,19276301,,,
+HPRD_00565,ENG,2022,34,ng/ml,-,Plasma,15611012,,,
+HPRD_00565,ENG,2022,34,ng/ml,-,Plasma,19690635,,,
+HPRD_01400,ENO1,2023,55,ng/ml,Spectral counting,Plasma,21632744,55,ng/ml,Plasma
+HPRD_00573,ENO2,2026,55,ng/ml,Spectral counting,Plasma,21632744,55,ng/ml,Plasma
+HPRD_00573,ENO2,2026,1.4,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00573,ENO2,2026,9.6,ng/ml,-,Plasma,15611012,,,
+HPRD_00573,ENO2,2026,13,ng/ml,-,Plasma,19690635,,,
+HPRD_00573,ENO2,2026,80,pg/ml,-,Plasma,15611012,,,
+HPRD_00573,ENO2,2026,8.15±1.53,ng/dl,-,Plasma,12089745,,,
+HPRD_11746,ENO3,2027,55,ng/ml,Spectral counting,Plasma,21632744,55,ng/ml,Plasma
+HPRD_08848,ENPEP,2028,2.1,ng/ml,Spectral counting,Plasma,21632744,2.1,ng/ml,Plasma
+HPRD_03037,ENPP2,5168,39,ng/ml,Spectral counting,Plasma,21632744,39,ng/ml,Plasma
+HPRD_11927,ENSA,2029,2.1,ng/ml,Spectral counting,Plasma,21632744,2.1,ng/ml,Plasma
+HPRD_00558,EPB41,2035,4.6,ng/ml,Spectral counting,Plasma,21632744,4.6,ng/ml,Plasma
+HPRD_01709,EPCAM,4072,2,ng/ml,-,Plasma,19690635,2,ng/ml,Plasma
+HPRD_01554,EPHA1,2041,2.7,ng/ml,Spectral counting,Plasma,21632744,2.7,ng/ml,Plasma
+HPRD_00582,EPHX2,2053,3.9,ng/ml,Spectral counting,Plasma,21632744,3.9,ng/ml,Plasma
+HPRD_00586,EPO,2056,100,ng/ml,-,Plasma,19690635,100,ng/ml,Plasma
+HPRD_00586,EPO,2056,260,pg/ml,-,Plasma,15611012,,,
+HPRD_06500,EPPK1,83481,2.8,ng/ml,Spectral counting,Plasma,21632744,2.8,ng/ml,Plasma
+HPRD_06015,ERAP1,51752,5.1,ng/ml,Spectral counting,Plasma,21632744,5.1,ng/ml,Plasma
+HPRD_14306,ERAP2,64167,980,pg/ml,Spectral counting,Plasma,21632744,980,pg/ml,Plasma
+HPRD_01281,ERBB2,2064,11,ng/ml,-,Plasma,19690635,11,ng/ml,Plasma
+HPRD_04943,ERN1,2081,7,ng/ml,Spectral counting,Plasma,21632744,7,ng/ml,Plasma
+HPRD_03794,ERP29,10961,6,ng/ml,Spectral counting,Plasma,21632744,6,ng/ml,Plasma
+HPRD_10290,ERP44,23071,4.5,ng/ml,Spectral counting,Plasma,21632744,4.5,ng/ml,Plasma
+HPRD_13280,ESAM,90952,4.6,ng/ml,Spectral counting,Plasma,21632744,4.6,ng/ml,Plasma
+HPRD_00588,ESD,2098,13,ng/ml,Spectral counting,Plasma,21632744,13,ng/ml,Plasma
+HPRD_00475,EZR,7430,47,ng/ml,Spectral counting,Plasma,21632744,47,ng/ml,Plasma
+HPRD_01966,F10,2159,500,ng/ml,Spectral counting,Plasma,21632744,500,ng/ml,Plasma
+HPRD_01966,F10,2159,7.5,ug/ml,-,Plasma,12938928,,,
+HPRD_01966,F10,2159,8,ug/ml,-,Plasma,15627965,,,
+HPRD_01966,F10,2159,8,ug/ml,-,Plasma,20677825,,,
+HPRD_01966,F10,2159,10,ug/ml,-,Plasma,15611012,,,
+HPRD_01966,F10,2159,10,ug/ml,-,Plasma,20204147,,,
+HPRD_07524,F11,2160,63,ng/ml,Spectral counting,Plasma,21632744,63,ng/ml,Plasma
+HPRD_07524,F11,2160,4.8,ug/ml,-,Plasma,15611012,,,
+HPRD_01992,F12,2161,3,ug/ml,Spectral counting,Plasma,21632744,19.04,ug/ml,Blood
+HPRD_01992,F12,2161,Dec-47,ug/ml,quantitative dot immunobinding assay,Plasma,2358685,47,ug/ml,Plasma
+HPRD_01992,F12,2161,11.6,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01992,F12,2161,12.6,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_01992,F12,2161,14.3,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01992,F12,2161,19.04,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_01992,F12,2161,15.921,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_01992,F12,2161,800-1500,pg/ml,ELISA,Plasma,12215862,,,
+HPRD_01992,F12,2161,2,ng/ml,-,Plasma,15611012,,,
+HPRD_01992,F12,2161,30,ug/ml,-,Plasma,12938928,,,
+HPRD_01992,F12,2161,30,ug/ml,-,Plasma,15611012,,,
+HPRD_01992,F12,2161,30,ug/ml,-,Plasma,15627965,,,
+HPRD_01992,F12,2161,30,ug/ml,-,Plasma,20677825,,,
+HPRD_01992,F12,2161,Dec-47,ug/ml,-,Plasma,21090636,,,
+HPRD_00604,F13A1,2162,69,ng/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_00604,F13A1,2162,26.863,ug/ml,Multiple reaction monitoring,Plasma,23592487,,,
+HPRD_00604,F13A1,2162,14-28,ug/ml,ELISA,Plasma,10739385,,,
+HPRD_00604,F13A1,2162,10,ug/ml,-,Plasma,12938928,,,
+HPRD_00604,F13A1,2162,10,ug/ml,-,Plasma,15611012,,,
+HPRD_00604,F13A1,2162,10,ug/ml,-,Plasma,20677825,,,
+HPRD_00605,F13B,2165,960,ng/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_00605,F13B,2165,14-28,ug/ml,ELISA,Plasma,10739385,,,
+HPRD_00605,F13B,2165,4.8,ug/ml,-,Plasma,19690635,,,
+HPRD_00605,F13B,2165,10,ug/ml,-,Plasma,20204147,,,
+HPRD_01488,F2,2147,27,ug/ml,Spectral counting,Plasma,21632744,27,ug/ml,Plasma
+HPRD_01488,F2,2147,9.41,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_01488,F2,2147,472,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_01488,F2,2147,1.2,ng/ml,-,Plasma,15611012,,,
+HPRD_01488,F2,2147,1.2,ng/ml,-,Plasma,19690635,,,
+HPRD_01488,F2,2147,75,ug/ml,-,Plasma,12938928,,,
+HPRD_01488,F2,2147,100,ug/ml,-,Plasma,15611012,,,
+HPRD_01488,F2,2147,100,ug/ml,-,Plasma,20204147,,,
+HPRD_01488,F2,2147,140,ug/ml,-,Plasma,12938928,,,
+HPRD_01488,F2,2147,150,ug/ml,-,Plasma,15627965,,,
+HPRD_01488,F2,2147,150,ug/ml,-,Plasma,20677825,,,
+HPRD_00603,F3,2152,160,pg/ml,-,Plasma,19690635,280,pg/ml,Plasma
+HPRD_00603,F3,2152,280,pg/ml,-,Plasma,15611012,,,
+HPRD_00603,F3,2152,149-172,pg/ml,-,Plasma,15117736,,,
+HPRD_01964,F5,2153,260,ng/ml,Spectral counting,Plasma,21632744,14,ug/ml,Plasma
+HPRD_01964,F5,2153,14-Apr,ug/ml,Radioimmunoassay,Plasma,7082847,,,
+HPRD_01964,F5,2153,5.78,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01964,F5,2153,6.417,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01964,F5,2153,6.6,ug/ml,-,Plasma,15611012,,,
+HPRD_01964,F5,2153,7.5,ug/ml,-,Plasma,12938928,,,
+HPRD_01964,F5,2153,7.5,ug/ml,-,Plasma,15627965,,,
+HPRD_01964,F5,2153,7.5,ug/ml,-,Plasma,20677825,,,
+HPRD_01965,F7,2155,29,ng/ml,Spectral counting,Plasma,21632744,420,ng/ml,Plasma
+HPRD_01965,F7,2155,324,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_01965,F7,2155,416,ng/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01965,F7,2155,420,ng/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01965,F7,2155,50,ng/ml,-,Plasma,12938928,,,
+HPRD_01965,F7,2155,500,ng/ml,-,Plasma,15611012,,,
+HPRD_02384,F8,2157,830,pg/ml,Spectral counting,Plasma,21632744,830,pg/ml,Plasma
+HPRD_02384,F8,2157,50,ng/ml,-,Plasma,12938928,,,
+HPRD_02384,F8,2157,200,ng/ml,-,Plasma,15611012,,,
+HPRD_02384,F8,2157,200,ng/ml,-,Plasma,15627965,,,
+HPRD_02385,F9,2158,400,ng/ml,Spectral counting,Plasma,21632744,1.6,ug/ml,Plasma
+HPRD_02385,F9,2158,1.3,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_02385,F9,2158,1.6,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_02385,F9,2158,4,ug/ml,-,Plasma,12938928,,,
+HPRD_02385,F9,2158,5,ug/ml,-,Plasma,15627965,,,
+HPRD_02385,F9,2158,5.1,ug/ml,-,Plasma,15611012,,,
+HPRD_00612,FABP1,2168,3.3,ng/ml,Spectral counting,Plasma,21632744,3.3,ng/ml,Plasma
+HPRD_00613,FABP3,2170,2.1±1.1,ug/l,Sandwich ELISA,Plasma,9581860,1.67,ng/ml,Serum
+HPRD_00613,FABP3,2170,1.67,ng/ml,ELISA,Serum,21617322,3.2,ng/ml,Plasma
+HPRD_00613,FABP3,2170,2,ng/ml,-,Plasma,15611012,,,
+HPRD_02698,FABP4,2167,42,ng/ml,Spectral counting,Plasma,21632744,42,ng/ml,Plasma
+HPRD_02698,FABP4,2167,15.86,ng/ml,ELISA,Serum,21863005,,,
+HPRD_02698,FABP4,2167,23.03,ng/ml,ELISA,Serum,21863005,,,
+HPRD_05524,FABP5,2171,40,ng/ml,Spectral counting,Plasma,21632744,40,ng/ml,Plasma
+HPRD_02040,FAH,2184,56,ng/ml,Spectral counting,Plasma,21632744,56,ng/ml,Plasma
+HPRD_12270,FAM3C,10447,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_02674,FAP,2191,2,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00610,FASLG,356,1.5,ng/ml,Immunoassay,Plasma,16038022,1.5,ng/ml,Plasma
+HPRD_00610,FASLG,356,0.67±0.09,ng/ml,ELISA,Serum,10376200,760,pg/ml,Serum
+HPRD_00610,FASLG,356,68.22-103.70,pg/ml,ELISA,Serum,21042884,,,
+HPRD_00610,FASLG,356,25,ng/ml,-,Plasma,19690635,,,
+HPRD_02567,FASN,2194,4.8,ng/ml,Spectral counting,Plasma,21632744,4.8,ng/ml,Plasma
+HPRD_07813,FASTKD5,60493,750,ng/ml,Spectral counting,Plasma,21632744,750,ng/ml,Plasma
+HPRD_00629,FBLN1,2192,620,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_00629,FBLN1,2192,33±3,ug/ml,ELISA,Plasma,2269669,36,ug/ml,Plasma
+HPRD_05204,FBLN5,10516,4.5,ng/ml,Spectral counting,Plasma,21632744,4.5,ng/ml,Plasma
+HPRD_00618,FBN1,2200,100,ng/ml,Spectral counting,Plasma,21632744,100,ng/ml,Plasma
+HPRD_01973,FBP1,2203,47,ng/ml,Spectral counting,Plasma,21632744,47,ng/ml,Plasma
+HPRD_04322,FBP2,8789,47,ng/ml,Spectral counting,Plasma,21632744,47,ng/ml,Plasma
+HPRD_10956,FCGBP,8857,300,ng/ml,Spectral counting,Plasma,21632744,300,ng/ml,Plasma
+HPRD_00906,FCGR2A,2212,4.2,ng/ml,Spectral counting,Plasma,21632744,4.2,ng/ml,Plasma
+HPRD_00903,FCGR3A,2214,63,ng/ml,Spectral counting,Plasma,21632744,63,ng/ml,Plasma
+HPRD_09951,FCGR3B,2215,63,ng/ml,Spectral counting,Plasma,21632744,63,ng/ml,Plasma
+HPRD_03153,FCN1,2219,10-1890,ng/ml,ELISA,Plasma,22673311,1890,ng/ml,Plasma
+HPRD_03376,FCN2,2220,27,ng/ml,Spectral counting,Plasma,21632744,27,ng/ml,Plasma
+HPRD_05399,FCN3,8547,1,ug/ml,Spectral counting,Plasma,21632744,1,ug/ml,Plasma
+HPRD_00606,FDPS,2224,1.9,ng/ml,Spectral counting,Plasma,21632744,1.9,ng/ml,Plasma
+HPRD_07440,FERMT3,83706,32,ng/ml,Spectral counting,Plasma,21632744,32,ng/ml,Plasma
+HPRD_09335,FETUB,26998,270,ng/ml,Spectral counting,Plasma,21632744,270,ng/ml,Plasma
+HPRD_09335,FETUB,26998,5,ug/ml,-,Serum,20204147,6,ug/ml,Serum
+HPRD_09335,FETUB,26998,5±1 ,ug/ml,-,Serum,12943536,,,
+HPRD_00619,FGA,2243,130,pg/ml,Spectral counting,Plasma,21632744,3.115,mg/ml,Blood
+HPRD_00619,FGA,2243,1.7-3.8,mg/ml,Quantitative western blot,Plasma,9326227,3.8,mg/ml,Plasma
+HPRD_00619,FGA,2243,1.5,mg/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00619,FGA,2243,3.115,mg/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00619,FGA,2243,11.7,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00619,FGA,2243,14.74,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00619,FGA,2243,16.7,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00619,FGA,2243,1.898,mg/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00619,FGA,2243,12.717,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00619,FGA,2243,2.5,mg/ml,-,Plasma,15611012,,,
+HPRD_00619,FGA,2243,2.7,mg/ml,-,Plasma,19690635,,,
+HPRD_00619,FGA,2243,900,pg/ml,-,Plasma,20204147,,,
+HPRD_00620,FGB,2244,130,ug/ml,Spectral counting,Plasma,21632744,300.13,ug/ml,Blood
+HPRD_00620,FGB,2244,300.13,ug/ml,Multiple reaction monitoring,Blood,23221968,706,ug/ml,Plasma
+HPRD_00620,FGB,2244,706,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00620,FGB,2244,212,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_03303,FGF12,2257,30-Oct,pg/ml,-,Plasma,14961748,30,pg/ml,Plasma
+HPRD_05709,FGF20,26281,160,pg/ml,Immunoassay,Plasma,16038022,160,pg/ml,Plasma
+HPRD_05648,FGF23,8074,27.2 ± 8.4,pg/ml,ELISA,Serum,21293852,35.6,pg/ml,Plasma
+HPRD_00634,FGFR1,2260,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_00625,FGFR4,2264,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_00621,FGG,2266,98,ug/ml,Spectral counting,Plasma,21632744,12.68,ug/ml,Blood
+HPRD_00621,FGG,2266,12.68,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00621,FGG,2266,23.3,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00621,FGG,2266,281.416,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00621,FGG,2266,670,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00621,FGG,2266,670,ug/ml,-,Plasma,20677825,,,
+HPRD_09312,FGL1,2267,2.3,ng/ml,Spectral counting,Plasma,21632744,2.3,ng/ml,Plasma
+HPRD_16098,FGL2,10875,7.5,ng/ml,Spectral counting,Plasma,21632744,7.5,ng/ml,Plasma
+HPRD_00652,FH,2271,4.9,ng/ml,Spectral counting,Plasma,21632744,4.9,ng/ml,Plasma
+HPRD_02157,FHL1,2273,5.6,ng/ml,Spectral counting,Plasma,21632744,5.6,ng/ml,Plasma
+HPRD_02102,FIGF,2277,500,pg/ml,Immunoassay,Plasma,16038022,500,pg/ml,Plasma
+HPRD_01741,FKBP1A,2280,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_01743,FKBP3,2287,1.8,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_04019,FKBP5,2289,2.5,ng/ml,Spectral counting,Plasma,21632744,2.5,ng/ml,Plasma
+HPRD_15920,FLG,2312,820,pg/ml,Spectral counting,Plasma,21632744,820,pg/ml,Plasma
+HPRD_11815,FLG2,388698,4.6,ng/ml,Spectral counting,Plasma,21632744,4.6,ng/ml,Plasma
+HPRD_02060,FLNA,2316,410,ng/ml,Spectral counting,Plasma,21632744,410,ng/ml,Plasma
+HPRD_04543,FLNB,2317,9.1,ng/ml,Spectral counting,Plasma,21632744,9.1,ng/ml,Plasma
+HPRD_00018,FLNC,2318,410,ng/ml,Spectral counting,Plasma,21632744,410,ng/ml,Plasma
+HPRD_01297,FLT1,2321,0·5-35,ng/ml,ELISA,Plasma,14511360,61.2,pg/ml,Serum
+HPRD_01297,FLT1,2321,1·5-21·5,ng/ml,ELISA,Plasma,14511360,35,ng/ml,Plasma
+HPRD_01297,FLT1,2321,18.8-61.2,pg/ml,ELISA,Serum,14760936,,,
+HPRD_01297,FLT1,2321,600-4000,pg/ml,ELISA,Plasma,12814387,,,
+HPRD_01297,FLT1,2321,70.8-148.3,pg/ml,ELISA,Plasma,20473593,,,
+HPRD_01297,FLT1,2321,70.8-148.3,pg/ml,ELISA,Plasma,20615083,,,
+HPRD_01297,FLT1,2321,30,ng/ml,-,Plasma,19690635,,,
+HPRD_02477,FLT3LG,2323,400,pg/ml,-,Plasma,19690635,400,pg/ml,Plasma
+HPRD_00636,FLT4,2324,4.1,ng/ml,Spectral counting,Plasma,21632744,4.1,ng/ml,Plasma
+HPRD_00626,FN1,2335,20,ug/ml,Spectral counting,Plasma,21632744,110,ug/ml,Plasma
+HPRD_00626,FN1,2335,110,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00626,FN1,2335,181-746,ng/ml,ELISA,Plasma,12599015,,,
+HPRD_00626,FN1,2335,1.4,ug/ml,-,Plasma,15611012,,,
+HPRD_00626,FN1,2335,110,ug/ml,-,Plasma,19572557,,,
+HPRD_00626,FN1,2335,300,ug/ml,-,Plasma,14961748,,,
+HPRD_00626,FN1,2335,300,ug/ml,-,Plasma,15627965,,,
+HPRD_00626,FN1,2335,400,ng/ml,-,Plasma,19690635,,,
+HPRD_03918,FOLR3,2352,43,ng/ml,Spectral counting,Plasma,21632744,43,ng/ml,Plasma
+HPRD_04068,FSCN1,6624,1.8,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_00644,FSHB,2488,5.7,ng/ml,Spectral counting,Plasma,21632744,5.7,ng/ml,Plasma
+HPRD_00641,FST,10468,33,ng/ml,Spectral counting,Plasma,21632744,33,ng/ml,Plasma
+HPRD_00641,FST,10468,0.32-3.7,ng/ml,Immunoassay,Serum,12560755,3.7,ng/ml,Serum
+HPRD_00641,FST,10468,600,pg/ml,-,Plasma,15611012,,,
+HPRD_00641,FST,10468,680,pg/ml,-,Plasma,19690635,,,
+HPRD_16120,FSTL1,11167,3.6,ng/ml,Spectral counting,Plasma,21632744,3.6,ng/ml,Plasma
+HPRD_05632,FSTL3,10272,12,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_00615,FTH1,2495,2.2,ng/ml,Spectral counting,Plasma,21632744,2.2,ng/ml,Plasma
+HPRD_00615,FTH1,2495,50,ng/ml,-,Plasma,19690635,,,
+HPRD_00616,FTL,2512,12,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_00616,FTL,2512,82±10,ng/ml,ELISA,Serum,679492,92,ng/ml,Serum
+HPRD_00616,FTL,2512,20,ng/ml,-,Plasma,15611012,,,
+HPRD_00616,FTL,2512,50,ng/ml,-,Plasma,19690635,,,
+HPRD_01974,FUCA1,2517,3.9,ng/ml,Spectral counting,Plasma,21632744,3.9,ng/ml,Plasma
+HPRD_00649,FUCA2,2519,1.3,ng/ml,Spectral counting,Plasma,21632744,1.3,ng/ml,Plasma
+HPRD_09968,G0S2,50486,10,ng/ml,Spectral counting,Plasma,21632744,10,ng/ml,Plasma
+HPRD_02377,G6PD,2539,6.9,ng/ml,Spectral counting,Plasma,21632744,6.9,ng/ml,Plasma
+HPRD_03782,GALNT2,2590,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_03516,GANAB,23193,6.4,ng/ml,Spectral counting,Plasma,21632744,6.4,ng/ml,Plasma
+HPRD_00713,GAPDH,2597,91,ng/ml,Spectral counting,Plasma,21632744,91,ng/ml,Plasma
+HPRD_00716,GART,2618,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_00671,GAST,2520,690,pg/ml,-,Plasma,19690635,690,pg/ml,Plasma
+HPRD_03838,GATM,2628,6.8,ng/ml,Spectral counting,Plasma,21632744,6.8,ng/ml,Plasma
+HPRD_01985,GBE1,2632,4.6,ng/ml,Spectral counting,Plasma,21632744,4.6,ng/ml,Plasma
+HPRD_00749,GC,2638,57,ug/ml,Spectral counting,Plasma,21632744,104.82,ug/ml,Blood
+HPRD_00749,GC,2638,62.36,ug/ml,Multiple reaction monitoring,Plasma,23245390,460,ug/ml,Serum
+HPRD_00749,GC,2638,104.82,ug/ml,Multiple reaction monitoring,Blood,23221968,62.36,ug/ml,Plasma
+HPRD_00749,GC,2638,320-460,ug/ml,Immunonephelometry,Serum,1526017,,,
+HPRD_00749,GC,2638,360,ug/ml,-,Plasma,12938928,,,
+HPRD_00749,GC,2638,400,ug/ml,-,Plasma,15627965,,,
+HPRD_00749,GC,2638,400,ug/ml,-,Plasma,20677825,,,
+HPRD_06032,GCLC,2729,1.5,ng/ml,Spectral counting,Plasma,21632744,1.5,ng/ml,Plasma
+HPRD_08849,GDA,9615,4.8,ng/ml,Spectral counting,Plasma,21632744,4.8,ng/ml,Plasma
+HPRD_05608,GDF15,9518,1.5±_0.69,ng/ml,ELISA,Serum,21881845,2.19,ng/ml,Serum
+HPRD_02114,GDI1,2664,29,ng/ml,Spectral counting,Plasma,21632744,29,ng/ml,Plasma
+HPRD_02863,GDI2,2665,29,ng/ml,Spectral counting,Plasma,21632744,29,ng/ml,Plasma
+HPRD_00675,GFAP,2670,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_00675,GFAP,2670,150-760,pg/ml,ELISA,Blood,12417106,,,
+HPRD_00675,GFAP,2670,450,pg/ml,-,Plasma,15611012,760,pg/ml,Blood
+HPRD_03299,GGH,8836,250,ng/ml,Spectral counting,Plasma,21632744,250,ng/ml,Plasma
+HPRD_00751,GH1,2688,200,pg/ml,-,Plasma,15611012,400,pg/ml,Plasma
+HPRD_00751,GH1,2688,400,pg/ml,-,Plasma,19690635,,,
+HPRD_05638,GHRL,51738,10,ng/ml,Spectral counting,Plasma,21632744,10,ng/ml,Plasma
+HPRD_05638,GHRL,51738,1.79±0.15,ng/ml,Radioimmunoassay,Plasma,15588149,,,
+HPRD_15925,GIP,2695,12,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_16217,GKN1,56287,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_06187,GLIPR2,152007,92,ng/ml,Spectral counting,Plasma,21632744,92,ng/ml,Plasma
+HPRD_00730,GLO1,2739,5.9,ng/ml,Spectral counting,Plasma,21632744,5.9,ng/ml,Plasma
+HPRD_02707,GLRX,2745,34,ng/ml,Spectral counting,Plasma,21632744,34,ng/ml,Plasma
+HPRD_11748,GLUD1,2746,55,ng/ml,Spectral counting,Plasma,21632744,55,ng/ml,Plasma
+HPRD_02034,GM2A,2760,90,ng/ml,Spectral counting,Plasma,21632744,90,ng/ml,Plasma
+HPRD_00766,GNB1,2782,2.5,ng/ml,Spectral counting,Plasma,21632744,2.5,ng/ml,Plasma
+HPRD_06384,GNPTG,84572,6.8,ng/ml,Spectral counting,Plasma,21632744,6.8,ng/ml,Plasma
+HPRD_08428,GOLM1,51280,9.2,ng/ml,Spectral counting,Plasma,21632744,9.2,ng/ml,Plasma
+HPRD_00687,GOT1,2805,56,ng/ml,Spectral counting,Plasma,21632744,56,ng/ml,Plasma
+HPRD_00684,GOT2,2806,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_01976,GP1BA,2811,18,ng/ml,Spectral counting,Plasma,21632744,18,ng/ml,Plasma
+HPRD_01431,GP5,2814,19,ng/ml,Spectral counting,Plasma,21632744,34.4,ug/ml,Plasma
+HPRD_01431,GP5,2814,23.5-34.4,ug/ml,ELISA,Plasma,17003930,,,
+HPRD_00714,GPD1,2819,3.9,ng/ml,Spectral counting,Plasma,21632744,3.9,ng/ml,Plasma
+HPRD_01394,GPI,2821,150,ng/ml,Spectral counting,Plasma,21632744,150,ng/ml,Plasma
+HPRD_01394,GPI,2821,55,ug/ml,-,Plasma,19690635,,,
+HPRD_03946,GPLD1,2822,460,ng/ml,Spectral counting,Plasma,21632744,460,ng/ml,Plasma
+HPRD_03946,GPLD1,2822,18.3-106.7,ug/ml,ELISA,Serum,14767861,106.7,ug/ml,Serum
+HPRD_03946,GPLD1,2822,75,mg/ml,-,Serum,20204147,,,
+HPRD_03946,GPLD1,2822,75.2,mg/ml,-,Serum,1606959,,,
+HPRD_03946,GPLD1,2822,18.3-106.7,ug/ml,-,Serum,21090636,,,
+HPRD_11010,GPR116,221395,12,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_00689,GPT,2875,16,ng/ml,Spectral counting,Plasma,21632744,16,ng/ml,Plasma
+HPRD_11749,GPX1,2876,5.1,ng/ml,Spectral counting,Plasma,21632744,5.1,ng/ml,Plasma
+HPRD_11750,GPX3,2878,10,ug/ml,Spectral counting,Plasma,21632744,43.8,ug/ml,Plasma
+HPRD_11750,GPX3,2878,13.8 ±7.3,mg/l,ELISA,Plasma,17558897,,,
+HPRD_11750,GPX3,2878,3.8-43.8,ug/ml,ELISA,Plasma,16500636,2.9,ng/ml,Plasma
+HPRD_00150,GRB2,2885,2.9,ng/ml,Spectral counting,Plasma,21632744,270,ng/ml,Plasma
+HPRD_18176,GRHL1,29841,130,ng/ml,Spectral counting,Plasma,21632744,130,ng/ml,Plasma
+HPRD_05052,GRHPR,9380,5.1,ng/ml,Spectral counting,Plasma,21632744,5.1,ng/ml,Plasma
+HPRD_00733,GRN,2896,270,ng/ml,Spectral counting,Plasma,21632744,300,pg/ml,Plasma
+HPRD_00674,GSN,2934,16,ug/ml,Spectral counting,Plasma,21632744,300,ug/ml,Serum
+HPRD_00674,GSN,2934,517 ± 134 ,mg/L,Quantitative western blot,Plasma,10556139,651,ug/ml,Plasma
+HPRD_00674,GSN,2934,49.2,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00674,GSN,2934,884,ng/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00674,GSN,2934,500,ug/ml,-,Plasma,20204147,,,
+HPRD_00674,GSN,2934,190-300,ug/ml,-,Serum,9142022,,,
+HPRD_00704,GSR,2936,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_03000,GSS,2937,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_00708,GSTA1,2938,2.4,ng/ml,Spectral counting,Plasma,21632744,2.4,ng/ml,Plasma
+HPRD_10401,GSTO1,9446,33,ng/ml,Spectral counting,Plasma,21632744,33,ng/ml,Plasma
+HPRD_00614,GSTP1,2950,32,ng/ml,Spectral counting,Plasma,21632744,32,ng/ml,Plasma
+HPRD_00767,GUCA2A,2980,350,ng/ml,Spectral counting,Plasma,21632744,350,ng/ml,Plasma
+HPRD_03170,GUCA2B,2981,27,ng/ml,Spectral counting,Plasma,21632744,27,ng/ml,Plasma
+HPRD_12181,GULP1,51454,12,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_02633,GZMM,3004,6.9,ng/ml,Spectral counting,Plasma,21632744,6.9,ng/ml,Plasma
+HPRD_00823,H2AFZ,3015,200,ng/ml,Spectral counting,Plasma,21632744,200,ng/ml,Plasma
+HPRD_00681,H6PD,9563,4.9,ng/ml,Spectral counting,Plasma,21632744,4.9,ng/ml,Plasma
+HPRD_04890,HABP2,3026,1.1,ug/ml,Spectral counting,Plasma,21632744,1.1,ug/ml,Plasma
+HPRD_04890,HABP2,3026,118,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_04890,HABP2,3026,370,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_04890,HABP2,3026,483,ng/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_04890,HABP2,3026,515,ng/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_04890,HABP2,3026,7.5,ug/ml,-,Plasma,15611012,,,
+HPRD_00731,HAGH,3029,1.7,ng/ml,Spectral counting,Plasma,21632744,1.7,ng/ml,Plasma
+HPRD_00784,HBA1,3039,41,ug/ml,Spectral counting,Plasma,21632744,41,ug/ml,Plasma
+HPRD_00786,HBB,3043,30,ug/ml,Spectral counting,Plasma,21632744,30,ug/ml,Plasma
+HPRD_00786,HBB,3043,100,mg/ml,-,Plasma,20204147,,,
+HPRD_00787,HBD,3045,30,ug/ml,Spectral counting,Plasma,21632744,30,ug/ml,
+HPRD_00792,HBG2,3048,30,ug/ml,Spectral counting,Plasma,21632744,30,ug/ml,
+HPRD_00794,HBZ,3050,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,
+HPRD_02079,HDGF,3068,4.2,ng/ml,Spectral counting,Plasma,21632744,4.2,ng/ml,Plasma
+HPRD_13644,HEG1,57493,6.6,ng/ml,Spectral counting,Plasma,21632744,6.6,ng/ml,Plasma
+HPRD_06043,HEXB,3074,1.5,ng/ml,Spectral counting,Plasma,21632744,1.5,ng/ml,Plasma
+HPRD_00799,HGF,3082,0-433,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,1.39,ng/ml,Serum
+HPRD_00799,HGF,3082,311,pg/ml,Immunoassay,Serum,21934211,433,pg/ml,Plasma
+HPRD_00799,HGF,3082,189-1390,pg/ml,ELISA,Serum,11566625,,,
+HPRD_00799,HGF,3082,201±64,pg/ml,ELISA,Serum,11059627,,,
+HPRD_00799,HGF,3082,319-1495,pg/ml,ELISA,Serum,11257710,,,
+HPRD_00799,HGF,3082,200,pg/ml,-,Plasma,15611012,,,
+HPRD_00799,HGF,3082,200,pg/ml,-,Plasma,19690635,,,
+HPRD_00799,HGF,3082,177-814,pg/ml,-,Serum,21934211,,,
+HPRD_05184,HGFAC,3083,240,ng/ml,Spectral counting,Plasma,21632744,240,ng/ml,Plasma
+HPRD_05184,HGFAC,3083,400,ng/ml,-,Plasma,16335952,,,
+HPRD_03204,HINT1,3094,48,ng/ml,Spectral counting,Plasma,21632744,48,ng/ml,Plasma
+HPRD_00821,HIST1H1B,3009,5.5,ng/ml,Spectral counting,Plasma,21632744,5.5,ng/ml,Plasma
+HPRD_07514,HIST1H1C,3006,30,ng/ml,Spectral counting,Plasma,21632744,30,ng/ml,Plasma
+HPRD_07513,HIST1H1E,3008,30,ng/ml,Spectral counting,Plasma,21632744,30,ng/ml,Plasma
+HPRD_13658,HIST1H2BK,85236,75,ng/ml,Spectral counting,Plasma,21632744,75,ng/ml,Plasma
+HPRD_00826,HLA-A,3105,28,ng/ml,Spectral counting,Plasma,21632744,28,ng/ml,Plasma
+HPRD_00828,HLA-B,3106,28,ng/ml,Spectral counting,Plasma,21632744,28,ng/ml,Plasma
+HPRD_00829,HLA-C,3107,28,ng/ml,Spectral counting,Plasma,21632744,28,ng/ml,Plasma
+HPRD_01228,HMGB1,3146,45,ng/ml,Spectral counting,Plasma,21632744,45,ng/ml,Plasma
+HPRD_01229,HMGB2,3148,5.6,ng/ml,Spectral counting,Plasma,21632744,5.6,ng/ml,Plasma
+HPRD_01230,HMGN2,3151,22,ng/ml,Spectral counting,Plasma,21632744,22,ng/ml,Plasma
+HPRD_13665,HN1,51155,9.7,ng/ml,Spectral counting,Plasma,21632744,9.7,ng/ml,Plasma
+HPRD_01242,HNRNPA1,3178,2.6,ng/ml,Spectral counting,Plasma,21632744,2.6,ng/ml,Plasma
+HPRD_02526,HNRNPA2B1,3181,4.1,ng/ml,Spectral counting,Plasma,21632744,4.1,ng/ml,Plasma
+HPRD_05644,HNRNPA3,220988,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_01243,HNRNPC,3183,5.9,ng/ml,Spectral counting,Plasma,21632744,5.9,ng/ml,Plasma
+HPRD_02834,HNRNPK,3190,1.4,ng/ml,Spectral counting,Plasma,21632744,1.4,ng/ml,Plasma
+HPRD_04185,HNRNPU,3192,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_18952,HNRNPUL2,221092,1.5,ng/ml,Spectral counting,Plasma,21632744,1.5,ng/ml,Plasma
+HPRD_00772,HP,3240,210,ug/ml,Spectral counting,Plasma,21632744,323.97,ug/ml,Blood
+HPRD_00772,HP,3240,100-2200,ug/ml,Single radial immunodiffusion,Serum,4172868,2200,ug/ml,Serum
+HPRD_00772,HP,3240,323.97,ug/ml,Multiple reaction monitoring,Blood,23221968,1.1,mg/ml,Plasma
+HPRD_00772,HP,3240,1100,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00772,HP,3240,880,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00772,HP,3240,620,ug/ml,-,Plasma,15611012,,,
+HPRD_00772,HP,3240,620,ug/ml,-,Plasma,20204147,,,
+HPRD_00772,HP,3240,880,ug/ml,-,Plasma,20677825,,,
+HPRD_00772,HP,3240,1300,ug/ml,-,Plasma,19690635,,,
+HPRD_00772,HP,3240,1365,ug/ml,-,Plasma,15627965,,,
+HPRD_00772,HP,3240,1500,ug/ml,-,Plasma,12938928,,,
+HPRD_00772,HP,3240,3800-7800,ug/ml,-,Plasma,14961748,,,
+HPRD_11026,HP1BP3,50809,13,ng/ml,Spectral counting,Plasma,21632744,13,ng/ml,Plasma
+HPRD_02564,HPCAL1,3241,1.2,ng/ml,Spectral counting,Plasma,21632744,1.2,ng/ml,Plasma
+HPRD_02041,HPD,3242,13,ng/ml,Spectral counting,Plasma,21632744,13,ng/ml,Plasma
+HPRD_00773,HPR,3250,40.7 ± 14.3,mg/L,Western blot,Plasma,16778136,55,ug/ml,Plasma
+HPRD_02388,HPRT1,3251,2.6,ng/ml,Spectral counting,Plasma,21632744,2.6,ng/ml,Plasma
+HPRD_00793,HPX,3263,180,ug/ml,Spectral counting,Plasma,21632744,290.12,ug/ml,Blood
+HPRD_00793,HPX,3263,800-1300,ug/ml,Single radial immunodiffusion,Serum,4172868,1.3,mg/ml,Serum
+HPRD_00793,HPX,3263,241.7,ug/ml,Multiple reaction monitoring,Plasma,22547352,750,ug/ml,Plasma
+HPRD_00793,HPX,3263,257,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00793,HPX,3263,290.12,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00793,HPX,3263,476.2,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00793,HPX,3263,274.528,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00793,HPX,3263,750,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00793,HPX,3263,200,ug/ml,-,Plasma,15627965,,,
+HPRD_00793,HPX,3263,750,ug/ml,-,Plasma,19572557,,,
+HPRD_00793,HPX,3263,750,ug/ml,-,Plasma,20677825,,,
+HPRD_00793,HPX,3263,760,ug/ml,-,Plasma,15611012,,,
+HPRD_00793,HPX,3263,760,ug/ml,-,Plasma,20204147,,,
+HPRD_00793,HPX,3263,800,ug/ml,-,Plasma,12938928,,,
+HPRD_00793,HPX,3263,400-1500,ug/ml,-,Serum,11580905,,,
+HPRD_00793,HPX,3263,400-1500,ug/ml,-,Serum,21090636,,,
+HPRD_00812,HRG,3273,35,ug/ml,Spectral counting,Plasma,21632744,138.9,ug/ml,Serum
+HPRD_00812,HRG,3273,100±8.3,ug/ml,ELISA,Serum,3958188,138.9,ug/ml,Plasma
+HPRD_00812,HRG,3273,100±8.3,ug/ml,ELISA,Plasma,20204147,,,
+HPRD_00812,HRG,3273,126.2±12.7,ug/ml,ELISA,Plasma,3958188,,,
+HPRD_00812,HRG,3273,126.2±12.7,ug/ml,ELISA,Serum,20204147,,,
+HPRD_00812,HRG,3273,90,ug/ml,-,Plasma,12938928,,,
+HPRD_00812,HRG,3273,100,ug/ml,-,Plasma,15627965,,,
+HPRD_00812,HRG,3273,100,ug/ml,-,Serum,20204147,,,
+HPRD_00812,HRG,3273,100,ug/ml,-,Plasma,20677825,,,
+HPRD_17114,HRNR,388697,190,ng/ml,Spectral counting,Plasma,21632744,190,ng/ml,Plasma
+HPRD_03924,HRSP12,10247,51,ng/ml,Spectral counting,Plasma,21632744,51,ng/ml,Plasma
+HPRD_02223,HSD17B10,3028,6.2,ng/ml,Spectral counting,Plasma,21632744,6.2,ng/ml,Plasma
+HPRD_00777,HSP90AA1,3320,88,ng/ml,Spectral counting,Plasma,21632744,88,ng/ml,Plasma
+HPRD_06763,HSP90AB1,3326,88,ng/ml,Spectral counting,Plasma,21632744,88,ng/ml,Plasma
+HPRD_01860,HSP90B1,7184,88,ng/ml,Spectral counting,Plasma,21632744,88,ng/ml,Plasma
+HPRD_00774,HSPA1A,3303,100,ng/ml,Spectral counting,Plasma,21632744,100,ng/ml,Plasma
+HPRD_09025,HSPA4,3308,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_00682,HSPA5,3309,100,ng/ml,Spectral counting,Plasma,21632744,100,ng/ml,Plasma
+HPRD_07205,HSPA8,3312,100,ng/ml,Spectral counting,Plasma,21632744,100,ng/ml,Plasma
+HPRD_02770,HSPA9,3313,2.5,ng/ml,Spectral counting,Plasma,21632744,2.5,ng/ml,Plasma
+HPRD_09076,HSPB1,3315,5.3,ng/ml,Spectral counting,Plasma,21632744,28.17,ng/ml,Serum
+HPRD_09076,HSPB1,3315,16.67-28.17,ng/ml,ELISA,Serum,21555305,,,
+HPRD_00318,HSPD1,3329,5.1,ng/ml,Spectral counting,Plasma,21632744,5.1,ng/ml,Plasma
+HPRD_02535,HSPE1,3336,6.4,ng/ml,Spectral counting,Plasma,21632744,6.4,ng/ml,Plasma
+HPRD_00804,HSPG2,3339,120,ng/ml,Spectral counting,Plasma,21632744,120,ng/ml,Plasma
+HPRD_03448,HYOU1,10525,6.6,ng/ml,Spectral counting,Plasma,21632744,6.6,ng/ml,Plasma
+HPRD_00996,ICAM1,3383,71,ng/ml,Spectral counting,Plasma,21632744,159,ng/ml,Plasma
+HPRD_00996,ICAM1,3383,144,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00996,ICAM1,3383,43,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00996,ICAM1,3383,118.49-312.83,ng/ml,ELISA,Serum,10638947,,,
+HPRD_00996,ICAM1,3383,149 ± 10,ng/ml,ELISA,Plasma,7572659,,,
+HPRD_00996,ICAM1,3383,22.8±6.4,mg/dl,ELISA,Plasma,15547024,,,
+HPRD_00996,ICAM1,3383,516-803,ng/ml,ELISA,Serum,17101577,,,
+HPRD_00996,ICAM1,3383,43,ng/ml,-,Plasma,19572557,,,
+HPRD_00996,ICAM1,3383,43,ng/ml,-,Plasma,20677825,,,
+HPRD_00996,ICAM1,3383,63,ng/ml,-,Plasma,16335952,,,
+HPRD_00996,ICAM1,3383,210,ng/ml,-,Plasma,19690635,,,
+HPRD_00996,ICAM1,3383,530,ng/ml,-,Plasma,15611012,,,
+HPRD_00888,ICAM2,3384,37,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00889,ICAM3,3385,3.6,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00889,ICAM3,3385,111 ± 54,ng/ml,Sandwich ELISA,Serum,7836774,,,
+HPRD_00889,ICAM3,3385,200,ng/ml,-,Plasma,16335952,,,
+HPRD_05757,ICOSLG,23308,2.2,ng/ml,Spectral counting,Plasma,21632744,2.2,ng/ml,Plasma
+HPRD_00984,IDH1,3417,6.6,ng/ml,Spectral counting,Plasma,21632744,6.6,ng/ml,Plasma
+HPRD_03094,IDH3A,3419,180,ng/ml,Spectral counting,Plasma,21632744,180,ng/ml,Plasma
+HPRD_00974,IFNA1,3439,0-2.2,ng/ml,Multiplex immunobead assay,Serum,17438101,2.2,ng/ml,Serum
+HPRD_00974,IFNA1,3439,0-96,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,96,pg/ml,Plasma
+HPRD_00126,IFNAR1,3454,1.7,ug/ml,-,Plasma,19690635,1.7,ug/ml,Plasma
+HPRD_03850,IFNAR2,3455,1.7,ug/ml,-,Plasma,19690635,1.7,ug/ml,Plasma
+HPRD_00957,IFNG,3458,0-23,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,31.75,pg/ml,Serum
+HPRD_00957,IFNG,3458,54,pg/ml,Immunoassay,Plasma,16038022,54,pg/ml,Plasma
+HPRD_00957,IFNG,3458,0.7-2.4,pg/ml,Immunoassay,Serum,21724697,,,
+HPRD_00957,IFNG,3458,9.95 ± 2.6,pg/ml,Enzyme immunoassay,Serum,14965793,,,
+HPRD_00957,IFNG,3458,0-3.8,pg/ml,ELISA,Plasma,21849293,,,
+HPRD_00957,IFNG,3458,5.4 ± 1.0,pg/ml,ELISA,Serum,21435242,,,
+HPRD_00957,IFNG,3458,7.80-31.75,pg/ml,ELISA,Serum,22698804,,,
+HPRD_00957,IFNG,3458,10,pg/ml,-,Plasma,19690635,,,
+HPRD_00936,IGF1,3479,7.6,ug/ml,Spectral counting,Plasma,21632744,397.6,ng/ml,Serum
+HPRD_00936,IGF1,3479,155.33±16.93,ug/l,Radioimmunoassay,Serum,15588149,7.6,ug/ml,Plasma
+HPRD_00936,IGF1,3479,247.63±149.96,ng/ml,Radioimmunoassay,Serum,20486202,,,
+HPRD_00936,IGF1,3479,91,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00936,IGF1,3479,127,ng/ml,Multiple reaction monitoring,Plasma,23592487,,,
+HPRD_00936,IGF1,3479,214,ng/ml,Immunoradiometric assay,Plasma,11106682,,,
+HPRD_00936,IGF1,3479,118.9-128.4,ng/ml,ELISA,Plasma,11352850,,,
+HPRD_00936,IGF1,3479,76- 449,ng/ml,ELISA,Plasma,15159305,,,
+HPRD_00936,IGF1,3479,190,ng/ml,-,Plasma,15611012,,,
+HPRD_00936,IGF1,3479,210,ng/ml,-,Plasma,19690635,,,
+HPRD_00936,IGF1,3479,214,ng/ml,-,Plasma,20698492,,,
+HPRD_00936,IGF1,3479,620,ug/ml,-,Plasma,19690635,,,
+HPRD_00932,IGF1R,3480,240,pg/ml,Immunoassay,Plasma,16038022,240,pg/ml,Plasma
+HPRD_00939,IGF2,3481,24,ug/ml,Spectral counting,Plasma,21632744,24,ug/ml,Plasma
+HPRD_00939,IGF2,3481,108- 881,ng/ml,ELISA,Plasma,15159305,,,
+HPRD_00939,IGF2,3481,426.3-454.9,ng/ml,ELISA,Plasma,11352850,,,
+HPRD_00939,IGF2,3481,380,ng/ml,-,Plasma,19690635,,,
+HPRD_00939,IGF2,3481,380,ng/ml,-,Plasma,20698492,,,
+HPRD_00928,IGF2R,3482,26,ng/ml,Spectral counting,Plasma,21632744,26,ng/ml,Plasma
+HPRD_03290,IGFALS,3483,1.5,ug/ml,Spectral counting,Plasma,21632744,1.5,ug/ml,Plasma
+HPRD_03290,IGFALS,3483,24,ug/ml,-,Plasma,15627965,,,
+HPRD_03290,IGFALS,3483,24,ug/ml,-,Plasma,20677825,,,
+HPRD_03290,IGFALS,3483,690,ug/ml,-,Serum,20204147,,,
+HPRD_00897,IGFBP1,3484,23,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00897,IGFBP1,3484,37.72±4.41,ug/l,Radioimmunoassay,Serum,15588149,116.7,ng/ml,Plasma
+HPRD_00897,IGFBP1,3484,10,ng/ml,Multiple reaction monitoring,Plasma,22577024,42.1,ng/ml,Serum
+HPRD_00897,IGFBP1,3484,102.2-116.7,ng/ml,ELISA,Plasma,11352850,,,
+HPRD_00897,IGFBP1,3484,60,ng/ml,-,Plasma,15611012,,,
+HPRD_00897,IGFBP1,282259,110,ng/ml,-,Plasma,19690635,110,ng/ml,Plasma
+HPRD_00898,IGFBP2,3485,930,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00898,IGFBP2,3485,15,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00898,IGFBP2,3485,15,ng/ml,-,Plasma,19572557,,,
+HPRD_00898,IGFBP2,3485,15,ng/ml,-,Plasma,20677825,,,
+HPRD_00898,IGFBP2,3485,305,ng/ml,-,Plasma,20698492,,,
+HPRD_00898,IGFBP2,3485,310,ng/ml,-,Plasma,19690635,,,
+HPRD_00899,IGFBP3,3486,5.7,ug/ml,Spectral counting,Plasma,21632744,3.98,ug/ml,Serum
+HPRD_00899,IGFBP3,3486,3.81±0.17,mg/l,Radioimmunoassay,Serum,15588149,5.7,ug/ml,Plasma
+HPRD_00899,IGFBP3,3486,59,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00899,IGFBP3,3486,2701.0-2883.1,ng/ml,ELISA,Plasma,11352850,,,
+HPRD_00899,IGFBP3,3486,513- 4778,ng/ml,ELISA,Plasma,15159305,,,
+HPRD_00899,IGFBP3,3486,2.5,ug/ml,-,Plasma,19690635,,,
+HPRD_00899,IGFBP3,3486,20,ng/ml,-,Plasma,16335952,,,
+HPRD_00899,IGFBP3,3486,59,ng/ml,-,Plasma,19572557,,,
+HPRD_00900,IGFBP4,3487,3.2,ug/ml,Spectral counting,Plasma,21632744,3.2,ug/ml,Plasma
+HPRD_00901,IGFBP5,3488,1.7,ug/ml,Spectral counting,Plasma,21632744,281,ng/ml,Serum
+HPRD_00901,IGFBP5,3488,206 ± 67,ng/ml,ELISA,Serum,11788658,1.7,ug/ml,Plasma
+HPRD_00901,IGFBP5,3488,208 ± 73,ng/ml,ELISA,Serum,11788658,,,
+HPRD_00902,IGFBP6,3489,1.1,ug/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00902,IGFBP6,3489,0.39±0.03,mg/l,Radioimmunoassay,Serum,15588149,1.1,ug/ml,Plasma
+HPRD_00902,IGFBP6,3489,160,ng/ml,-,Serum,20204147,420,ng/ml,Serum
+HPRD_04183,IGFBP7,3490,480,ng/ml,Spectral counting,Plasma,21632744,480,ng/ml,Plasma
+HPRD_04183,IGFBP7,3490,24-85,ng/ml,sandwich ELISA,Serum,12843194,85,ng/ml,Serum
+HPRD_04183,IGFBP7,3490,9.9-40,ng/ml,sandwich ELISA,Serum,12843194,,,
+HPRD_11757,IGHG4,3503,320,ug/ml,Spectral counting,Plasma,21632744,320,ug/ml,Plasma
+HPRD_00912,IGHM,3507,18,ug/ml,Spectral counting,Plasma,21632744,320,ug/ml,Plasma
+HPRD_00912,IGHM,3507,320,ug/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00991,IGJ,3512,5.6,ug/ml,Spectral counting,Plasma,21632744,5.6,ug/ml,Plasma
+HPRD_09438,IGSF8,93185,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_00495,IL10,3586,2.3-51,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,8.24,pg/ml,Serum
+HPRD_00495,IL10,3586,0-14.1,pg/ml,ELISA,Plasma,21849293,14.1,pg/ml,Plasma
+HPRD_00495,IL10,3586,3.8-7.2,pg/ml,ELISA,Serum,18775894,,,
+HPRD_00495,IL10,3586,6.76 ± 1.48,pg/ml,Chemiluminescence assay,Serum,22165670,,,
+HPRD_00495,IL10,3586,3.5,pg/ml,-,Plasma,19690635,,,
+HPRD_00473,IL10RB,3588,150,pg/ml,Immunoassay,Plasma,16038022,150,pg/ml,Plasma
+HPRD_01193,IL12A,3592,3.9,pg/ml,-,Plasma,19690635,3.9,pg/ml,Plasma
+HPRD_01194,IL12B,3593,0-1.9,ng/ml,Multiplex immunobead assay,Serum,17438101,1.9,ng/ml,Serum
+HPRD_01194,IL12B,3593,77,pg/ml,-,Plasma,14961748,77,pg/ml,Plasma
+HPRD_00981,IL13,3596,0.0-447.8,pg/ml,Multiplex immunobead assay,Serum,17438101,447.8,pg/ml,Serum
+HPRD_00981,IL13,3596,20-370,pg/ml,ELISA,Serum,22698804,,,
+HPRD_04329,IL16,3603,100,pg/ml,-,Plasma,19690635,100,pg/ml,Plasma
+HPRD_04396,IL17A,3605,0.6±1.4,pg/ml,ELISA,Serum,21874405,79.3,pg/ml,Serum
+HPRD_04396,IL17A,3605,0-6.5,pg/ml,ELISA,Serum,21637346,,,
+HPRD_04396,IL17A,3605,68.33 ± 10.98,ng/L,ELISA,Serum,21129782,,,
+HPRD_02976,IL18,3606,58.7,pg/ml,ELISA,Serum,12093765,277,pg/ml,Serum
+HPRD_02976,IL18,3606,159.9 ± 10.9,pg/ml,ELISA,Serum,21435242,59,pg/ml,Plasma
+HPRD_02976,IL18,3606,217.41 ± 59.81,pg/ml,ELISA,Serum,21526496,,,
+HPRD_02976,IL18,3606,91.3 ± 27.5,pg/ml,ELISA,Serum,18775894,,,
+HPRD_02976,IL18,3606,59,pg/ml,-,Plasma,15611012,,,
+HPRD_04984,IL18BP,10068,3.9,ng/ml,Spectral counting,Plasma,21632744,3.9,ng/ml,Plasma
+HPRD_05138,IL18R1,8809,52.3 ± 8.5,ng/ml,ELISA,Serum,21435242,60.8,ng/ml,Serum
+HPRD_00988,IL1A,3552,0.0-996.3,pg/ml,Multiplex immunobead assay,Serum,17438101,45,pg/ml,Plasma
+HPRD_00988,IL1A,3552,45,pg/ml,Immunoassay,Plasma,16038022,996.3,pg/ml,Serum
+HPRD_00988,IL1A,3552,3,pg/ml,-,Plasma,19690635,,,
+HPRD_00985,IL1B,3553,0-2.25,ng/ml,Multiplex immunobead assay,Serum,17438101,2.25,ng/ml,Serum
+HPRD_00985,IL1B,3553,0-49,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,49,pg/ml,Plasma
+HPRD_00985,IL1B,3553,1.77±0.23,pg/ml,ELISA,Plasma,16320084,,,
+HPRD_00985,IL1B,3553,4.90  ± 1.40,pg/ml,Chemiluminescence assay,Serum,22165670,,,
+HPRD_00985,IL1B,3553,1.2,pg/ml,-,Plasma,15611012,,,
+HPRD_00985,IL1B,3553,5,pg/ml,-,Plasma,19690635,,,
+HPRD_00995,IL1R2,7850,7.1,ng/ml,Spectral counting,Plasma,21632744,7.1,ng/ml,Plasma
+HPRD_04021,IL1RAP,3556,4.7,ng/ml,Spectral counting,Plasma,21632744,4.7,ng/ml,Plasma
+HPRD_03123,IL1RL1,9173,7,ng/ml,Spectral counting,Plasma,21632744,7,ng/ml,Plasma
+HPRD_03123,IL1RL1,9173,455.4 ± 621.1,pg/ml,ELISA,Serum,21935266,,,
+HPRD_00978,IL1RN,3557,2-419,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,906.8,pg/ml,serum
+HPRD_00978,IL1RN,3557,114-906.8,pg/ml,ELISA,serum,17964877,419,pg/ml,Plasma
+HPRD_00978,IL1RN,3557,1.6,ng/ml,-,Plasma,19690635,,,
+HPRD_00978,IL1RN,3557,236,pg/ml,-,Plasma,16335952,,,
+HPRD_00979,IL2,3558,0.0-25.9,pg/ml,ELISA,serum,17964877,1381,pg/ml,Serum
+HPRD_00979,IL2,3558,4.9-47.3,pg/ml,ELISA,Serum,17101577,51,pg/ml,Plasma
+HPRD_00979,IL2,3558,1153 ±228,pg/ml,Chemiluminescence assay,Serum,22165670,,,
+HPRD_00979,IL2,3558,51,pg/ml,-,Plasma,15611012,,,
+HPRD_00979,IL2,3558,500,fg/ml,-,Plasma,19690635,,,
+HPRD_00986,IL2RA,3559,0-507,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,,,
+HPRD_00986,IL2RA,3559,1400,pg/ml,-,Plasma,19690635,507,pg/ml,Plasma
+HPRD_09346,IL32,9235,248.45 ± 188.42,pg/ml,ELISA,Serum,21487807,436.8,pg/ml,Serum
+HPRD_12275,IL33,90865,95.9 ± 236.9,pg/ml,ELISA,Serum,21935266,332.8,pg/ml,Serum
+HPRD_00989,IL4,3565,0.0-2.5,pg/ml,ELISA,serum,17964877,2.5,pg/ml,serum
+HPRD_00970,IL6,3569,0-2.4,ng/ml,Multiplex immunobead assay,Serum,17438101,2.4,ng/ml,Serum
+HPRD_00970,IL6,3569,0-9,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,9,pg/ml,Plasma
+HPRD_00970,IL6,3569,0.0-6.0,pg/ml,ELISA,serum,17964877,,,
+HPRD_00970,IL6,3569,0.3-4.8,pg/ml,ELISA,Serum,9346362,,,
+HPRD_00970,IL6,3569,0.5-14.6,pg/ml,ELISA,Serum,10815616,,,
+HPRD_00970,IL6,3569,0.5-16.6,pg/ml,ELISA,Serum,9883970,,,
+HPRD_00970,IL6,3569,0.5-16.6,pg/ml,ELISA,Serum,10233412,,,
+HPRD_00970,IL6,3569,0.77-7.91,pg/ml,ELISA,Serum,18775894,,,
+HPRD_00970,IL6,3569,0.8-3.9,pg/ml,ELISA,Serum,17101577,,,
+HPRD_00970,IL6,3569,0-13.5,pg/ml,ELISA,Serum,21637346,,,
+HPRD_00970,IL6,3569,0-15,pg/ml,ELISA,Serum,22112431,,,
+HPRD_00970,IL6,3569,1.04±0.17,pg/ml,ELISA,Plasma,16320084,,,
+HPRD_00970,IL6,3569,2.3-5.9,pg/ml,ELISA,Plasma,16642549,,,
+HPRD_00970,IL6,3569,2.65 ± 0.55,pg/ml,ELISA,Serum,18197923,,,
+HPRD_00970,IL6,3569,2.40±0.22,pg/ml,Chemiluminescence assay,Serum,22165670,,,
+HPRD_00970,IL6,3569,5,pg/ml,-,Plasma,19690635,,,
+HPRD_01000,IL6R,3570,123.4±11.01,ng/ml,Enzyme immunoassay,Plasma,12400844,64.5,ng/ml,Serum
+HPRD_01000,IL6R,3570,23.7-64.5,ng/ml,ELISA,Serum,9883970,134.41,ng/ml,Plasma
+HPRD_01000,IL6R,3570,23.7-64.5,ng/ml,ELISA,Serum,10233412,,,
+HPRD_01000,IL6R,3570,23.7-64.5,ng/ml,ELISA,Serum,10815616,,,
+HPRD_01000,IL6R,3570,30.1±2.3,ng/ml,ELISA,Plasma,15556049,,,
+HPRD_01000,IL6R,3570,453.4±180.9,pg/ml,ELISA,Serum,12574959,,,
+HPRD_01000,IL6R,3570,75.89 ± 35.83,ng/ml,ELISA,Plasma,17392576,,,
+HPRD_01000,IL6R,3570,49,ng/ml,-,Plasma,16335952,,,
+HPRD_01000,IL6R,3570,100,ng/ml,-,Plasma,15611012,,,
+HPRD_01000,IL6R,3570,450,pg/ml,-,Plasma,19690635,,,
+HPRD_02824,IL6ST,3572,1.3,ng/ml,Spectral counting,Plasma,21632744,1.3,ng/ml,Plasma
+HPRD_02824,IL6ST,3572,310-710,pg/ml,ELISA,Serum,10815616,710,pg/ml,Serum
+HPRD_02824,IL6ST,3572,270,ng/ml,-,Plasma,15611012,,,
+HPRD_02824,IL6ST,3572,270,ng/ml,-,Plasma,19690635,,,
+HPRD_00892,IL7,3574,7,pg/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00892,IL7,3574,11,pg/ml,-,Plasma,19690635,7,pg/ml,Plasma
+HPRD_00909,IL8,3576,0.0-87.6,pg/ml,Multiplex immunobead assay,Serum,17438101,208,pg/ml,Serum
+HPRD_00909,IL8,3576,0-18,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,31,pg/ml,Plasma
+HPRD_00909,IL8,3576,3.4-24.6 ,pg/ml,Luminex bead-based technology,Serum,22108905,,,
+HPRD_00909,IL8,3576,1.69±0.47,pg/ml,ELISA,Serum,12648447,,,
+HPRD_00909,IL8,3576,10-208,pg/ml,ELISA,Serum,21909201,,,
+HPRD_00909,IL8,3576,14.0 ± 1.0,pg/ml,ELISA,Serum,18197923,,,
+HPRD_00909,IL8,3576,3.7-8.9,pg/ml,Cytometric bead array,Serum,20032101,,,
+HPRD_00909,IL8,3576,31-Mar,pg/ml,Chemiluminescent immunometric assay,Plasma,16183806,,,
+HPRD_00909,IL8,3576,1.7,pg/ml,-,Plasma,15611012,,,
+HPRD_00909,IL8,3576,83,pg/ml,-,Plasma,19690635,,,
+HPRD_03842,ILK,3611,17,ng/ml,Spectral counting,Plasma,21632744,17,ng/ml,Plasma
+HPRD_00895,IMPDH2,3615,1.9-20.7,pg/ml,ELISA,Serum,22215415,20.7,pg/ml,Serum
+HPRD_00929,INHBA,3624,600,pg/ml,-,Plasma,15611012,600,pg/ml,Plasma
+HPRD_03136,INHBC,3626,13,ng/ml,Spectral counting,Plasma,21632744,13,ng/ml,Plasma
+HPRD_11047,INHBE,83729,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_09033,INPP5D,3635,410,ng/ml,Spectral counting,Plasma,21632744,410,ng/ml,Plasma
+HPRD_01455,INS,3630,9.8,ng/ml,Spectral counting,Plasma,21632744,9.8,ng/ml,Plasma
+HPRD_01455,INS,3630,100-3390,pg/ml,ELISA,Serum,14767861,3390,pg/ml,Serum
+HPRD_08030,ISOC2,79763,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_06377,ITGA2B,3674,13,ng/ml,Spectral counting,Plasma,21632744,13,ng/ml,Plasma
+HPRD_00628,ITGB1,3688,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_00628,ITGB1,3688,2.1,ug/ml,-,Plasma,16335952,,,
+HPRD_01428,ITGB3,3690,21,ng/ml,Spectral counting,Plasma,21632744,21,ng/ml,Plasma
+HPRD_01428,ITGB3,3690,5.5,ug/ml,-,Plasma,16335952,,,
+HPRD_00927,ITIH1,3697,24,ug/ml,Spectral counting,Plasma,21632744,24,ug/ml,Plasma
+HPRD_00927,ITIH1,3697,10.42,ug/ml,Multiple reaction monitoring,Blood,23221968,10.42,ug/ml,Blood
+HPRD_00890,ITIH2,3698,21,ug/ml,Spectral counting,Plasma,21632744,21,ug/ml,Plasma
+HPRD_00891,ITIH3,3699,2,ug/ml,Spectral counting,Plasma,21632744,2,ug/ml,Plasma
+HPRD_02781,ITIH4,3700,42,ug/ml,Spectral counting,Plasma,21632744,42,ug/ml,Plasma
+HPRD_17165,ITLN1,55600,34.58 ± 4.23,ng/ml,ELISA,Plasma,21497934,38.8,ng/ml,Plasma
+HPRD_04878,ITM2B,9445,63,ng/ml,Spectral counting,Plasma,21632744,63,ng/ml,Plasma
+HPRD_01414,JUP,3728,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_01867,KDR,3791,5.5-11.4,ng/ml,ELISA,Plasma,20473593,11.4,ng/ml,Plasma
+HPRD_01867,KDR,3791,5.555-11.37,ng/ml,ELISA,Plasma,20615083,26,ng/ml,Serum
+HPRD_01867,KDR,3791,8.7-26,ng/ml,ELISA,Serum,14760936,,,
+HPRD_01867,KDR,3791,15,ng/ml,-,Plasma,19690635,,,
+HPRD_11164,KIAA0319L,79932,550,ng/ml,Spectral counting,Plasma,21632744,550,ng/ml,Plasma
+HPRD_13845,KIAA1244,57221,270,ng/ml,Spectral counting,Plasma,21632744,270,ng/ml,Plasma
+HPRD_13866,KIAA1468,57614,110,ng/ml,Spectral counting,Plasma,21632744,110,ng/ml,Plasma
+HPRD_01287,KIT,3815,8.2,ng/ml,Spectral counting,Plasma,21632744,8.2,ng/ml,Plasma
+HPRD_01287,KIT,3815,333,ng/ml,ELISA,Serum,15070666,333,ng/ml,Serum
+HPRD_01287,KIT,3815,4.8,ng/ml,-,Plasma,16335952,,,
+HPRD_01287,KIT,3815,330,ng/ml,-,Plasma,19690635,,,
+HPRD_01698,KITLG,4254,59,pg/ml,Immunoassay,Plasma,16038022,59,pg/ml,Plasma
+HPRD_01698,KITLG,4254,565-1600,pg/ml,ELISA,Serum,15070666,1.6,ug/ml,Serum
+HPRD_01698,KITLG,4254,330,ng/ml,-,Plasma,19690635,,,
+HPRD_04054,KLK10,5655,50-1040,pg/ml,Immunofluorometric assay,Serum,12591730,1.04,ng/ml,Serum
+HPRD_04054,KLK10,5655,440,pg/ml,-,Plasma,19690635,440,pg/ml,Plasma
+HPRD_05114,KLK11,11012,2.2,ug/ml,-,Plasma,19690635,2.2,ug/ml,Plasma
+HPRD_05844,KLK14,43847,160,pg/ml,-,Plasma,19690635,160,pg/ml,Plasma
+HPRD_01006,KLK2,3817,1.5-370,pg/ml,Immunoassay,Serum,15247158,370,pg/ml,Serum
+HPRD_01006,KLK2,3817,22,pg/ml,-,Plasma,19690635,22,pg/ml,Plasma
+HPRD_01461,KLK3,354,0.09-52.2,ng/ml,Immunoassay,Serum,15247158,52.2,ng/ml,Serum
+HPRD_01461,KLK3,354,1.9,ng/ml,-,Plasma,19690635,,,
+HPRD_04037,KLK6,5653,18,ng/ml,Spectral counting,Plasma,21632744,18,ng/ml,Plasma
+HPRD_04037,KLK6,5653,890-6580,pg/ml,Immunoassay,Serum,12637468,6.58,ug/ml,Serum
+HPRD_04037,KLK6,5653,2900,pg/ml,-,Plasma,19690635,,,
+HPRD_01971,KLKB1,3818,2.6,ug/ml,Spectral counting,Plasma,21632744,2.6,ug/ml,Plasma
+HPRD_01971,KLKB1,3818,50,ug/ml,-,Plasma,15627965,,,
+HPRD_01971,KLKB1,3818,50,ug/ml,-,Plasma,20204147,,,
+HPRD_01970,KNG1,3827,28,ug/ml,Spectral counting,Plasma,21632744,82.39,ug/ml,Blood
+HPRD_01970,KNG1,3827,82.39,ug/ml,Multiple reaction monitoring,Blood,23221968,1.085,mg/ml,Plasma
+HPRD_01970,KNG1,3827,133,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_01970,KNG1,3827,1085,ug/ml,Multiple reaction monitoring,Plasma,23592487,,,
+HPRD_01970,KNG1,3827,61,ug/ml,-,Serum,20204147,,,
+HPRD_01970,KNG1,3827,70,ug/ml,-,Plasma,15627965,,,
+HPRD_01970,KNG1,3827,70,ug/ml,-,Plasma,20677825,,,
+HPRD_01970,KNG1,3827,90,ug/ml,-,Plasma,15627965,,,
+HPRD_01970,KNG1,3827,90,ug/ml,-,Plasma,20677825,,,
+HPRD_01970,KNG1,3827,120,ug/ml,-,Plasma,12938928,,,
+HPRD_01817,KRAS,3845,170,pg/ml,-,Plasma,19690635,170,pg/ml,Plasma
+HPRD_00763,KRT1,3848,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_01021,KRT10,3858,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_01016,KRT13,3860,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_01017,KRT14,3861,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_01009,KRT15,3866,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_01018,KRT16,3868,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_01019,KRT17,3872,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_01020,KRT18,3875,4,ng/ml,-,Plasma,19690635,4,ng/ml,Plasma
+HPRD_01007,KRT19,3880,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_01007,KRT19,3880,2.4,ng/ml,-,Plasma,19690635,,,
+HPRD_02560,KRT2,3849,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_12193,KRT20,54474,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_01013,KRT3,3850,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_03047,KRT31,3881,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_04136,KRT33B,3884,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_05174,KRT36,8689,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_05176,KRT38,8687,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_00478,KRT4,3851,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_01010,KRT5,3852,16,ng/ml,Spectral counting,Plasma,21632744,16,ng/ml,Plasma
+HPRD_09746,KRT72,140807,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_16304,KRT73,319101,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_11057,KRT75,9119,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_17171,KRT78,196374,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_01015,KRT8,3856,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_01015,KRT8,3856,3.13 ± 0.39,ng/ml,Chemiluminescent immunometric assay,Serum,12367790,3.52,ng/ml,Serum
+HPRD_01015,KRT8,3856,50,ug/ml,-,Plasma,19690635,,,
+HPRD_03691,KRT81,3887,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_03048,KRT82,3888,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_04139,KRT85,3891,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_06351,KRT9,3857,15,ug/ml,Spectral counting,Plasma,21632744,15,ug/ml,Plasma
+HPRD_19657,KRTAP2-2,728279,3.9,ng/ml,Spectral counting,Plasma,21632744,3.9,ng/ml,Plasma
+HPRD_18262,KRTDAP,388533,430,ng/ml,Spectral counting,Plasma,21632744,430,ng/ml,Plasma
+HPRD_04292,LAIR1,3903,6.4,ng/ml,Spectral counting,Plasma,21632744,6.4,ng/ml,Plasma
+HPRD_01024,LALBA,3906,20,ng/ml,-,Plasma,19690635,20,ng/ml,Plasma
+HPRD_01125,LAMA2,3908,19,ng/ml,Spectral counting,Plasma,21632744,19,ng/ml,Plasma
+HPRD_01029,LAMB1,3912,2.6,ng/ml,Spectral counting,Plasma,21632744,2.6,ng/ml,Plasma
+HPRD_01034,LAMB2,3913,2.5,ng/ml,Spectral counting,Plasma,21632744,2.5,ng/ml,Plasma
+HPRD_01030,LAMC1,3915,50,ng/ml,Spectral counting,Plasma,21632744,50,ng/ml,Plasma
+HPRD_01076,LAMP1,3916,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_02396,LAMP2,3920,7.3,ng/ml,Spectral counting,Plasma,21632744,7.3,ng/ml,Plasma
+HPRD_04485,LAMTOR3,8649,4,ng/ml,Spectral counting,Plasma,21632744,4,ng/ml,Plasma
+HPRD_07516,LAP3,51056,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_04229,LASP1,3927,9.8,ng/ml,Spectral counting,Plasma,21632744,9.8,ng/ml,Plasma
+HPRD_07175,LBP,3929,320,ng/ml,Spectral counting,Plasma,21632744,17,ug/ml,Plasma
+HPRD_07175,LBP,3929,2.30-10,ug/ml,ELISA,Serum,12552453,10,ug/ml,Serum
+HPRD_07175,LBP,3929,17-Jan,ug/ml,Chemiluminescent immunometric assay,Plasma,16183806,,,
+HPRD_07175,LBP,3929,18,ug/ml,-,Plasma,15627965,,,
+HPRD_06098,LCAT,3931,220,ng/ml,Spectral counting,Plasma,21632744,220,ng/ml,Plasma
+HPRD_17267,LCMT2,9836,3.4,ng/ml,Spectral counting,Plasma,21632744,3.4,ng/ml,Plasma
+HPRD_01059,LCN1,3933,2.7,ng/ml,Spectral counting,Plasma,21632744,2.7,ng/ml,Plasma
+HPRD_02551,LCN2,3934,330,ng/ml,Spectral counting,Plasma,21632744,330,ng/ml,Plasma
+HPRD_02551,LCN2,3934,172.85_±_57.94,ng/ml,ELISA,Serum,21133718,230.79,ng/ml,Serum
+HPRD_02551,LCN2,3934,87,ng/ml,-,Plasma,15611012,150,ng/ml,Plasma
+HPRD_01082,LCP1,3936,150,ng/ml,Spectral counting,Plasma,21632744,86,ng/ml,Plasma
+HPRD_16172,LDB3,11155,1.7,ng/ml,Spectral counting,Plasma,21632744,1.7,ng/ml,Plasma
+HPRD_01025,LDHA,3939,86,ng/ml,Spectral counting,Plasma,21632744,86,ng/ml,Plasma
+HPRD_01026,LDHB,3945,86,ng/ml,Spectral counting,Plasma,21632744,21.33,ng/ml,Serum
+HPRD_17269,LEAP2,116842,62,ng/ml,Spectral counting,Plasma,21632744,62,ng/ml,Plasma
+HPRD_01249,LEP,3952,500,ng/ml,Spectral counting,Plasma,21632744,500,ng/ml,Plasma
+HPRD_01249,LEP,3952,4.8±0.7,ng/ml,Radioimmunoassay,Serum,11720897,,,
+HPRD_01249,LEP,3952,6.36±1.35,ng/ml,Radioimmunoassay,Serum,12559213,,,
+HPRD_01249,LEP,3952,1.0-11.8,ng/ml,ELISA,Plasma,12138320,,,
+HPRD_01249,LEP,3952,12.17 ± 9.16,ng/ml,ELISA,Serum,21226708,,,
+HPRD_01249,LEP,3952,15.58±2.77,ng/ml,ELISA,Serum,15588149,,,
+HPRD_01249,LEP,3952,9.0±1.3,ng/ml,ELISA,Plasma,16320084,,,
+HPRD_01249,LEP,3952,4.8,ng/ml,-,Plasma,19690635,,,
+HPRD_03001,LEPR,3953,21.88±2.36,ng/ml,Radioimmunoassay,Serum,15588149,25.2,ng/ml,Serum
+HPRD_03001,LEPR,3953,22.9±2.3,ng/ml,Radioimmunoassay,Serum,12559213,23,ng/ml,Plasma
+HPRD_03001,LEPR,3953,21,ng/ml,-,Plasma,16335952,,,
+HPRD_03001,LEPR,3953,23,ng/ml,-,Plasma,15611012,,,
+HPRD_01040,LGALS1,3956,81,ng/ml,Spectral counting,Plasma,21632744,81,ng/ml,Plasma
+HPRD_02796,LGALS3BP,3959,440,ng/ml,Spectral counting,Plasma,21632744,440,ng/ml,Plasma
+HPRD_02796,LGALS3BP,3959,9.1,ug/ml,-,Plasma,19690635,,,
+HPRD_13708,LGALSL,29094,4.9,ng/ml,Spectral counting,Plasma,21632744,4.9,ng/ml,Plasma
+HPRD_08869,LIF,3976,0.0-10.4,pg/ml,ELISA,Serum,9883970,10.4,pg/ml,Serum
+HPRD_08869,LIF,3976,0-1.1,pg/ml,ELISA,Serum,10233412,,,
+HPRD_01048,LIFR,3977,5,ng/ml,Immunoassay,Plasma,16038022,5,ng/ml,Plasma
+HPRD_10382,LILRA3,11026,25,ng/ml,Spectral counting,Plasma,21632744,25,ng/ml,Plasma
+HPRD_03978,LIMS1,3987,16,ng/ml,Spectral counting,Plasma,21632744,16,ng/ml,Plasma
+HPRD_17285,LMAN2,10960,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_01035,LMNA,4000,7.5,ng/ml,Spectral counting,Plasma,21632744,7.5,ng/ml,Plasma
+HPRD_01036,LMNB1,4001,1.2,ng/ml,Spectral counting,Plasma,21632744,1.2,ng/ml,Plasma
+HPRD_01037,LMNB2,84823,6.1,ng/ml,Spectral counting,Plasma,21632744,6.1,ng/ml,Plasma
+HPRD_01087,LOX,4015,4.1,ng/ml,Spectral counting,Plasma,21632744,4.1,ng/ml,Plasma
+HPRD_08861,LOXL1,4016,18,ng/ml,Spectral counting,Plasma,21632744,18,ng/ml,Plasma
+HPRD_01063,LPA,4018,1.4,ng/ml,Spectral counting,Plasma,21632744,1.4,ng/ml,Plasma
+HPRD_01063,LPA,4018,14±10,mg/dl,Immunoturbidometry,Serum,12818410,240,ug/ml,Serum
+HPRD_01063,LPA,4018,140,ug/ml,-,Plasma,15611012,,,
+HPRD_01999,LPL,4023,28,ng/ml,-,Plasma,15611012,28,ng/ml,Plasma
+HPRD_10056,LRG1,116844,2.7,ug/ml,Spectral counting,Plasma,21632744,2.7,ug/ml,Plasma
+HPRD_10056,LRG1,116844,50,ug/ml,ELISA,Serum,18436231,,,
+HPRD_10056,LRG1,116844,21,ug/ml,-,Serum,20204147,,,
+HPRD_00138,LRP1,4035,20,ng/ml,Spectral counting,Plasma,21632744,10.8,ug/ml,Plasma
+HPRD_00138,LRP1,4035,3.7-10.8,ug/ml,Immunoassay,Plasma,9295345,,,
+HPRD_00138,LRP1,4035,6,ug/ml,-,Plasma,15611012,,,
+HPRD_09128,LSAMP,4045,16,ng/ml,Spectral counting,Plasma,21632744,16,ng/ml,Plasma
+HPRD_01056,LTA4H,4048,25,ng/ml,Spectral counting,Plasma,21632744,25,ng/ml,Plasma
+HPRD_01039,LTBP1,4052,46,ng/ml,Spectral counting,Plasma,21632744,46,ng/ml,Plasma
+HPRD_03650,LTBP2,4053,64,ng/ml,Spectral counting,Plasma,21632744,64,ng/ml,Plasma
+HPRD_05274,LTBP4,8425,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_01028,LTF,4057,360,ug/ml,Spectral counting,Plasma,21632744,360,ug/ml,Plasma
+HPRD_01028,LTF,4057,270,ng/ml,-,Plasma,19690635,,,
+HPRD_02793,LUM,4060,4,ug/ml,Spectral counting,Plasma,21632744,4,ug/ml,Plasma
+HPRD_16201,LYNX1,66004,5.3,ng/ml,Spectral counting,Plasma,21632744,5.3,ng/ml,Plasma
+HPRD_05753,LYVE1,10894,6.2,ng/ml,Spectral counting,Plasma,21632744,6.2,ng/ml,Plasma
+HPRD_01085,LYZ,4069,51,ng/ml,Spectral counting,Plasma,21632744,51,ng/ml,Plasma
+HPRD_05066,MAN1A1,4121,5.6,ng/ml,Spectral counting,Plasma,21632744,5.6,ng/ml,Plasma
+HPRD_01110,MAN2A1,4124,3.9,ng/ml,Spectral counting,Plasma,21632744,3.9,ng/ml,Plasma
+HPRD_02008,MANBA,4126,1.7,ng/ml,Spectral counting,Plasma,21632744,1.7,ng/ml,Plasma
+HPRD_03558,MANF,7873,6.5,ng/ml,Spectral counting,Plasma,21632744,6.5,ng/ml,Plasma
+HPRD_04379,MAPRE1,22919,3.3,ng/ml,Spectral counting,Plasma,21632744,3.3,ng/ml,Plasma
+HPRD_02749,MASP1,5648,69,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_02749,MASP1,5648,240,ng/ml,Spectral counting,Plasma,21632744,240,ng/ml,Plasma
+HPRD_05484,MASP2,10747,2.8,ug/ml,Spectral counting,Plasma,21632744,891,ng/ml,Serum
+HPRD_05484,MASP2,10747,18-891,ng/ml,Immunofluorometric assay,Serum,15746044,,,
+HPRD_01170,MB,4151,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_01170,MB,4151,32.8±14.0,ug/l,Immunoturbidimetry,Plasma,9581860,,,
+HPRD_01170,MB,4151,42,ng/ml,-,Plasma,15611012,,,
+HPRD_01170,MB,4151,90,ng/ml,-,Plasma,20698492,,,
+HPRD_01107,MBL2,4153,67,ng/ml,Spectral counting,Plasma,21632744,97,ng/ml,Plasma
+HPRD_01107,MBL2,4153,97,ng/ml,Immunoassay,Plasma,16038022,3.61,ug/ml,Serum
+HPRD_01107,MBL2,4153,1.49 ± 2.12,ug/ml,ELISA,Serum,21725183,,,
+HPRD_01107,MBL2,4153,97,ng/ml,-,Plasma,19572557,,,
+HPRD_01158,MBP,4155,2.7,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_01158,MBP,4155,2.5,ng/ml,-,Plasma,15611012,2.7,ng/ml,Plasma
+HPRD_01120,MCAM,4162,25,ng/ml,Spectral counting,Plasma,21632744,25,ng/ml,Plasma
+HPRD_09693,MCFD2,90411,4.7,ng/ml,Spectral counting,Plasma,21632744,4.7,ng/ml,Plasma
+HPRD_01100,MDH1,4190,39,ng/ml,Spectral counting,Plasma,21632744,39,ng/ml,Plasma
+HPRD_01099,MDH2,4191,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_01200,MDK,4192,150,pg/ml,-,Plasma,19690635,150,pg/ml,Plasma
+HPRD_01102,ME1,4199,6.6,ng/ml,Spectral counting,Plasma,21632744,6.6,ng/ml,Plasma
+HPRD_10370,MEGF8,1954,4.3,pg/ml,Spectral counting,Plasma,21632744,4.3,pg/ml,Plasma
+HPRD_02666,MEP1A,4224,18,ng/ml,Spectral counting,Plasma,21632744,18,ng/ml,Plasma
+HPRD_01280,MET,4233,2.5,ng/ml,Spectral counting,Plasma,21632744,2.5,ng/ml,Plasma
+HPRD_01280,MET,4233,124-397,ng/ml,ELISA,Serum,21466586,397,ng/ml,Serum
+HPRD_02789,MFAP4,4239,5.9,ng/ml,Spectral counting,Plasma,21632744,5.9,ng/ml,Plasma
+HPRD_03063,MFAP5,8076,140,ng/ml,Spectral counting,Plasma,21632744,140,ng/ml,Plasma
+HPRD_01122,MFI2,4241,360,ug/ml,Spectral counting,Plasma,21632744,360,ug/ml,Plasma
+HPRD_01112,MGP,4256,92,ng/ml,Spectral counting,Plasma,21632744,92,ng/ml,Plasma
+HPRD_03216,MIA,8190,8.8,ng/ml,-,Plasma,19690635,8.8,ng/ml,Plasma
+HPRD_01091,MIF,4282,9.9,ng/ml,Spectral counting,Plasma,21632744,9.9,ng/ml,Plasma
+HPRD_05652,MINPP1,9562,16,ng/ml,Spectral counting,Plasma,21632744,16,ng/ml,Plasma
+HPRD_12033,MLXIPL,51085,6.4,ng/ml,Spectral counting,Plasma,21632744,6.4,ng/ml,Plasma
+HPRD_00392,MME,4311,250,pg/ml,-,Plasma,15611012,250,pg/ml,Plasma
+HPRD_00392,MME,4311,250,pg/ml,-,Plasma,19690635,,,
+HPRD_00384,MMP1,4312,0.71-7.14,ng/ml,ELISA,Plasma,15970581,4.09,ng/ml,serum
+HPRD_00384,MMP1,4312,2.59±1.5,ng/ml,ELISA,serum,21770773,,,
+HPRD_00384,MMP1,4312,49.91 ±27.31,ng/ml,ELISA,Plasma,20708200,,,
+HPRD_02522,MMP13,4322,90.36± 51.36,ng/ml,ELISA,Plasma,20708200,141.7,ng/ml,Plasma
+HPRD_02856,MMP14,4323,21,ng/ml,Spectral counting,Plasma,21632744,21,ng/ml,Plasma
+HPRD_00386,MMP2,4313,24,ng/ml,Spectral counting,Plasma,21632744,899,ng/ml,Plasma
+HPRD_00386,MMP2,4313,727.6±171.4,ng/ml,Sandwich enzyme Immunoassay,Plasma,11434385,,,
+HPRD_00386,MMP2,4313,8.8,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00386,MMP2,4313,8.8,ng/ml,-,Plasma,19572557,,,
+HPRD_00386,MMP2,4313,100,ng/ml,-,Plasma,19690635,,,
+HPRD_00386,MMP2,4313,100,ng/ml,-,Plasma,20698492,,,
+HPRD_00386,MMP2,4313,810,ng/ml,-,Plasma,15611012,,,
+HPRD_01703,MMP3,4314,79.6±29.9,ng/ml,Sandwich enzyme Immunoassay,Plasma,11434385,58.6,ng/ml,serum
+HPRD_01703,MMP3,4314,0.4-7,ng/ml,ELISA,Serum,18674944,109.5,ng/ml,Plasma
+HPRD_01703,MMP3,4314,37.43±21.2,ng/ml,ELISA,serum,21770773,,,
+HPRD_01703,MMP3,4314,8.2±5.3,ng/ml,ELISA,Plasma,11568071,,,
+HPRD_01703,MMP3,4314,8,ng/ml,-,Plasma,15611012,,,
+HPRD_01703,MMP3,4314,8,ng/ml,-,Plasma,19690635,,,
+HPRD_01525,MMP7,4316,0.04-0.07,ng/ml,ELISA,Serum,21854733,70,pg/ml,Serum
+HPRD_00385,MMP8,4317,900,pg/ml,Immunoassay,Plasma,16038022,23.88,ng/ml,Serum
+HPRD_00385,MMP8,4317,12.4 ± 0.4,ng/ml,ELISA,Plasma,18632595,98.75,ng/ml,Plasma
+HPRD_00385,MMP8,4317,7.96-23.88,ng/ml,ELISA,Serum,21854733,,,
+HPRD_00385,MMP8,4317,75.39 ± 23.36,ng/ml,ELISA,Plasma,20708200,,,
+HPRD_00387,MMP9,4318,28,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00387,MMP9,4318,21.8±15.2,ng/ml,Sandwich enzyme Immunoassay,Plasma,11434385,21,ng/ml,Serum
+HPRD_00387,MMP9,4318,41,ng/ml,Immunoassay,Plasma,16038022,98,ng/ml,Plasma
+HPRD_00387,MMP9,4318,12.0-21.0,ng/ml,ELISA,Serum,21854733,,,
+HPRD_00387,MMP9,4318,14.3±8.5,ng/ml,ELISA,Plasma,21576827,,,
+HPRD_00387,MMP9,4318,28.2-98.0,ng/ml,ELISA,Plasma,12750540,,,
+HPRD_00387,MMP9,4318,8.9±2.5,ng/ml,ELISA,Plasma,11568071,,,
+HPRD_00387,MMP9,4318,9,ng/ml,-,Plasma,15611012,,,
+HPRD_00387,MMP9,4318,41,ng/ml,-,Plasma,19572557,,,
+HPRD_00387,MMP9,4318,189,ng/ml,-,Plasma,20698492,,,
+HPRD_00387,MMP9,4318,190,ng/ml,-,Plasma,19690635,,,
+HPRD_03267,MMRN1,22915,7.2,ng/ml,Spectral counting,Plasma,21632744,7.2,ng/ml,Plasma
+HPRD_10601,MMRN2,79812,230,ng/ml,Spectral counting,Plasma,21632744,230,ng/ml,Plasma
+HPRD_06102,MPO,4353,27,ng/ml,Spectral counting,Plasma,21632744,27,ng/ml,Plasma
+HPRD_06102,MPO,4353,180,ng/ml,-,Plasma,16335952,,,
+HPRD_11896,MPST,4357,2.4,ng/ml,Spectral counting,Plasma,21632744,2.4,ng/ml,Plasma
+HPRD_01089,MRC1,4360,5.6,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_07202,MSH6,2956,1.2,ng/ml,Spectral counting,Plasma,21632744,1.2,ng/ml,Plasma
+HPRD_01143,MSMB,4477,710,ng/ml,-,Plasma,19690635,5.6,ng/ml,Plasma
+HPRD_02399,MSN,4478,47,ng/ml,Spectral counting,Plasma,21632744,710,ng/ml,Plasma
+HPRD_00798,MST1,4485,250,ng/ml,Spectral counting,Plasma,21632744,47,ng/ml,Plasma
+HPRD_00798,MST1,4485,20,ng/ml,-,Plasma,20698492,250,ng/ml,Plasma
+HPRD_00798,MST1,4485,59,ng/ml,-,Plasma,16335952,,,
+HPRD_08863,MT2A,4502,4.7,ng/ml,Spectral counting,Plasma,21632744,4.7,ng/ml,Plasma
+HPRD_07574,MTPN,136319,18,ng/ml,Spectral counting,Plasma,21632744,18,ng/ml,Plasma
+HPRD_01173,MYH2,4620,57,ng/ml,Spectral counting,Plasma,21632744,57,ng/ml,Plasma
+HPRD_01175,MYH7,4625,57,ng/ml,Spectral counting,Plasma,21632744,57,ng/ml,Plasma
+HPRD_01177,MYH9,4627,57,ng/ml,Spectral counting,Plasma,21632744,57,ng/ml,Plasma
+HPRD_01180,MYL1,4632,3.4,ng/ml,Spectral counting,Plasma,21632744,3.4,ng/ml,Plasma
+HPRD_10095,MYL12B,103910,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_01183,MYL3,4634,3.4,ng/ml,Spectral counting,Plasma,21632744,3.4,ng/ml,Plasma
+HPRD_01183,MYL3,4634,1,ng/ml,-,Plasma,15611012,,,
+HPRD_17618,MYL6,4637,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_03137,NACA,4666,2.9,ng/ml,Spectral counting,Plasma,21632744,2.9,ng/ml,Plasma
+HPRD_02017,NAGLU,4669,1.4,ng/ml,Spectral counting,Plasma,21632744,1.4,ng/ml,Plasma
+HPRD_01248,NAP1L1,4673,4.3,ng/ml,Spectral counting,Plasma,21632744,4.3,ng/ml,Plasma
+HPRD_11873,NAP1L4,4676,7.5,ng/ml,Immunoassay,Plasma,16038022,7.5,ng/ml,Plasma
+HPRD_15161,NAPRT1,93100,5.5,ng/ml,Spectral counting,Plasma,21632744,5.5,ng/ml,Plasma
+HPRD_09001,NBL1,4681,70,ng/ml,Spectral counting,Plasma,21632744,70,ng/ml,Plasma
+HPRD_00301,NCAM1,4684,33,ng/ml,Spectral counting,Plasma,21632744,33,ng/ml,Plasma
+HPRD_04412,NEDD8,4738,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_14820,NEGR1,257194,4,ng/ml,Spectral counting,Plasma,21632744,4,ng/ml,Plasma
+HPRD_03549,NEO1,4756,4.2,ng/ml,Spectral counting,Plasma,21632744,4.2,ng/ml,Plasma
+HPRD_08874,NGF,4803,700,pg/ml,-,Plasma,15611012,700,pg/ml,Plasma
+HPRD_08874,NGF,4803,700,pg/ml,-,Plasma,19690635,700,pg/ml,Plasma
+HPRD_00574,NID1,4811,42,ng/ml,Spectral counting,Plasma,21632744,42,ng/ml,Plasma
+HPRD_05654,NID2,22795,42,ng/ml,Spectral counting,Plasma,21632744,42,ng/ml,Plasma
+HPRD_17634,NIT2,56954,7,ng/ml,Spectral counting,Plasma,21632744,7,ng/ml,Plasma
+HPRD_01131,NME1,4830,6.1,ng/ml,-,Plasma,19690635,6.1,ng/ml,Plasma
+HPRD_01132,NME2,4831,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_03488,NME3,4832,1.4,ng/ml,Spectral counting,Plasma,21632744,1.4,ng/ml,Plasma
+HPRD_02478,NNMT,4837,321,pg/ml,ELISA,Plasma,20455597,321,pg/ml,Plasma
+HPRD_02606,NOTCH2,4853,2.8,ng/ml,Spectral counting,Plasma,21632744,2.8,ng/ml,Plasma
+HPRD_01291,NOV,4856,59,ng/ml,Spectral counting,Plasma,21632744,59,ng/ml,Plasma
+HPRD_03008,NPC2,10577,230,ng/ml,Spectral counting,Plasma,21632744,4.7,ng/ml,Plasma
+HPRD_07366,NPEPPS,9520,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_01246,NPM1,4869,3.9,ng/ml,Spectral counting,Plasma,21632744,3.9,ng/ml,Plasma
+HPRD_00164,NPPA,4878,56,pg/ml,-,Plasma,15611012,56,pg/ml,Plasma
+HPRD_08974,NPPB,4879,13.2 ± 8.6,pg/ml,Chemiluminescence assay,Serum,22165670,21.8,pg/ml,Serum
+HPRD_08974,NPPB,4879,190,pg/ml,-,Plasma,15611012,190,pg/ml,Plasma
+HPRD_14837,NPTXR,23467,5,ng/ml,Spectral counting,Plasma,21632744,5,ng/ml,Plasma
+HPRD_01190,NQO2,4835,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_07207,NRCAM,4897,16,ng/ml,Spectral counting,Plasma,21632744,16,ng/ml,Plasma
+HPRD_03828,NRGN,4900,6,ng/ml,Spectral counting,Plasma,21632744,6,ng/ml,Plasma
+HPRD_03642,NRP1,8829,13,ng/ml,Spectral counting,Plasma,21632744,13,ng/ml,Plasma
+HPRD_05871,NT5C3A,51251,1.8,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_06398,NTM,50863,5.5,ng/ml,Spectral counting,Plasma,21632744,5.5,ng/ml,Plasma
+HPRD_02712,NTRK2,4915,2.3,ng/ml,Spectral counting,Plasma,21632744,2.3,ng/ml,Plasma
+HPRD_03205,NUCB1,4924,18,ng/ml,Spectral counting,Plasma,21632744,18,ng/ml,Plasma
+HPRD_03974,NUP88,4927,0.73-9.87,ng/ml,ELISA,Serum,21863385,9.87,ng/ml,Serum
+HPRD_03012,NUP98,4928,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_12050,NUTF2,10204,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_03856,OGN,4969,16,ng/ml,Spectral counting,Plasma,21632744,16,ng/ml,Plasma
+HPRD_17660,OIT3,170392,6.4,ng/ml,Spectral counting,Plasma,21632744,6.4,ng/ml,Plasma
+HPRD_09249,OLFM1,10439,56,ng/ml,Spectral counting,Plasma,21632744,56,ng/ml,Plasma
+HPRD_00724,ORM1,5004,220,ug/ml,Spectral counting,Plasma,21632744,1615,ug/ml,Serum
+HPRD_00724,ORM1,5004,700-1100,ug/ml,Single radial immunodiffusion,Serum,4172868,610,ug/ml,Plasma
+HPRD_00724,ORM1,5004,4.54,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00724,ORM1,5004,350,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00724,ORM1,5004,383,ng/ml,Multiple reaction monitoring,Plasma,23592487,,,
+HPRD_00724,ORM1,5004,270-1615,ug/ml,Immunoelectrophoresis,Serum,22112431,,,
+HPRD_00724,ORM1,5004,610,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00724,ORM1,5004,610,ug/ml,-,Plasma,19572557,,,
+HPRD_00724,ORM1,5004,690,ug/ml,-,Plasma,15611012,,,
+HPRD_00724,ORM1,5004,690,ug/ml,-,Plasma,19690635,,,
+HPRD_00724,ORM1,5004,690,ug/ml,-,Plasma,20204147,,,
+HPRD_00724,ORM1,5004,700,ug/ml,-,Plasma,12938928,,,
+HPRD_00724,ORM1,5004,870,ug/ml,-,Plasma,15627965,,,
+HPRD_00725,ORM2,5005,220,ug/ml,Spectral counting,Plasma,21632744,610,ug/ml,Plasma
+HPRD_00725,ORM2,5005,610,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00725,ORM2,5005,1,mg/ml,-,Plasma,12938928,,,
+HPRD_00725,ORM2,5005,610,ug/ml,-,Plasma,19572557,,,
+HPRD_00725,ORM2,5005,610,ug/ml,-,Plasma,20677825,,,
+HPRD_06035,OSCAR,126014,2.5,ng/ml,Spectral counting,Plasma,21632744,2.5,ng/ml,Plasma
+HPRD_01300,OSM,5008,48,pg/ml,Immunoassay,Plasma,16038022,48,pg/ml,Plasma
+HPRD_01300,OSM,5008,0.0-1.7,pg/ml,ELISA,Serum,9346362,48,pg/ml,Plasma
+HPRD_01300,OSM,5008,0-1.1,pg/ml,ELISA,Serum,10815616,,,
+HPRD_01300,OSM,5008,0-10.5,pg/ml,ELISA,Serum,10233412,,,
+HPRD_03446,OSMR,9180,1.1,ng/ml,Spectral counting,Plasma,21632744,2.8,ng/ml,Plasma
+HPRD_03446,OSMR,9180,2.8,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_08947,OTC,5009,5,ng/ml,Spectral counting,Plasma,21632744,5,ng/ml,Plasma
+HPRD_08880,OXT,5020,35,ng/ml,Spectral counting,Plasma,21632744,35,ng/ml,Plasma
+HPRD_07181,P4HB,5034,23,ng/ml,Spectral counting,Plasma,21632744,23,ng/ml,Plasma
+HPRD_03685,PA2G4,5036,2.8,ng/ml,Spectral counting,Plasma,21632744,2.8,ng/ml,Plasma
+HPRD_05247,PABPC1,26986,1.9,ng/ml,Spectral counting,Plasma,21632744,1.9,ng/ml,Plasma
+HPRD_01448,PAPPA,5069,1,ng/ml,-,Plasma,19690635,1,ng/ml,Plasma
+HPRD_03961,PARK7,11315,23,ng/ml,Spectral counting,Plasma,21632744,23,ng/ml,Plasma
+HPRD_16284,PARVB,29780,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_03128,PCBP1,5093,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_03129,PCBP2,5094,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_01981,PCCA,5095,3.6,ng/ml,Spectral counting,Plasma,21632744,3.6,ng/ml,Plasma
+HPRD_02026,PCK2,5106,1.2,ng/ml,Spectral counting,Plasma,21632744,1.2,ng/ml,Plasma
+HPRD_08908,PCMT1,5110,3.9,ng/ml,Spectral counting,Plasma,21632744,3.9,ng/ml,Plasma
+HPRD_02603,PCOLCE,5118,110,ng/ml,Spectral counting,Plasma,21632744,110,ng/ml,Plasma
+HPRD_02320,PCSK1N,27344,120,ng/ml,Spectral counting,Plasma,21632744,120,ng/ml,Plasma
+HPRD_07080,PCSK9,255738,82,ng/ml,Spectral counting,Plasma,21632744,82,ng/ml,Plasma
+HPRD_11422,PCYOX1,51449,54,ng/ml,Spectral counting,Plasma,21632744,54,ng/ml,Plasma
+HPRD_01388,PDE1B,5153,170,ng/ml,Spectral counting,Plasma,21632744,170,ng/ml,Plasma
+HPRD_01815,PDGFB,5155,320,pg/ml,-,Plasma,19690635,320,pg/ml,Plasma
+HPRD_01429,PDGFRA,5156,4.6,ng/ml,Immunoassay,Plasma,16038022,4.6,ng/ml,Plasma
+HPRD_03625,PDIA3,2923,32,ng/ml,Spectral counting,Plasma,21632744,49.2,ug/ml,Blood
+HPRD_06501,PDIA4,9601,6.4,ng/ml,Spectral counting,Plasma,21632744,6.4,ng/ml,Plasma
+HPRD_07504,PDIA6,10130,4,ng/ml,Spectral counting,Plasma,21632744,4,ng/ml,Plasma
+HPRD_09326,PDLIM1,9124,59,ng/ml,Spectral counting,Plasma,21632744,59,ng/ml,Plasma
+HPRD_08388,PDLIM3,27295,8.5,ng/ml,Spectral counting,Plasma,21632744,8.5,ng/ml,Plasma
+HPRD_05799,PDLIM5,10611,7.4,ng/ml,Spectral counting,Plasma,21632744,16,ng/ml,Plasma
+HPRD_06850,PEBP1,5037,190,ng/ml,Spectral counting,Plasma,21632744,190,ng/ml,Plasma
+HPRD_11424,PEBP4,157310,350,ng/ml,Spectral counting,Plasma,21632744,350,ng/ml,Plasma
+HPRD_01425,PECAM1,5175,6.6,ng/ml,-,Plasma,15611012,6.6,ng/ml,Plasma
+HPRD_01425,PECAM1,5175,6.6,ng/ml,-,Plasma,19690635,,,
+HPRD_01358,PEPD,5184,70,ng/ml,Spectral counting,Plasma,21632744,70,ng/ml,Plasma
+HPRD_01426,PF4,5196,420,ng/ml,Spectral counting,Plasma,21632744,420,ng/ml,Plasma
+HPRD_01426,PF4,5196,2.8-16.5,ng/ml,Radioimmunoassay,Plasma,6222505,,,
+HPRD_01426,PF4,5196,5.6 ± 4.8,ng/ml,Radioimmunoassay,Plasma,3570037,,,
+HPRD_01426,PF4,5196,7.7,ng/ml,-,Plasma,15611012,,,
+HPRD_01426,PF4,5196,9.7,ng/ml,-,Plasma,19690635,,,
+HPRD_01426,PF4,5196,5.6 ± 4.8,ng/ml,-,Plasma,20677825,,,
+HPRD_01427,PF4V1,5197,230,ng/ml,Spectral counting,Plasma,21632744,230,ng/ml,Plasma
+HPRD_01452,PFN1,5216,130,ng/ml,Spectral counting,Plasma,21632744,130,ng/ml,Plasma
+HPRD_01392,PGAM1,5223,48,ng/ml,Spectral counting,Plasma,21632744,48,ng/ml,Plasma
+HPRD_02027,PGAM2,5224,48,ng/ml,Spectral counting,Plasma,21632744,48,ng/ml,Plasma
+HPRD_01391,PGD,5226,29,ng/ml,Spectral counting,Plasma,21632744,29,ng/ml,Plasma
+HPRD_03076,PGF,5228,8.6-22.5,pg/ml,ELISA,Plasma,20615083,22.5,pg/ml,Plasma
+HPRD_03076,PGF,5228,9.5-22.5,pg/ml,ELISA,Plasma,20473593,22.5,pg/ml,Plasma
+HPRD_02412,PGK1,5230,99,ng/ml,Spectral counting,Plasma,21632744,99,ng/ml,Plasma
+HPRD_12001,PGLS,25796,2.8,ng/ml,Spectral counting,Plasma,21632744,2.8,ng/ml,Plasma
+HPRD_05393,PGLYRP1,8993,26,ng/ml,Spectral counting,Plasma,21632744,26,ng/ml,Plasma
+HPRD_10495,PGLYRP2,114770,14,ug/ml,Spectral counting,Plasma,21632744,14,ug/ml,Plasma
+HPRD_01389,PGM1,5236,17,ng/ml,Spectral counting,Plasma,21632744,17,ng/ml,Plasma
+HPRD_11430,PI16,221476,41,ng/ml,Spectral counting,Plasma,21632744,41,ng/ml,Plasma
+HPRD_11430,PI16,221476,384-2072,ng/ml,ELISA,Serum,15344909,2.072,ug/ml,Serum
+HPRD_11430,PI16,221476,710,ng/ml,-,Plasma,19690635,,,
+HPRD_15947,PI3,5266,68,ng/ml,Spectral counting,Plasma,21632744,68,ng/ml,Plasma
+HPRD_01436,PIGR,5284,25,ng/ml,Spectral counting,Plasma,21632744,25,ng/ml,Plasma
+HPRD_17518,PIK3IP1,113791,29,ng/ml,Spectral counting,Plasma,21632744,29,ng/ml,Plasma
+HPRD_07179,PIP,5304,22,ng/ml,Spectral counting,Plasma,21632744,22,ng/ml,Plasma
+HPRD_17854,PISD,23761,3.4,ng/ml,Spectral counting,Plasma,21632744,3.4,ng/ml,Plasma
+HPRD_11841,PKLR,5313,2.5,ng/ml,Spectral counting,Plasma,21632744,2.5,ng/ml,Plasma
+HPRD_01529,PKM,5315,2.5,ng/ml,Spectral counting,Plasma,21632744,2.5,ng/ml,Plasma
+HPRD_01529,PKM,5315,15,ug/ml,-,Plasma,19690635,,,
+HPRD_03579,PKP1,5317,3.6,ng/ml,Spectral counting,Plasma,21632744,3.6,ng/ml,Plasma
+HPRD_01396,PLA2G1B,5319,5.7,ng/ml,Spectral counting,Plasma,21632744,5.7,ng/ml,Plasma
+HPRD_01396,PLA2G1B,5319,1.5,ng/ml,-,Plasma,15611012,1.91,ng/ml,Plasma
+HPRD_01419,PLAT,5327,7.3±3,ng/ml,Enzyme immunoassay,Serum,12818410,10.3,ng/ml,Serum
+HPRD_01419,PLAT,5327,5.5-9.5,ng/ml,ELISA,Plasma,12215862,,,
+HPRD_01419,PLAT,5327,7.3,ng/ml,-,Plasma,15611012,,,
+HPRD_01419,PLAT,5327,7.3,ng/ml,-,Plasma,19690635,,,
+HPRD_01883,PLAU,5328,0.79 + 0.42,ng/ml,ELISA,Plasma,7874270,1.21,ng/ml,Plasma
+HPRD_03180,PLEC,5339,7.5,ng/ml,Spectral counting,Plasma,21632744,7.5,ng/ml,Plasma
+HPRD_15935,PLEK,5341,110,ng/ml,Spectral counting,Plasma,21632744,110,ng/ml,Plasma
+HPRD_01417,PLG,5340,25,ug/ml,Spectral counting,Plasma,21632744,400,ug/ml,Serum
+HPRD_01417,PLG,5340,200-400,ug/ml,Single radial immunodiffusion,Serum,4172868,148,ug/ml,Plasma
+HPRD_01417,PLG,5340,54-148,ug/ml,Nephelometric immunoassay,Plasma,8852360,,,
+HPRD_01417,PLG,5340,6.8,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_01417,PLG,5340,11.4,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01417,PLG,5340,36,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_01417,PLG,5340,140,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_01417,PLG,5340,100,ug/ml,-,Plasma,15611012,,,
+HPRD_01417,PLG,5340,100,ug/ml,-,Plasma,20204147,,,
+HPRD_01417,PLG,5340,110,ug/ml,-,Plasma,19690635,,,
+HPRD_01417,PLG,5340,140,ug/ml,-,Plasma,19572557,,,
+HPRD_01417,PLG,5340,150,ug/ml,-,Plasma,12938928,,,
+HPRD_01417,PLG,5340,155,ug/ml,-,Plasma,15627965,,,
+HPRD_04080,PLIN3,10226,1.3,ng/ml,Spectral counting,Plasma,21632744,1.3,ng/ml,Plasma
+HPRD_01086,PLOD1,5351,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_02133,PLS3,5358,150,ng/ml,Spectral counting,Plasma,21632744,150,ng/ml,Plasma
+HPRD_01399,PLTP,5360,64,ng/ml,Spectral counting,Plasma,21632744,64,ng/ml,Plasma
+HPRD_08440,PLXDC2,84898,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_03032,PLXNB1,5364,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_05050,PLXNB2,23654,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_02005,PNLIP,5406,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_01247,PNP,4860,9.2,ng/ml,Spectral counting,Plasma,21632744,9.2,ng/ml,Plasma
+HPRD_01462,POMC,5443,11,pg/ml,-,Plasma,19690635,11,pg/ml,Plasma
+HPRD_01351,PON1,5444,7.7,ug/ml,Spectral counting,Plasma,21632744,527.4,ug/ml,Serum
+HPRD_01351,PON1,5444,59.3 ± 1.3,ug/ml,Sandwich ELISA,Serum,10946025,527.4,ug/ml,Serum
+HPRD_01351,PON1,5444,16.8-527.4,ug/ml,ELISA,Serum,9712341,7.7,ug/ml,Plasma
+HPRD_01351,PON1,5444,16.8-527.4,ug/ml,ELISA,Serum,11557671,,,
+HPRD_01351,PON1,5444,59,ug/ml,-,Plasma,15611012,,,
+HPRD_01351,PON1,5444,59,ug/ml,-,Plasma,19690635,,,
+HPRD_01351,PON1,5444,59,ug/ml,-,Plasma,20204147,,,
+HPRD_04098,PON3,5446,11,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_04098,PON3,5446,116,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_04098,PON3,5446,1-2.47,ug/ml,ELISA,Serum,21335322,116,ng/ml,Plasma
+HPRD_12295,POSTN,10631,16,ng/ml,Spectral counting,Plasma,21632744,3.56,ng/ml,Serum
+HPRD_07171,PPBP,5473,7,ug/ml,Spectral counting,Plasma,21632744,2.47,ug/ml,Serum
+HPRD_07171,PPBP,5473,12-50.9,ng/ml,Radioimmunoassay,Plasma,6222505,7,ug/ml,Plasma
+HPRD_07760,PPCS,79717,7.4,ng/ml,Spectral counting,Plasma,21632744,7.4,ng/ml,Plasma
+HPRD_00457,PPIA,5478,140,ng/ml,Spectral counting,Plasma,21632744,140,ng/ml,Plasma
+HPRD_00458,PPIB,5479,21,ng/ml,Spectral counting,Plasma,21632744,21,ng/ml,Plasma
+HPRD_16000,PPP1R9A,55607,2.3,ng/ml,Spectral counting,Plasma,21632744,2.3,ng/ml,Plasma
+HPRD_02858,PPP2R4,5524,3.3,ng/ml,Spectral counting,Plasma,21632744,3.3,ng/ml,Plasma
+HPRD_08352,PRCP,5547,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_01458,PRDX1,5052,60,ng/ml,Spectral counting,Plasma,21632744,60,ng/ml,Plasma
+HPRD_02763,PRDX2,7001,510,ng/ml,Spectral counting,Plasma,21632744,510,ng/ml,Plasma
+HPRD_05305,PRDX3,10935,6.6,ng/ml,Spectral counting,Plasma,21632744,6.6,ng/ml,Plasma
+HPRD_05958,PRDX5,25824,9.6,ng/ml,Spectral counting,Plasma,21632744,9.6,ng/ml,Plasma
+HPRD_03817,PRDX6,9588,25,ng/ml,Spectral counting,Plasma,21632744,25,ng/ml,Plasma
+HPRD_03556,PRELP,5549,5.9,ng/ml,Spectral counting,Plasma,21632744,5.9,ng/ml,Plasma
+HPRD_02673,PREP,5550,1,ng/ml,Spectral counting,Plasma,21632744,1,ng/ml,Plasma
+HPRD_09283,PRG2,5553,20,ng/ml,Spectral counting,Plasma,21632744,20,ng/ml,Plasma
+HPRD_05047,PRG4,10216,260,ng/ml,Spectral counting,Plasma,21632744,260,ng/ml,Plasma
+HPRD_03518,PRKCSH,5589,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_07180,PRL,5617,16,ng/ml,-,Plasma,19690635,16,ng/ml,Plasma
+HPRD_01453,PRNP,5621,8.1,ng/ml,Spectral counting,Plasma,21632744,8.1,ng/ml,Plasma
+HPRD_01466,PROC,5624,65,ng/ml,Spectral counting,Plasma,21632744,755,ng/ml,Plasma
+HPRD_01466,PROC,5624,95,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_01466,PROC,5624,730,ng/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01466,PROC,5624,755,ng/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01466,PROC,5624,2,ng/ml,-,Plasma,15611012,,,
+HPRD_01466,PROC,5624,3.7,ug/ml,-,Plasma,15611012,,,
+HPRD_01466,PROC,5624,3.7,ug/ml,-,Plasma,19690635,,,
+HPRD_01466,PROC,5624,3.7,ug/ml,-,Plasma,20204147,,,
+HPRD_02801,PROCR,10544,76,ng/ml,Spectral counting,Plasma,21632744,138,ng/ml,Plasma
+HPRD_02801,PROCR,10544,125,ng/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_02801,PROCR,10544,130,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_02801,PROCR,10544,138,ng/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_02801,PROCR,10544,98.4±27.8,ng/ml,ELISA,Plasma,9218519,,,
+HPRD_02801,PROCR,10544,100,ng/ml,-,Plasma,15611012,1.7,ng/ml,Plasma
+HPRD_01473,PROS1,5627,1.7,ug/ml,Spectral counting,Plasma,21632744,,,
+HPRD_01473,PROS1,5627,26,ug/ml,ELISA,Plasma,1534488,26,ug/ml,Plasma
+HPRD_01473,PROS1,5627,21,ug/ml,-,Plasma,15611012,,,
+HPRD_01473,PROS1,5627,21,ug/ml,-,Plasma,20204147,,,
+HPRD_07182,PROZ,8858,48,ng/ml,Spectral counting,Plasma,21632744,6.3,ug/ml,Plasma
+HPRD_07182,PROZ,8858,0.34-4.2,ug/ml,Enzyme immunoassay,Plasma,19554219,,,
+HPRD_07182,PROZ,8858,0.63-5.67,ug/ml,ELISA,Plasma,3580568,,,
+HPRD_02039,PRSS1,5644,370,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_02039,PRSS1,5644,99,ng/ml,-,Plasma,19690635,370,ng/ml,Plasma
+HPRD_03335,PRSS2,5645,370,ng/ml,Spectral counting,Plasma,21632744,370,ng/ml,Plasma
+HPRD_07149,PRSS23,11098,24,ng/ml,Spectral counting,Plasma,21632744,24,ng/ml,Plasma
+HPRD_01512,PRTN3,5657,21,ng/ml,Multiple reaction monitoring,Plasma,22577024,21,ng/ml,Plasma
+HPRD_01512,PRTN3,5657,23,ng/ml,-,Plasma,15611012,,,
+HPRD_01460,PSAP,5660,33,ng/ml,Spectral counting,Plasma,21632744,33,ng/ml,Plasma
+HPRD_17918,PSAT1,29968,6.5,ng/ml,Spectral counting,Plasma,21632744,6.5,ng/ml,Plasma
+HPRD_04170,PSMA1,5682,8.4,ng/ml,Spectral counting,Plasma,21632744,8.4,ng/ml,Plasma
+HPRD_08907,PSMA2,5683,20,ng/ml,Spectral counting,Plasma,21632744,20,ng/ml,Plasma
+HPRD_01463,PSMA3,5684,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_10168,PSMA4,5685,11,ng/ml,Spectral counting,Plasma,21632744,11,ng/ml,Plasma
+HPRD_01464,PSMA5,5686,7.7,ng/ml,Spectral counting,Plasma,21632744,7.7,ng/ml,Plasma
+HPRD_04171,PSMA6,5687,17,ng/ml,Spectral counting,Plasma,21632744,17,ng/ml,Plasma
+HPRD_05967,PSMA7,5688,9.4,ng/ml,Spectral counting,Plasma,21632744,9.4,ng/ml,Plasma
+HPRD_03603,PSMB1,5689,7,ng/ml,Spectral counting,Plasma,21632744,7,ng/ml,Plasma
+HPRD_03708,PSMB2,5690,7.2,ng/ml,Spectral counting,Plasma,21632744,7.2,ng/ml,Plasma
+HPRD_03709,PSMB3,5691,2.7,ng/ml,Spectral counting,Plasma,21632744,2.7,ng/ml,Plasma
+HPRD_03710,PSMB4,5692,5.1,ng/ml,Spectral counting,Plasma,21632744,5.1,ng/ml,Plasma
+HPRD_02629,PSMB5,5693,5,ng/ml,Spectral counting,Plasma,21632744,5,ng/ml,Plasma
+HPRD_02630,PSMB6,5694,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_04940,PSMB7,5695,4.8,ng/ml,Spectral counting,Plasma,21632744,4.8,ng/ml,Plasma
+HPRD_05121,PSMD5,5711,6.7,ng/ml,Spectral counting,Plasma,21632744,6.7,ng/ml,Plasma
+HPRD_02803,PSME1,5720,1.5,ng/ml,Spectral counting,Plasma,21632744,1.5,ng/ml,Plasma
+HPRD_08904,PTGDS,5730,40,ng/ml,Western blot,Serum,9184830,12,ug/ml,Plasma
+HPRD_08904,PTGDS,5730,12,ug/ml,Spectral counting,Plasma,21632744,40,ng/ml,Serum
+HPRD_06138,PTGES3,10728,6.6,ng/ml,Spectral counting,Plasma,21632744,2.8,ug/ml,Plasma
+HPRD_03173,PTGR1,22949,2.6,ng/ml,Spectral counting,Plasma,21632744,2.6,ng/ml,Plasma
+HPRD_01778,PTMA,5757,7.2,ng/ml,Spectral counting,Plasma,21632744,7.2,ng/ml,Plasma
+HPRD_01050,PTPRC,5788,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_01552,PTPRF,5792,35,ng/ml,Spectral counting,Plasma,21632744,35,ng/ml,Plasma
+HPRD_01478,PTPRG,5793,4.9,ng/ml,Spectral counting,Plasma,21632744,4.9,ng/ml,Plasma
+HPRD_02955,PTPRJ,5795,9.9,ng/ml,Spectral counting,Plasma,21632744,9.9,ng/ml,Plasma
+HPRD_03968,PTPRK,5796,1.7,ng/ml,Spectral counting,Plasma,21632744,1.7,ng/ml,Plasma
+HPRD_01479,PTPRM,5797,47,ng/ml,Spectral counting,Plasma,21632744,47,ng/ml,Plasma
+HPRD_03344,PTPRS,5802,6.4,ng/ml,Spectral counting,Plasma,21632744,6.4,ng/ml,Plasma
+HPRD_03928,PTX3,5806,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_03928,PTX3,5806,0.8_±_0.3,ng/ml,Enzyme immunoassay,Plasma,22304663,,,
+HPRD_01434,PVR,5817,23,ng/ml,Spectral counting,Plasma,21632744,23,ng/ml,Plasma
+HPRD_07200,PVRL1,5818,920,pg/ml,Spectral counting,Plasma,21632744,920,pg/ml,Plasma
+HPRD_00720,PYGB,5834,4.4,ng/ml,Spectral counting,Plasma,21632744,4.4,ng/ml,Plasma
+HPRD_00720,PYGB,5834, 0.5-150,ng/ml,Immunoenzymatic assay,Serum,2658982, 150,ng/ml,Serum
+HPRD_00720,PYGB,5834,3,ng/ml,-,Plasma,15611012,,,
+HPRD_01987,PYGL,5836,5.4,ng/ml,Spectral counting,Plasma,21632744,5.4,ng/ml,Plasma
+HPRD_01986,PYGM,5837,4.7,ng/ml,Spectral counting,Plasma,21632744,4.7,ng/ml,Plasma
+HPRD_07178,PZP,5858,200,ng/ml,Spectral counting,Plasma,21632744,37.2,ug/ml,Serum
+HPRD_07178,PZP,5858,30-62,ug/ml,Single radial immunodiffusion,Plasma,7226526,62,ug/ml,Plasma
+HPRD_07178,PZP,5858,23.6 ± 13.6,mg/L,Multiple reaction monitoring,Serum,21879768,,,
+HPRD_07178,PZP,5858,8.4,ug/ml,-,Plasma,19690635,,,
+HPRD_07178,PZP,5858,10,ug/ml,-,Plasma,20204147,,,
+HPRD_02025,QDPR,5860,6.4,ng/ml,Spectral counting,Plasma,21632744,6.4,ng/ml,Plasma
+HPRD_06950,QPRT,23475,13,ng/ml,Spectral counting,Plasma,21632744,13,ng/ml,Plasma
+HPRD_06785,QSOX1,5768,150,ng/ml,Spectral counting,Plasma,21632744,150,ng/ml,Plasma
+HPRD_06772,RAD23B,5887,10,ng/ml,Spectral counting,Plasma,21632744,10,ng/ml,Plasma
+HPRD_03109,RAN,5901,4.6,ng/ml,Spectral counting,Plasma,21632744,4.6,ng/ml,Plasma
+HPRD_03839,RANGAP1,5905,1.9,ng/ml,Spectral counting,Plasma,21632744,1.9,ng/ml,Plasma
+HPRD_01546,RAP1B,5908,5.9,ng/ml,Spectral counting,Plasma,21632744,5.9,ng/ml,Plasma
+HPRD_03577,RARRES2,5919,570,ng/ml,Spectral counting,Plasma,21632744,570,ng/ml,Plasma
+HPRD_01580,RBP4,5950,580,ug/ml,Spectral counting,Plasma,21632744,580,ug/ml,Plasma
+HPRD_01580,RBP4,5950,32,ug/ml,-,Plasma,19690635,,,
+HPRD_01580,RBP4,5950,55,ug/ml,-,Plasma,15627965,,,
+HPRD_01580,RBP4,5950,55,ug/ml,-,Plasma,20677825,,,
+HPRD_01580,RBP4,5950,30-60 ,ug/mL,-,Serum,12872236,,,
+HPRD_05567,RECK,8434,1.8,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_01338,REG1A,5967,47,ng/ml,Spectral counting,Plasma,21632744,47,ng/ml,Plasma
+HPRD_01338,REG1A,5967,203.41-574.66,ng/ml,ELISA,Serum,21691750,574.66,ng/ml,Serum
+HPRD_01342,REG3A,5068,20,ng/ml,Spectral counting,Plasma,21632744,20,ng/ml,Plasma
+HPRD_01564,REN,5972,37,pg/ml,-,Plasma,15611012,37,pg/ml,Plasma
+HPRD_05714,RETN,56729,30.7±4.1,ng/ml,ELISA,Plasma,16320084,34.8,ng/ml,Plasma
+HPRD_05714,RETN,56729,6.40 ± 2.66,ng/ml,ELISA,serum,21226708,9.06,ng/ml,serum
+HPRD_05714,RETN,56729,15,ng/ml,-,Plasma,15611012,,,
+HPRD_01322,RHOC,389,6.2,ng/ml,Spectral counting,Plasma,21632744,6.2,ng/ml,Plasma
+HPRD_01591,RNASE1,6035,4.7,ug/ml,Spectral counting,Plasma,21632744,4.7,ug/ml,Plasma
+HPRD_00577,RNASE2,6036,1.5,ug/ml,Spectral counting,Plasma,21632744,1.5,ug/ml,Plasma
+HPRD_03018,RNASE4,6038,5.5,ng/ml,Spectral counting,Plasma,21632744,5.5,ng/ml,Plasma
+HPRD_03581,RNASE6,6039,12,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_10197,RNASET2,8635,23,ng/ml,Spectral counting,Plasma,21632744,23,ng/ml,Plasma
+HPRD_01412,RNH1,6050,43,ng/ml,Spectral counting,Plasma,21632744,43,ng/ml,Plasma
+HPRD_10364,RPL11,6135,3.4,ng/ml,Spectral counting,Plasma,21632744,3.4,ng/ml,Plasma
+HPRD_01603,RPL12,6136,1.9,ng/ml,Spectral counting,Plasma,21632744,1.9,ng/ml,Plasma
+HPRD_01602,RPL22,6146,6.8,ng/ml,Spectral counting,Plasma,21632744,6.8,ng/ml,Plasma
+HPRD_04699,RPL5,6125,4,ng/ml,Spectral counting,Plasma,21632744,4,ng/ml,Plasma
+HPRD_01712,RPL7A,6130,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_04697,RPS10,6204,1.7,ng/ml,Spectral counting,Plasma,21632744,1.7,ng/ml,Plasma
+HPRD_04714,RPS12,6206,8.3,ng/ml,Spectral counting,Plasma,21632744,8.3,ng/ml,Plasma
+HPRD_00562,RPS14,6208,4.8,ng/ml,Spectral counting,Plasma,21632744,4.8,ng/ml,Plasma
+HPRD_01601,RPS18,6222,1.7,ng/ml,Spectral counting,Plasma,21632744,1.7,ng/ml,Plasma
+HPRD_04591,RPS19,6223,5.3,ng/ml,Spectral counting,Plasma,21632744,5.3,ng/ml,Plasma
+HPRD_04690,RPS2,6187,3.4,ng/ml,Spectral counting,Plasma,21632744,3.4,ng/ml,Plasma
+HPRD_04728,RPS20,6224,2.9,ng/ml,Spectral counting,Plasma,21632744,2.9,ng/ml,Plasma
+HPRD_04729,RPS23,6228,5.6,ng/ml,Spectral counting,Plasma,21632744,5.6,ng/ml,Plasma
+HPRD_01593,RPS25,6230,5,ng/ml,Spectral counting,Plasma,21632744,5,ng/ml,Plasma
+HPRD_04731,RPS28,6234,17,ng/ml,Spectral counting,Plasma,21632744,17,ng/ml,Plasma
+HPRD_10941,RPS3,6188,8.3,ng/ml,Spectral counting,Plasma,21632744,8.3,ng/ml,Plasma
+HPRD_04695,RPS5,6193,4.2,ng/ml,Spectral counting,Plasma,21632744,4.2,ng/ml,Plasma
+HPRD_01038,RPSA,3921,2.6,ng/ml,Spectral counting,Plasma,21632744,2.6,ng/ml,Plasma
+HPRD_01551,RSU1,6251,8.9,ng/ml,Spectral counting,Plasma,21632744,8.9,ng/ml,Plasma
+HPRD_01489,S100A1,6271,90,pg/ml,-,Plasma,19690635,90,pg/ml,Plasma
+HPRD_00232,S100A10,6281,3.1,ng/ml,Spectral counting,Plasma,21632744,3.1,ng/ml,Plasma
+HPRD_04385,S100A11,6282,18,ng/ml,Spectral counting,Plasma,21632744,18,ng/ml,Plasma
+HPRD_04383,S100A12,6283,32,ng/ml,Spectral counting,Plasma,21632744,32,ng/ml,Plasma
+HPRD_04383,S100A12,6283,18-440,ng/ml,ELISA,Serum,21909201,442,ng/ml,Serum
+HPRD_04383,S100A12,6283,18-442,ng/ml,ELISA,Serum,21909201,,,
+HPRD_04383,S100A12,6283,10.7-75,ng/ml,-,Serum,18443896,,,
+HPRD_15914,S100A4,6275,3.2,ng/ml,Spectral counting,Plasma,21632744,3.2,ng/ml,Plasma
+HPRD_00237,S100A6,6277,28,ng/ml,Spectral counting,Plasma,21632744,28,ng/ml,Plasma
+HPRD_02645,S100A7,6278,27,ng/ml,Spectral counting,Plasma,21632744,27,ng/ml,Plasma
+HPRD_00471,S100A8,6279,270,ng/ml,Spectral counting,Plasma,21632744,270,ng/ml,Plasma
+HPRD_00472,S100A9,6280,1.9,ug/ml,Spectral counting,Plasma,21632744,1.9,ug/ml,Plasma
+HPRD_01505,S100B,6285,52,pg/ml,-,Plasma,9590385,,,
+HPRD_01505,S100B,6285,90,pg/ml,-,Plasma,19690635,90,pg/ml,Plasma
+HPRD_02792,S100P,6286,7.3,ng/ml,Spectral counting,Plasma,21632744,7.3,ng/ml,Plasma
+HPRD_00097,SAA1,6288,7.4,ug/ml,Spectral counting,Plasma,21632744,7.4,ug/ml,Plasma
+HPRD_00097,SAA1,6288,469,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00097,SAA1,6288,10,ug/ml,-,Plasma,15627965,,,
+HPRD_00097,SAA1,6288,10,ug/ml,-,Plasma,20677825,,,
+HPRD_00098,SAA2,6289,3.7,ug/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00098,SAA2,6289,7.4,ug/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00099,SAA4,6291,30,ug/ml,Spectral counting,Plasma,21632744,,,
+HPRD_00099,SAA4,6291,41.8 ± 1.7,mg/l,Nephelometric immuoassay,Serum,11256804,,,
+HPRD_00099,SAA4,6291,85.8 ± 2.0,mg/l,Nephelometric immuoassay,Serum,11256804,,,
+HPRD_00099,SAA4,6291,50,ug/ml,-,Serum,20204147,,,
+HPRD_06413,SAMSN1,64092,2,ng/ml,Spectral counting,Plasma,21632744,2,ng/ml,Plasma
+HPRD_16716,SARNP,84324,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_18498,SBSN,374897,4.5,ng/ml,Spectral counting,Plasma,21632744,4.5,ng/ml,Plasma
+HPRD_06762,SCG2,7857,1.9,ng/ml,Spectral counting,Plasma,21632744,1.9,ng/ml,Plasma
+HPRD_11538,SCG3,29106,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_01410,SCG5,6447,7.6,ng/ml,Spectral counting,Plasma,21632744,7.6,ng/ml,Plasma
+HPRD_01884,SCGB1A1,7356,56,ng/ml,Spectral counting,Plasma,21632744,56,ng/ml,Plasma
+HPRD_01700,SCP2,6342,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_01718,SDC1,6382,22,ng/ml,Spectral counting,Plasma,21632744,22,ng/ml,Plasma
+HPRD_01718,SDC1,6382,28-75,ng/ml,ELISA,Serum,15089762,75,ng/ml,Serum
+HPRD_01718,SDC1,6382,40,ng/ml,-,Plasma,19690635,,,
+HPRD_13113,SDF4,51150,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_09470,SDPR,8436,7.9,ng/ml,Spectral counting,Plasma,21632744,7.9,ng/ml,Plasma
+HPRD_04004,SECTM1,6398,64,ng/ml,Spectral counting,Plasma,21632744,64,ng/ml,Plasma
+HPRD_00566,SELE,6401,1.3,ng/ml,Spectral counting,Plasma,21632744,45.8,ng/ml,Serum
+HPRD_00566,SELE,6401,12.8-45.8,ng/ml,ELISA,Serum,17101577,60.8,ng/ml,Plasma
+HPRD_00566,SELE,6401,14.5 ± 6.6,ng/ml,ELISA,Serum,10590190,867,ng/ml,Serum
+HPRD_00566,SELE,6401,30 ± 8,ng/ml,ELISA,Plasma,11259814,1.418,ug/ml,Plasma
+HPRD_00566,SELE,6401,32.81 ± 10.14,ng/ml,ELISA,Serum,21526496,,,
+HPRD_00566,SELE,6401,34.0-60.8,ng/ml,ELISA,Plasma,12215862,,,
+HPRD_00566,SELE,6401,920,pg/ml,-,Plasma,15611012,,,
+HPRD_00566,SELE,6401,920,pg/ml,-,Plasma,19690635,,,
+HPRD_05007,SELENBP1,8991,87,ng/ml,Spectral counting,Plasma,21632744,87,ng/ml,Plasma
+HPRD_07034,SELL,6402,92,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_07034,SELL,6402,1.244,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_07034,SELL,6402,1.246,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_07034,SELL,6402,1.32,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_07034,SELL,6402,936,ng/ml,Multiple reaction monitoring,Plasma,23592487,,,
+HPRD_07034,SELL,6402,1.418,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_07034,SELL,6402,17,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_07034,SELL,6402,601±126,ng/ml,ELISA,Plasma,11259814,,,
+HPRD_07034,SELL,6402,666±201,ng/ml,ELISA,Serum,12127376,,,
+HPRD_07034,SELL,6402,17,ng/ml,-,Plasma,16335952,,,
+HPRD_07034,SELL,6402,17,ng/ml,-,Plasma,19572557,,,
+HPRD_07034,SELL,6402,17,ng/ml,-,Plasma,20677825,,,
+HPRD_07034,SELL,6402,600,ng/ml,-,Plasma,19690635,,,
+HPRD_07034,SELL,6402,601,ng/ml,-,Plasma,20698492,,,
+HPRD_07034,SELL,6402,670,ng/ml,-,Plasma,15611012,,,
+HPRD_01433,SELP,6403,0.95,ng/ml,Spectral counting,Plasma,21632744,232,ng/ml,Plasma
+HPRD_01433,SELP,6403,31.6-61.9,ng/ml,Enzyme immunoassay,Plasma,14760083,,,
+HPRD_01433,SELP,6403,13.2 ± 2.3,ng/ml,ELISA,Plasma,18262600,,,
+HPRD_01433,SELP,6403,189±43,ng/ml,ELISA,Plasma,11259814,,,
+HPRD_01433,SELP,6403,47,ng/ml,-,Plasma,15611012,,,
+HPRD_01433,SELP,6403,190,ng/ml,-,Plasma,19690635,,,
+HPRD_01433,SELP,6403,200,ng/ml,-,Plasma,15611012,,,
+HPRD_01641,SEMG1,6406,5.9,ng/ml,Spectral counting,Plasma,21632744,5.9,ng/ml,Plasma
+HPRD_01642,SEMG2,6407,5.9,ng/ml,Spectral counting,Plasma,21632744,5.9,ng/ml,Plasma
+HPRD_03286,SEPP1,6414,510,ng/ml,Spectral counting,Plasma,21632744,510,ng/ml,Plasma
+HPRD_03286,SEPP1,6414,3.4 ± 0.8,ug/ml,ELISA,Serum,15850963,4.2,ug/ml,Serum
+HPRD_03286,SEPP1,6414,5.3,ug/ml,-,Plasma,20204147,,,
+HPRD_09570,SERBP1,26135,2.3,ng/ml,Spectral counting,Plasma,21632744,2.3,ng/ml,Plasma
+HPRD_02463,SERPINA1,5265,350,ug/ml,Spectral counting,Plasma,21632744,1.429,mg/ml,Blood
+HPRD_02463,SERPINA1,5265,1.9-5,mg/ml,Single radial immunodiffusion,Serum,4172868,,,
+HPRD_02463,SERPINA1,5265,137.4,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_02463,SERPINA1,5265,1428.97,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_02463,SERPINA1,5265,132.8±11.9,mg/dl,ELISA,Serum,12574959,,,
+HPRD_02463,SERPINA1,5265,1330 ± 40,mg/L,ELISA,Serum,18197923,,,
+HPRD_02463,SERPINA1,5265,1.1,mg/ml,-,Plasma,20677825,,,
+HPRD_02463,SERPINA1,5265,1.235,mg/ml,-,Plasma,15627965,,,
+HPRD_02463,SERPINA1,5265,1.4,mg/ml,-,Plasma,12938928,,,
+HPRD_02463,SERPINA1,5265,1.4,mg/ml,-,Plasma,15611012,,,
+HPRD_02463,SERPINA1,5265,1.4,mg/ml,-,Plasma,19690635,,,
+HPRD_02463,SERPINA1,5265,1.4,mg/ml,-,Plasma,20204147,,,
+HPRD_02463,SERPINA1,5265,4-Feb,mg/ml,-,Plasma,14961748,,,
+HPRD_09245,SERPINA10,51156,360,ng/ml,Spectral counting,Plasma,21632744,1.6,ug/ml,Plasma
+HPRD_09245,SERPINA10,51156,1-1.6,ug/ml,Coagulation assay,Plasma,9689066,,,
+HPRD_09245,SERPINA10,51156,1.6,ug/ml,-,Plasma,20204147,,,
+HPRD_19045,SERPINA11,256394,6.7,ng/ml,Spectral counting,Plasma,21632744,6.7,ng/ml,Plasma
+HPRD_00120,SERPINA3,12,110,ug/ml,Spectral counting,Plasma,21632744,187.68,ug/ml,Blood
+HPRD_00120,SERPINA3,12,187.68,ug/ml,Multiple reaction monitoring,Blood,23221968,500,ug/ml,Serum
+HPRD_00120,SERPINA3,12,70-500,ug/ml,Immunoelectrophoresis,Serum,22112431,110,ug/ml,Plasma
+HPRD_00120,SERPINA3,12,42,ug/ml,-,Plasma,15611012,,,
+HPRD_00120,SERPINA3,12,42,ug/ml,-,Plasma,20204147,,,
+HPRD_00120,SERPINA3,12,400,ug/ml,-,Plasma,12938928,,,
+HPRD_00120,SERPINA3,12,450,ug/ml,-,Plasma,15627965,,,
+HPRD_00120,SERPINA3,12,450,ug/ml,-,Plasma,20677825,,,
+HPRD_01004,SERPINA4,5267,1.1,ug/ml,Spectral counting,Plasma,21632744,25.6,ug/ml,Plasma
+HPRD_01004,SERPINA4,5267,22.1 ± 3.5,ug/ml,ELISA,Plasma,8648266,,,
+HPRD_03503,SERPINA5,5104,390,ng/ml,Spectral counting,Plasma,21632744,1.1,mg/ml,Plasma
+HPRD_03503,SERPINA5,5104,5.3±1.7,mg/l,Immunoradiometric assay,Plasma,1372913,,,
+HPRD_03503,SERPINA5,5104,1100,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_03503,SERPINA5,5104,3,ug/ml,-,Plasma,12938928,,,
+HPRD_03503,SERPINA5,5104,5.3,ug/ml,-,Plasma,15611012,,,
+HPRD_03503,SERPINA5,5104,5.3,ug/ml,-,Plasma,19690635,,,
+HPRD_03503,SERPINA5,5104,5.6,ug/ml,-,Plasma,20204147,,,
+HPRD_00419,SERPINA6,866,1.2,ug/ml,Spectral counting,Plasma,21632744,1.2,ug/ml,Plasma
+HPRD_00419,SERPINA6,866,70,ug/ml,-,Plasma,15627965,,,
+HPRD_00419,SERPINA6,866,60-80,ug/ml,-,Plasma,14961748,,,
+HPRD_02438,SERPINA7,6906,1300,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_02438,SERPINA7,6906,15,ug/ml,-,Plasma,15627965,,,
+HPRD_02438,SERPINA7,6906,15,ug/ml,-,Plasma,20677825,,,
+HPRD_00555,SERPINB1,1992,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_02745,SERPINB3,6317,6.1,ng/ml,Spectral counting,Plasma,21632744,6.1,ng/ml,Plasma
+HPRD_02745,SERPINB3,6317,4.2,ng/ml,-,Plasma,19690635,,,
+HPRD_02746,SERPINB4,6318,6.1,ng/ml,Spectral counting,Plasma,21632744,6.1,ng/ml,Plasma
+HPRD_02746,SERPINB4,6318,2,ng/ml,-,Plasma,19690635,,,
+HPRD_01413,SERPINB6,5269,3.6,ng/ml,Spectral counting,Plasma,21632744,3.6,ng/ml,Plasma
+HPRD_03412,SERPINB8,5271,14,ng/ml,Spectral counting,Plasma,21632744,14,ng/ml,Plasma
+HPRD_00122,SERPINC1,462,60,ug/ml,Spectral counting,Plasma,21632744,355.86,ug/ml,Blood
+HPRD_00122,SERPINC1,462,35.8,ug/ml,Multiple reaction monitoring,Plasma,23245390,320,ug/ml,Plasma
+HPRD_00122,SERPINC1,462,355.86,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00122,SERPINC1,462,30.21,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00122,SERPINC1,462,53.24,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00122,SERPINC1,462,58,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00122,SERPINC1,462,320,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_00122,SERPINC1,462,145,ug/ml,-,Plasma,15627965,,,
+HPRD_00122,SERPINC1,462,150,ug/ml,-,Plasma,12938928,,,
+HPRD_00122,SERPINC1,462,150,ug/ml,-,Plasma,20677825,,,
+HPRD_00122,SERPINC1,462,200,ug/ml,-,Plasma,15611012,,,
+HPRD_00122,SERPINC1,462,200,ug/ml,-,Plasma,20204147,,,
+HPRD_00122,SERPINC1,462,320,ug/ml,-,Plasma,19572557,,,
+HPRD_00795,SERPIND1,3053,4.3,ug/ml,Spectral counting,Plasma,21632744,90,ug/ml,
+HPRD_00795,SERPIND1,3053,38.65,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_00795,SERPIND1,3053,43.3,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00795,SERPIND1,3053,44,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_00795,SERPIND1,3053,50.83,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_00795,SERPIND1,3053,46.806,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_00795,SERPIND1,3053,90,ug/ml,Immunoassay,Plasma,6895893,,,
+HPRD_00795,SERPIND1,3053,80,ug/ml,-,Plasma,15627965,,,
+HPRD_00795,SERPIND1,3053,80,ug/ml,-,Plasma,20677825,,,
+HPRD_01418,SERPINE1,5054,14,ng/ml,Spectral counting,Plasma,21632744,23.1,ng/ml,Plasma
+HPRD_01418,SERPINE1,5054,42.4±23,ng/ml,Enzyme immunoassay,Serum,12818410,65.4,ng/ml,Serum
+HPRD_01418,SERPINE1,5054,21.1,ng/ml,ELISA,Plasma,22200807,,,
+HPRD_01418,SERPINE1,5054,1.3-23.1,ng/ml,ELISA,Plasma,16642549,,,
+HPRD_01418,SERPINE1,5054,8,ng/ml,-,Plasma,19690635,,,
+HPRD_01418,SERPINE1,5054,42,ng/ml,-,Plasma,15611012,,,
+HPRD_01408,SERPINF1,5176,7.2,ug/ml,Spectral counting,Plasma,21632744,7.36,ug/ml,Plasma
+HPRD_01408,SERPINF1,5176,5,ug/ml,Quantitative western blot,Plasma,12737624,175,ug/ml,Serum
+HPRD_01408,SERPINF1,5176,7.36,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_01408,SERPINF1,5176,20-175,ug/ml,ELISA,Serum,22669302,,,
+HPRD_01408,SERPINF1,5176,5,ug/ml,-,Plasma,14961748,,,
+HPRD_01408,SERPINF1,5176,5,ug/ml,-,Plasma,15627965,,,
+HPRD_01408,SERPINF1,5176,5,ug/ml,-,Plasma,16335952,,,
+HPRD_01408,SERPINF1,5176,5,ug/ml,-,Plasma,20204147,,,
+HPRD_01408,SERPINF1,5176,5,ug/ml,-,Plasma,20677825,,,
+HPRD_02029,SERPINF2,5345,12,ug/ml,Spectral counting,Plasma,21632744,80,ug/ml,Plasma
+HPRD_02029,SERPINF2,5345,61.241,ug/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_02029,SERPINF2,5345,65.87,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_02029,SERPINF2,5345,80,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_02029,SERPINF2,5345,70,ug/ml,-,Plasma,15611012,,,
+HPRD_02029,SERPINF2,5345,70,ug/ml,-,Plasma,20204147,,,
+HPRD_02029,SERPINF2,5345,6.9 ± 0.6,mg/dl,-,Plasma,8271952,,,
+HPRD_06033,SERPING1,710,12,ug/ml,Spectral counting,Plasma,21632744,85.67,ug/ml,Blood
+HPRD_06033,SERPING1,710,26.5± 1.5 ,mg/dl,Radial immunodiffusion,Plasma,3201136,280,ug/ml,Plasma
+HPRD_06033,SERPING1,710,85.67,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_06033,SERPING1,710,300,ug/ml,-,Plasma,15611012,,,
+HPRD_06033,SERPING1,710,300,ug/ml,-,Plasma,20204147,,,
+HPRD_02968,SERPINH1,871,5.9,ng/ml,Spectral counting,Plasma,21632744,5.9,ng/ml,Plasma
+HPRD_03185,SFN,2810,180,ng/ml,Spectral counting,Plasma,21632744,180,ng/ml,Plasma
+HPRD_02178,SH3BGRL,6451,160,ng/ml,Spectral counting,Plasma,21632744,160,ng/ml,Plasma
+HPRD_15331,SH3BGRL2,83699,2.6,ng/ml,Spectral counting,Plasma,21632744,2.6,ng/ml,Plasma
+HPRD_15332,SH3BGRL3,83442,68,ng/ml,Spectral counting,Plasma,21632744,68,ng/ml,Plasma
+HPRD_01646,SHBG,6462,260,ng/ml,Spectral counting,Plasma,21632744,260,ng/ml,Plasma
+HPRD_01646,SHBG,6462,101,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_01643,SHMT1,6470,2.2,ng/ml,Spectral counting,Plasma,21632744,2.2,ng/ml,Plasma
+HPRD_19304,SIGLEC14,100049587,2.2,ng/ml,Spectral counting,Plasma,21632744,2.2,ng/ml,Plasma
+HPRD_03912,SIRPA,140885,16,ng/ml,Spectral counting,Plasma,21632744,16,ng/ml,Plasma
+HPRD_17506,SLC38A10,124565,3.3,ng/ml,Spectral counting,Plasma,21632744,3.3,ng/ml,Plasma
+HPRD_01148,SLC3A2,6520,12,ng/ml,Spectral counting,Plasma,21632744,12,ng/ml,Plasma
+HPRD_00175,SLC4A1,6521,4.9,ng/ml,Spectral counting,Plasma,21632744,4.9,ng/ml,Plasma
+HPRD_00121,SLPI,6590,13,ng/ml,Spectral counting,Plasma,21632744,13,ng/ml,Plasma
+HPRD_00121,SLPI,6590,25-43,ng/ml,ELISA,Serum,15661245,43,ng/ml,Serum
+HPRD_00121,SLPI,6590,32,ng/ml,-,Plasma,19690635,,,
+HPRD_05836,SLURP1,57152,110,ng/ml,Spectral counting,Plasma,21632744,110,ng/ml,Plasma
+HPRD_18078,SMR3B,10879,4.8,ng/ml,Spectral counting,Plasma,21632744,4.8,ng/ml,Plasma
+HPRD_01227,SNCA,6622,49,ng/ml,Spectral counting,Plasma,21632744,49,ng/ml,Plasma
+HPRD_00937,SOD1,6647,600,ng/ml,Spectral counting,Plasma,21632744,600,ng/ml,Plasma
+HPRD_00938,SOD2,6648,7.1,ng/ml,Spectral counting,Plasma,21632744,7.1,ng/ml,Plasma
+HPRD_01708,SOD3,6649,120,ng/ml,Spectral counting,Plasma,21632744,122,ng/ml,Plasma
+HPRD_01708,SOD3,6649,116 ± 6,ng/ml,ELISA,Plasma,14592844,,,
+HPRD_01679,SORD,6652,2.2,ng/ml,Spectral counting,Plasma,21632744,2.2,ng/ml,Plasma
+HPRD_01631,SPARC,6678,66,ng/ml,Spectral counting,Plasma,21632744,66,ng/ml,Plasma
+HPRD_06919,SPARCL1,8404,53,ng/ml,Spectral counting,Plasma,21632744,53,ng/ml,Plasma
+HPRD_01341,SPINK1,6690,230,ng/ml,Spectral counting,Plasma,21632744,230,ng/ml,Plasma
+HPRD_01341,SPINK1,6690,21,ng/ml,-,Plasma,19690635,,,
+HPRD_05423,SPINK5,11005,210,ng/ml,Spectral counting,Plasma,21632744,210,ng/ml,Plasma
+HPRD_16850,SPINK7,84651,9.7,ng/ml,Spectral counting,Plasma,21632744,9.7,ng/ml,Plasma
+HPRD_05494,SPINT1,6692,11.09±3.20,ng/ml,ELISA,Serum,16353247,14.29,ng/ml,Serum
+HPRD_05495,SPINT2,10653,1.69±1.87,ng/ml,ELISA,Serum,16353247,3.9,ng/ml,Plasma
+HPRD_01325,SPP1,6696,180,ng/ml,Spectral counting,Plasma,21632744,180,ng/ml,Plasma
+HPRD_01325,SPP1,6696,353±15,ng/ml,ELISA,Serum,11751502,469,ng/ml,Serum
+HPRD_01325,SPP1,6696,38.23-71.21,ng/ml,ELISA,Plasma,17386288,,,
+HPRD_01325,SPP1,6696,439±30,ng/ml,ELISA,Serum,11751502,,,
+HPRD_01325,SPP1,6696,440,ng/ml,-,Plasma,19690635,,,
+HPRD_04029,SPP2,6694,800,ng/ml,Spectral counting,Plasma,21632744,800,ng/ml,Plasma
+HPRD_01685,SPTA1,6708,1.2,ng/ml,Spectral counting,Plasma,21632744,1.2,ng/ml,Plasma
+HPRD_01686,SPTB,6710,1.4,ng/ml,Spectral counting,Plasma,21632744,1.4,ng/ml,Plasma
+HPRD_01683,SPTBN1,6711,1.4,ng/ml,Spectral counting,Plasma,21632744,1.4,ng/ml,Plasma
+HPRD_08920,SST,6750,4.9,ng/ml,Spectral counting,Plasma,21632744,4.9,ng/ml,Plasma
+HPRD_08920,SST,6750,20,pg/ml,-,Plasma,19690635,7.9,ng/ml,Plasma
+HPRD_01696,STATH,6779,7.9,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_05454,STIP1,10963,1.8,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_01047,STMN1,3925,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_00585,STOM,2040,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_04449,STX7,8417,4.2,ng/ml,Spectral counting,Plasma,21632744,4.2,ng/ml,Plasma
+HPRD_03423,STXBP2,6813,1.8,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_18128,SUCLG1,8802,2.8,ng/ml,Spectral counting,Plasma,21632744,2.8,ng/ml,Plasma
+HPRD_03754,SUMO3,6612,7.9,ng/ml,Spectral counting,Plasma,21632744,7.9,ng/ml,Plasma
+HPRD_12942,SVEP1,79987,540,pg/ml,Spectral counting,Plasma,21632744,540,pg/ml,Plasma
+HPRD_09090,SYMPK,8189,3.4,ng/ml,Spectral counting,Plasma,21632744,3.4,ng/ml,Plasma
+HPRD_06864,TAGLN2,8407,120,ng/ml,Spectral counting,Plasma,21632744,120,ng/ml,Plasma
+HPRD_03640,TALDO1,6888,15,ng/ml,Spectral counting,Plasma,21632744,1.1,ng/ml,Plasma
+HPRD_01762,TARS,6897,1.1,ng/ml,Spectral counting,Plasma,21632744,7.4,ng/ml,Plasma
+HPRD_18166,TBCA,6902,7.4,ng/ml,Spectral counting,Plasma,21632744,1.3,ug/ml,Plasma
+HPRD_02874,TCEB2,6923,2.1,ng/ml,Spectral counting,Plasma,21632744,2.1,ng/ml,Plasma
+HPRD_02571,TEK,7010,5·75-8·75,ng/ml,ELISA,Plasma,14511360,9,ng/ml,Plasma
+HPRD_02571,TEK,7010,6·4-8·5,ng/ml,ELISA,Plasma,14511360,,,
+HPRD_02571,TEK,7010,9-Jul,ng/ml,ELISA,Plasma,12814387,,,
+HPRD_02571,TEK,7010,8.5,ng/ml,-,Plasma,19690635,,,
+HPRD_01811,TF,7018,360,ug/ml,Spectral counting,Plasma,21632744,,,
+HPRD_01811,TF,7018,2-4.5,mg/ml,Single radial immunodiffusion,Serum,4172868,2.3,mg/ml,Plasma
+HPRD_01811,TF,7018,1.5,mg/ml,Multiple reaction monitoring,Plasma,23245390,4.5,mg/ml,Serum
+HPRD_01811,TF,7018,2.3,mg/ml,Immunoassay,Plasma,16038022,,,
+HPRD_01811,TF,7018,2.3,mg/ml,-,Plasma,19572557,,,
+HPRD_01811,TF,7018,2.3,mg/ml,-,Plasma,20677825,,,
+HPRD_01811,TF,7018,2.66,mg/ml,-,Plasma,15627965,,,
+HPRD_01811,TF,7018,4,mg/ml,-,Plasma,19690635,,,
+HPRD_01811,TF,7018,11,mg/ml,-,Plasma,12938928,,,
+HPRD_01811,TF,7018,2800,mg/ml,-,Serum,20204147,,,
+HPRD_01811,TF,7018,4-Feb,mg/ml,-,Plasma,14961748,,,
+HPRD_00219,TFF1,7031,28,ng/ml,Spectral counting,Plasma,21632744,28,ng/ml,Plasma
+HPRD_01682,TFF2,7032,24,ng/ml,Spectral counting,Plasma,21632744,24,ng/ml,Plasma
+HPRD_02797,TFF3,7033,47,ng/ml,Spectral counting,Plasma,21632744,47,ng/ml,Plasma
+HPRD_01064,TFPI,7035,23,ng/ml,Spectral counting,Plasma,21632744,23,ng/ml,Plasma
+HPRD_01064,TFPI,7035,16,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_01064,TFPI,7035,23,ng/ml,-,Plasma,15611012,,,
+HPRD_01064,TFPI,7035,78,ng/ml,-,Plasma,16335952,,,
+HPRD_01812,TFRC,7037,2.9,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_01812,TFRC,7037,580,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_01812,TFRC,7037,5.2,ug/ml,-,Plasma,19690635,,,
+HPRD_01812,TFRC,7037,580,ng/ml,-,Plasma,16335952,,,
+HPRD_01812,TFRC,7037,580,ng/ml,-,Plasma,19572557,,,
+HPRD_01812,TFRC,7037,580,ng/ml,-,Plasma,20677825,580,ng/ml,Plasma
+HPRD_01782,TG,7038,0-20.7,ng/ml,Radioimmunoassay,Serum,1150869,20.7,ng/ml,Serum
+HPRD_01782,TG,7038,1,ng/ml,-,Plasma,19690635,1,ng/ml,Plasma
+HPRD_07522,TGFA,7039,18-Dec,pg/ml,ELISA,Serum,9299253,18,pg/ml,Serum
+HPRD_07522,TGFA,7039,15,pg/ml,-,Plasma,19690635,15,pg/ml,Plasma
+HPRD_01821,TGFB1,7040,3.3,ng/ml,Spectral counting,Plasma,21632744,70.6,ng/ml,Serum
+HPRD_01821,TGFB1,7040,75,ng/ml,Immunoassay,Plasma,16038022,75,ng/ml,Plasma
+HPRD_01821,TGFB1,7040,8.5-34.9,ng/ml,Immunoassay,Serum,12560755,140,ng/ml,Plasma
+HPRD_01821,TGFB1,7040,1.4 ± 0.8 ,ng/ml,ELISA,Plasma,7513247,,,
+HPRD_01821,TGFB1,7040,11.7-70.6,ng/ml,ELISA,Serum,11566625,,,
+HPRD_01821,TGFB1,7040,14.98 ± 12.39,ng/ml,ELISA,Plasma,17392576,,,
+HPRD_01821,TGFB1,7040,59.6 ± 2.2,ng/ml,ELISA,Serum,18197923,,,
+HPRD_01821,TGFB1,7040,2.3,ng/ml,-,Plasma,16335952,,,
+HPRD_01821,TGFB1,7040,4.5,ng/ml,-,Plasma,15611012,,,
+HPRD_01821,TGFB1,7040,14,ng/ml,-,Plasma,19690635,,,
+HPRD_01821,TGFB1,7040,75,ng/ml,-,Plasma,19572557,,,
+HPRD_03409,TGFBI,7045,140,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_01823,TGFBR2,7048,1.3,ng/ml,Spectral counting,Plasma,21632744,1.3,ng/ml,Plasma
+HPRD_02846,TGFBR3,7049,8.3,ng/ml,Spectral counting,Plasma,21632744,8.3,ng/ml,Plasma
+HPRD_02584,TGM3,7053,2.4,ng/ml,Spectral counting,Plasma,21632744,2.4,ng/ml,Plasma
+HPRD_01765,THBS1,7057,510,ng/ml,Spectral counting,Plasma,21632744,510,ng/ml,Plasma
+HPRD_01765,THBS1,7057,142-315,ng/ml,Radioimuunoassay,Plasma,10817245,,,
+HPRD_01765,THBS1,7057,200,ng/ml,-,Plasma,15611012,,,
+HPRD_01765,THBS1,7057,210,ng/ml,-,Plasma,19690635,,,
+HPRD_01766,THBS2,7058,510,ng/ml,Spectral counting,Plasma,21632744,510,ng/ml,Plasma
+HPRD_02836,THBS4,7060,92,ng/ml,Spectral counting,Plasma,21632744,92,ng/ml,Plasma
+HPRD_03072,THOP1,7064,1.2,ng/ml,Spectral counting,Plasma,21632744,1.2,ng/ml,Plasma
+HPRD_02500,THPO,7066,78,ng/ml,-,Plasma,19690635,78,ng/ml,Plasma
+HPRD_01769,THY1,7070,49,ng/ml,Spectral counting,Plasma,21632744,49,ng/ml,Plasma
+HPRD_02371,TIMP1,7076,270,ng/ml,Spectral counting,Plasma,21632744,151,ng/ml,Serum
+HPRD_02371,TIMP1,7076,94.5±26.3,ng/ml,Sandwich enzyme Immunoassay,Plasma,11434385,270,ng/ml,Plasma
+HPRD_02371,TIMP1,7076,14,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_02371,TIMP1,7076,143 ± 8,ng/ml,ELISA,Serum,18197923,,,
+HPRD_02371,TIMP1,7076,80.75-129.25,ng/ml,ELISA,Serum,21854733,,,
+HPRD_02371,TIMP1,7076,14,ng/ml,-,Plasma,16335952,,,
+HPRD_02371,TIMP1,7076,14,ng/ml,-,Plasma,19572557,,,
+HPRD_02371,TIMP1,7076,95,ng/ml,-,Plasma,15611012,,,
+HPRD_02371,TIMP1,7076,95,ng/ml,-,Plasma,19690635,,,
+HPRD_02371,TIMP1,7076,56.99-73.59,ng/ml,-,Plasma,20817717,,,
+HPRD_01784,TIMP2,7077,150,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_01784,TIMP2,7077,35.4±16.4,ng/ml,Sandwich enzyme Immunoassay,Plasma,11434385,,,
+HPRD_01784,TIMP2,7077,34,ng/ml,-,Plasma,15611012,,,
+HPRD_01784,TIMP2,7077,34,ng/ml,-,Plasma,19690635,150,ng/ml,Plasma
+HPRD_01771,TK1,7083,10,pg/ml,-,Plasma,19690635,10,pg/ml,Plasma
+HPRD_06001,TKT,7086,89,ng/ml,Spectral counting,Plasma,21632744,89,ng/ml,Plasma
+HPRD_01726,TLN1,7094,340,ng/ml,Spectral counting,Plasma,21632744,340,ng/ml,Plasma
+HPRD_18966,TMEM223,79064,8.1,ng/ml,Spectral counting,Plasma,21632744,8.1,ng/ml,Plasma
+HPRD_01777,TMPO,7112,1.8,ng/ml,Spectral counting,Plasma,21632744,1.8,ng/ml,Plasma
+HPRD_01779,TMSB10,9168,150,ng/ml,Spectral counting,Plasma,21632744,150,ng/ml,Plasma
+HPRD_02153,TMSB4X,7114,1.8,ug/ml,Spectral counting,Plasma,21632744,1.8,ug/ml,Plasma
+HPRD_01756,TNC,3371,42,ng/ml,Spectral counting,Plasma,21632744,42,ng/ml,Plasma
+HPRD_01756,TNC,3371,30.9 ± 8.8,ng/ml,ELISA,Serum,16750702,39.7,ng/ml,Serum
+HPRD_01756,TNC,3371,1,ug/ml,-,Plasma,19690635,150,ng/ml,Plasma
+HPRD_01855,TNF,7124,0-3.85,ng/ml,Multiplex immunobead assay,Serum,17438101,81.3,pg/ml,Serum
+HPRD_01855,TNF,7124,0-15,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,75,pg/ml,Plasma
+HPRD_01855,TNF,7124,37,pg/ml,Immunoassay,Plasma,16038022,,,
+HPRD_01855,TNF,7124,0.7-3.2,pg/ml,Immunoassay,Serum,21724697,,,
+HPRD_01855,TNF,7124,5.93 ± 0.84,pg/ml,Immunoassay,Plasma,12351485,,,
+HPRD_01855,TNF,7124,0.0-4.9,pg/ml,ELISA,Serum,22112431,,,
+HPRD_01855,TNF,7124,0.0-81.3,pg/ml,ELISA,serum,17964877,,,
+HPRD_01855,TNF,7124,0-10.9,pg/ml,ELISA,Serum,17101577,,,
+HPRD_01855,TNF,7124,0-67.6,pg/ml,ELISA,Plasma,17392576,,,
+HPRD_01855,TNF,7124,1.32±0.39,pg/ml,ELISA,Serum,12574959,,,
+HPRD_01855,TNF,7124,13.7±2.7,pg/ml,ELISA,Plasma,16320084,,,
+HPRD_01855,TNF,7124,17.08-30.43,pg/ml,ELISA,Serum,15542448,,,
+HPRD_01855,TNF,7124,4.07 ± 0.24,pg/ml,ELISA,Serum,21226708,,,
+HPRD_01855,TNF,7124,5.30 ± 0.31,pg/ml,ELISA,Serum,18197923,,,
+HPRD_01855,TNF,7124,Aug-75,pg/ml,Chemiluminescent immunometric assay,Plasma,16183806,,,
+HPRD_01855,TNF,7124,15.4 ± 0.7,pg/ml,Chemiluminescence assay,Serum,22165670,,,
+HPRD_01855,TNF,7124,5.9,pg/ml,-,Plasma,19690635,,,
+HPRD_01855,TNF,7124,8.3,pg/ml,-,Plasma,15611012,,,
+HPRD_04681,TNFRSF10C,8794,3.4,ng/ml,Spectral counting,Plasma,21632744,3.4,ng/ml,Plasma
+HPRD_04032,TNFRSF11B,4982,4-100,pg/ml,ELISA,Serum,15089762,100,pg/ml,Serum
+HPRD_04032,TNFRSF11B,4982,230,pg/ml,-,Plasma,15611012,,,
+HPRD_01861,TNFRSF1A,7132,1.84 ± 0.33,ng/ml,Immunoassay,Plasma,12351485,,,
+HPRD_01861,TNFRSF1A,7132,0.7±0.05,ng/ml,ELISA,Plasma,15556049,,,
+HPRD_01861,TNFRSF1A,7132,3.61-5.75,ng/ml,ELISA,Serum,15542448,,,
+HPRD_01861,TNFRSF1A,7132,420-1990,pg/ml,ELISA,Serum,22112431,,,
+HPRD_01861,TNFRSF1A,7132,35,pg/ml,-,Plasma,19690635,2.17,ng/ml,Plasma
+HPRD_01861,TNFRSF1A,7132,890,pg/ml,-,Plasma,15611012,5.75,ng/ml,Serum
+HPRD_01862,TNFRSF1B,7133,0.0-447.8,pg/ml,Multiplex immunobead assay,Serum,17438101,22.6,ng/ml,Serum
+HPRD_01862,TNFRSF1B,7133,3.81 ± 0.58,ng/ml,Immunoassay,Plasma,12351485,4.4,ng/ml,Plasma
+HPRD_01862,TNFRSF1B,7133,2.0±0.2,ng/ml,ELISA,Plasma,15556049,,,
+HPRD_01862,TNFRSF1B,7133,3-22.6,ng/ml,ELISA,Serum,15542448,,,
+HPRD_01862,TNFRSF1B,7133,420-2100,pg/ml,ELISA,Serum,22112431,,,
+HPRD_01862,TNFRSF1B,7133,1.7,ng/ml,-,Plasma,15611012,,,
+HPRD_01862,TNFRSF1B,7133,4,ng/ml,-,Plasma,19690635,,,
+HPRD_02636,TNFRSF4,7293,750,pg/ml,-,Plasma,19690635,750,pg/ml,Plasma
+HPRD_01074,TNFRSF8,943,330,pg/ml,Immunoassay,Plasma,16038022,330,pg/ml,Plasma
+HPRD_04914,TNFSF13B,10673,3.1-3.9,ng/ml,ELISA,Plasma,21849293,,,
+HPRD_04914,TNFSF13B,10673,2.5,ng/ml,-,Plasma,19690635,2.6,ng/ml,Plasma
+HPRD_08930,TNNC1,7134,10,ng/ml,Spectral counting,Plasma,21632744,10,ng/ml,Plasma
+HPRD_11769,TNNI3,7137,300-1500,pg/ml,ELISA,Plasma,11169232,,,
+HPRD_11769,TNNI3,7137,800-3800,pg/ml,ELISA,Plasma,11169232,,,
+HPRD_11769,TNNI3,7137,1,ng/ml,-,Plasma,15611012,3.8,ug/ml,Plasma
+HPRD_01844,TNNT2,7139,3,pg/ml,-,Plasma,15611012,3,pg/ml,Plasma
+HPRD_02993,TNXB,7148,70,ng/ml,Spectral counting,Plasma,21632744,70,ng/ml,Plasma
+HPRD_02993,TNXB,7148,269-657,ng/ml,ELISA,Serum,16567571,657,ng/ml,Serum
+HPRD_03587,TP73,7161,3.8,ug/ml,Spectral counting,Plasma,21632744,3.8,ug/ml,Plasma
+HPRD_01833,TPI1,7167,200,ng/ml,Spectral counting,Plasma,21632744,200,ng/ml,Plasma
+HPRD_01839,TPM1,7168,340,ng/ml,Spectral counting,Plasma,21632744,340,ng/ml,Plasma
+HPRD_01839,TPM1,7168,2,ng/ml,-,Plasma,15611012,,,
+HPRD_01839,TPM1,7168,2,ng/ml,-,Plasma,19690635,,,
+HPRD_11768,TPM2,7169,340,ng/ml,Spectral counting,Plasma,21632744,340,ng/ml,Plasma
+HPRD_01840,TPM3,7170,340,ng/ml,Spectral counting,Plasma,21632744,340,ng/ml,Plasma
+HPRD_11734,TPM4,7171,340,ng/ml,Spectral counting,Plasma,21632744,340,ng/ml,Plasma
+HPRD_06415,TPP1,1200,1.7,ng/ml,Spectral counting,Plasma,21632744,1.7,ng/ml,Plasma
+HPRD_16710,TPPP3,51673,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_15979,TPT1,7178,2.6,ng/ml,Spectral counting,Plasma,21632744,2.6,ng/ml,Plasma
+HPRD_05868,TRAP1,10131,2.1,ng/ml,Spectral counting,Plasma,21632744,2.1,ng/ml,Plasma
+HPRD_05472,TREM1,54210,0-5.9,ng/ml,ELISA,Serum,18317529,5.9,ng/ml,Serum
+HPRD_06493,TSR2,90121,4.4,ng/ml,Spectral counting,Plasma,21632744,4.4,ng/ml,Plasma
+HPRD_01787,TTN,7273,4.1,ng/ml,Spectral counting,Plasma,21632744,4.1,ng/ml,Plasma
+HPRD_01447,TTR,7276,770,ug/ml,Spectral counting,Plasma,21632744,123.88,ug/ml,Blood
+HPRD_01447,TTR,7276,100-400,ug/ml,Single radial immunodiffusion,Serum,4172868,400,ug/ml,Serum
+HPRD_01447,TTR,7276,109.6,ug/ml,Multiple reaction monitoring,Plasma,23245390,770,ug/ml,Plasma
+HPRD_01447,TTR,7276,123.88,ug/ml,Multiple reaction monitoring,Blood,23221968,,,
+HPRD_01447,TTR,7276,315.129,ug/ml,Multiple reaction monitoring,Plasma,23592487,,,
+HPRD_01447,TTR,7276,260,ug/ml,Immunoassay,Plasma,16038022,,,
+HPRD_01447,TTR,7276,260,ug/ml,-,Plasma,19572557,,,
+HPRD_01447,TTR,7276,260,ug/ml,-,Plasma,20677825,,,
+HPRD_01447,TTR,7276,300,ug/ml,-,Plasma,12938928,,,
+HPRD_01447,TTR,7276,300,ug/ml,-,Plasma,19690635,,,
+HPRD_01447,TTR,7276,345,ug/ml,-,Plasma,15627965,,,
+HPRD_06747,TUBA1C,84790,91,ng/ml,Spectral counting,Plasma,21632744,91,ng/ml,Plasma
+HPRD_01851,TUBA4A,7277,91,ng/ml,Spectral counting,Plasma,21632744,91,ng/ml,Plasma
+HPRD_18243,TUBB1,81027,27,ng/ml,Spectral counting,Plasma,21632744,27,ng/ml,Plasma
+HPRD_04044,TUBB3,10381,27,ng/ml,Spectral counting,Plasma,21632744,27,ng/ml,Plasma
+HPRD_18244,TUBB8,347688,27,ng/ml,Spectral counting,Plasma,21632744,27,ng/ml,Plasma
+HPRD_08464,TWF2,11344,4.4,ng/ml,Spectral counting,Plasma,21632744,4.4,ng/ml,Plasma
+HPRD_01761,TXN,7295,16,ng/ml,Spectral counting,Plasma,21632744,16,ng/ml,Plasma
+HPRD_01761,TXN,7295,0.8 ± 0.6,ng/ml,ELISA,Plasma,21457743,,,
+HPRD_11633,TXNDC12,51060,1.4,ng/ml,Spectral counting,Plasma,21632744,1.4,ng/ml,Plasma
+HPRD_18249,TXNDC5,81567,10,ng/ml,Spectral counting,Plasma,21632744,10,ng/ml,Plasma
+HPRD_03068,TXNRD1,7296,18,ng/ml,-,Plasma,19690635,18,ng/ml,Plasma
+HPRD_18519,TXNRD2,10587,3.8,ng/ml,Spectral counting,Plasma,21632744,7.4,ng/ml,Plasma
+HPRD_02440,UBA1,7317,8.5,ng/ml,Spectral counting,Plasma,21632744,8.5,ng/ml,Plasma
+HPRD_04269,UBE2D3,7323,8.5,ng/ml,Spectral counting,Plasma,21632744,8.5,ng/ml,Plasma
+HPRD_04762,UBE2L3,7332,4.1,ng/ml,Spectral counting,Plasma,21632744,4.1,ng/ml,Plasma
+HPRD_04725,UBE2N,7334,3.7,ng/ml,Spectral counting,Plasma,21632744,3.7,ng/ml,Plasma
+HPRD_01877,UCHL1,7345,37,ng/ml,Spectral counting,Plasma,21632744,37,ng/ml,Plasma
+HPRD_12064,UGGT1,56886,1.6,ng/ml,Spectral counting,Plasma,21632744,1.6,ng/ml,Plasma
+HPRD_08934,UGP2,7360,21,ng/ml,Spectral counting,Plasma,21632744,21,ng/ml,Plasma
+HPRD_11771,UMOD,7369,1.4,ng/ml,Spectral counting,Plasma,21632744,1.4,ng/ml,Plasma
+HPRD_10598,UNC13D,201294,1.7,ng/ml,Spectral counting,Plasma,21632744,1.7,ng/ml,Plasma
+HPRD_18070,UNC45A,55898,130,ng/ml,Spectral counting,Plasma,21632744,130,ng/ml,Plasma
+HPRD_09451,UPB1,51733,2.7,ng/ml,Spectral counting,Plasma,21632744,2.7,ng/ml,Plasma
+HPRD_17178,URB2,9816,5,ng/ml,Spectral counting,Plasma,21632744,5,ng/ml,Plasma
+HPRD_08712,UROC1,131669,1.9,ng/ml,Spectral counting,Plasma,21632744,1.9,ng/ml,Plasma
+HPRD_01441,UROD,7389,10,ng/ml,Spectral counting,Plasma,21632744,10,ng/ml,Plasma
+HPRD_06279,USP14,9097,1.5,ng/ml,Spectral counting,Plasma,21632744,1.5,ng/ml,Plasma
+HPRD_00547,UTRN,7402,3.9,ng/ml,Spectral counting,Plasma,21632744,3.9,ng/ml,Plasma
+HPRD_10587,VASN,114990,84,ng/ml,Spectral counting,Plasma,21632744,84,ng/ml,Plasma
+HPRD_10587,VASN,114990,260,ug/ml,-,Plasma,20204147,,,
+HPRD_03415,VASP,7408,15,ng/ml,Spectral counting,Plasma,21632744,15,ng/ml,Plasma
+HPRD_01888,VCAM1,7412,33,ng/ml,Spectral counting,Plasma,21632744,94,ng/ml,Plasma
+HPRD_01888,VCAM1,7412,94,ng/ml,Immunoassay,Plasma,16038022,1.196,ug/ml,Serum
+HPRD_01888,VCAM1,7412,382-1196,ng/ml,ELISA,Serum,19276301,,,
+HPRD_01888,VCAM1,7412,94,ng/ml,-,Plasma,16335952,,,
+HPRD_01888,VCAM1,7412,94,ng/ml,-,Plasma,19572557,,,
+HPRD_01888,VCAM1,7412,94,ng/ml,-,Plasma,20677825,,,
+HPRD_01888,VCAM1,7412,480,ng/ml,-,Plasma,19690635,,,
+HPRD_01888,VCAM1,7412,483,ng/ml,-,Plasma,20698492,,,
+HPRD_00340,VCAN,1462,6.6,ng/ml,Spectral counting,Plasma,21632744,6.6,ng/ml,Plasma
+HPRD_01900,VCL,7414,90,ng/ml,Spectral counting,Plasma,21632744,90,ng/ml,Plasma
+HPRD_03013,VCP,7415,17,ng/ml,Spectral counting,Plasma,21632744,17,ng/ml,Plasma
+HPRD_05137,VDAC1,7416,3.5,ng/ml,Spectral counting,Plasma,21632744,3.5,ng/ml,Plasma
+HPRD_01889,VEGFA,7422,0-1.15,ng/ml,Multiplex immunobead assay,Serum,17438101,1.15,ng/ml,Serum
+HPRD_01889,VEGFA,7422,0-2.7,pg/ml,Multiplex beadbased Luminex technology,Plasma,21300928,86.4,pg/ml,Plasma
+HPRD_01889,VEGFA,7422,0-134.2,pg/ml,Enzyme immunoassay,Serum,18640828,86.4,pg/ml,Plasma
+HPRD_01889,VEGFA,7422,100.8±43.2,pg/ml,ELISA,Serum,12574959,,,
+HPRD_01889,VEGFA,7422,10-775,pg/ml,ELISA,Serum,15070666,,,
+HPRD_01889,VEGFA,7422,13.3-86.4,pg/ml,ELISA,Plasma,20473593,,,
+HPRD_01889,VEGFA,7422,13.3-86.4,pg/ml,ELISA,Plasma,20615083,,,
+HPRD_01889,VEGFA,7422,13.4-399,pg/ml,ELISA,Serum,19276301,,,
+HPRD_01889,VEGFA,7422,18.77-119.24,pg/ml,ELISA,Serum,21539846,,,
+HPRD_01889,VEGFA,7422,19-55,pg/ml,ELISA,Plasma,12814387,,,
+HPRD_01889,VEGFA,7422,21.1-18.5,pg/ml,ELISA,Serum,14760936,,,
+HPRD_01889,VEGFA,7422,21-217.4,pg/ml,ELISA,Serum,11566625,,,
+HPRD_01889,VEGFA,7422,25-60,pg/ml,ELISA,Plasma,14511360,,,
+HPRD_01889,VEGFA,7422,38-85,pg/ml,ELISA,Plasma,14652844,,,
+HPRD_01889,VEGFA,7422,32,pg/ml,-,Plasma,15611012,,,
+HPRD_01889,VEGFA,7422,200,pg/ml,-,Plasma,19690635,,,
+HPRD_03717,VGF,7425,48,ng/ml,Spectral counting,Plasma,21632744,48,ng/ml,Plasma
+HPRD_01899,VIM,7431,28,ug/ml,Spectral counting,Plasma,21632744,28,ug/ml,Plasma
+HPRD_04651,VNN1,8876,56,ng/ml,Spectral counting,Plasma,21632744,56,ng/ml,Plasma
+HPRD_02286,VSIG4,11326,2.4,ng/ml,Spectral counting,Plasma,21632744,2.4,ng/ml,Plasma
+HPRD_14566,VSTM2A,222008,4.7,ng/ml,Spectral counting,Plasma,21632744,4.7,ng/ml,Plasma
+HPRD_01902,VTN,7448,35,ug/ml,Spectral counting,Plasma,21632744,530,ug/ml,Serum
+HPRD_01902,VTN,7448,60-170,ug/ml,Single radial immunodiffusion,Serum,14629629,153.55,ug/ml,Plasma
+HPRD_01902,VTN,7448,104 ± 25,ug/ml,Radial Immunodiffusion,Serum,14629629,,,
+HPRD_01902,VTN,7448,19.7,ug/ml,Multiple reaction monitoring,Plasma,23592487,,,
+HPRD_01902,VTN,7448,21,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01902,VTN,7448,37.1,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01902,VTN,7448,153.55,ug/ml,Multiple reaction monitoring,Plasma,23245390,,,
+HPRD_01902,VTN,7448,366,ng/ml,Multiple reaction monitoring,Plasma,22577024,,,
+HPRD_01902,VTN,7448,240-530,ug/ml,Enzyme immunoassay,Serum,7680696,,,
+HPRD_01902,VTN,7448,150,ug/ml,-,Plasma,12938928,,,
+HPRD_01902,VTN,7448,260,ug/ml,-,Plasma,15611012,,,
+HPRD_01902,VTN,7448,260,ug/ml,-,Plasma,20204147,,,
+HPRD_01902,VTN,7448,340,ug/ml,-,Plasma,12938928,,,
+HPRD_01902,VTN,7448,340,ug/ml,-,Plasma,15627965,,,
+HPRD_01902,VTN,7448,340,ng/ml,-,Plasma,19690635,,,
+HPRD_01902,VTN,7448,340,ug/ml,-,Plasma,20677825,,,
+HPRD_01902,VTN,7448,240-530,ug/ml,-,Serum,21090636,,,
+HPRD_01906,VWF,7450,530,ng/ml,Spectral counting,Plasma,21632744,,,
+HPRD_01906,VWF,7450,7.698,ug/ml,Multiple reaction monitoring,Plasma,23592487,,,
+HPRD_01906,VWF,7450,8.11,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01906,VWF,7450,8.7,ug/ml,Multiple reaction monitoring,Plasma,22547352,,,
+HPRD_01906,VWF,7450,1300,ng/ml,Immunoassay,Plasma,16038022,,,
+HPRD_01906,VWF,7450,7.5,ug/ml,-,Plasma,12938928,,,
+HPRD_01906,VWF,7450,7.5,ug/ml,-,Plasma,15627965,,,
+HPRD_01906,VWF,7450,110,ng/ml,-,Plasma,19690635,,,
+HPRD_01906,VWF,7450,700,ng/ml,-,Plasma,15611012,,,
+HPRD_01906,VWF,7450,1300,ng/ml,-,Plasma,19572557,,,
+HPRD_01906,VWF,7450,1300,ng/ml,-,Plasma,20677825,8.7,ug/ml,Plasma
+HPRD_01845,WARS,7453,6,ng/ml,Spectral counting,Plasma,21632744,6,ng/ml,Plasma
+HPRD_09199,WDR1,9948,90,ng/ml,Spectral counting,Plasma,21632744,90,ng/ml,Plasma
+HPRD_11684,WFDC2,10406,9.5,ng/ml,Spectral counting,Plasma,21632744,9.5,ng/ml,Plasma
+HPRD_16020,WISP2,8839,99,ng/ml,Spectral counting,Plasma,21632744,99,ng/ml,Plasma
+HPRD_01095,YBX1,4904,2.3,ng/ml,Spectral counting,Plasma,21632744,2.3,ng/ml,Plasma
+HPRD_03184,YWHAB,7529,180,ng/ml,Spectral counting,Plasma,21632744,180,ng/ml,Plasma
+HPRD_05457,YWHAE,7531,180,ng/ml,Spectral counting,Plasma,21632744,180,ng/ml,Plasma
+HPRD_05639,YWHAG,7532,180,ng/ml,Spectral counting,Plasma,21632744,180,ng/ml,Plasma
+HPRD_00215,YWHAH,7533,180,ng/ml,Spectral counting,Plasma,21632744,180,ng/ml,Plasma
+HPRD_00886,YWHAQ,10971,180,ng/ml,Spectral counting,Plasma,21632744,180,ng/ml,Plasma
+HPRD_03183,YWHAZ,7534,180,ng/ml,Spectral counting,Plasma,21632744,180,ng/ml,Plasma
+HPRD_11100,ZC3H11A,9877,160,ng/ml,Spectral counting,Plasma,21632744,160,ng/ml,Plasma
+HPRD_11695,ZC3H8,84524,720,ng/ml,Spectral counting,Plasma,21632744,720,ng/ml,Plasma
+HPRD_08031,ZNF671,79891,9.8,ng/ml,Spectral counting,Plasma,21632744,9.8,ng/ml,Plasma
+HPRD_03592,ZYX,7791,33,ng/ml,Spectral counting,Plasma,21632744,33,ng/ml,Plasma
